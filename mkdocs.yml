@@ -1,0 +1,147 @@
+site_name: <%= $SITE_NAME %>
+site_description: <%= $DESCRIPTION %>
+site_url: https://<%= $SUBDOMAIN %>.xn--qucu-hr5aza.cc
+repo_url: https://<%= $SUBDOMAIN %>.Quảcầu.cc/📐 Dự án/3 Thành phẩm/Phần mềm/Bộ cài/Hướng dẫn tải vault
+repo_name: Tải bản đầy đủ chức năng
+
+theme:
+    name: 'material'
+    logo: assets/meta/Logo/logo.svg
+    favicon: assets/meta/Logo/logo.svg
+    custom_dir: overrides
+    font:
+        text: Roboto Slab
+        code: Roboto Mono
+    language: vi
+    icon:
+      repo: octicons/download-16
+    palette:
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+    features:
+        - navigation.indexes
+        - navigation.top
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - search.suggest
+        - search.highlight
+        - navigation.instant
+        - header.autohide
+        
+# Extensions
+markdown_extensions:
+  - footnotes
+  - nl2br
+  - attr_list
+  - sane_lists 
+  - meta
+  - smarty
+  - tables
+  - mdx_breakless_lists
+  - def_list
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight:
+      use_pygments: true
+      anchor_linenums: true
+  - pymdownx.tasklist:
+       custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+plugins:
+  - search
+      # lang: en                      # không hiểu sao không cho build nếu có dòng này
+  - meta-descriptions
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: true
+      locale: vi
+      custom_format: "%A %d %B %Y"
+      enable_creation_date: true
+  - ezlinks:
+        wikilinks: true
+  - awesome-pages
+  - embed_file:
+      callouts: true
+      custom-attributes: 'assets/css/custom_attributes.css'
+  - custom-attributes:
+      file: 'assets/css/custom_attributes.css'
+  - callouts
+  - glightbox
+  - social:
+      cards_font: Roboto Slab
+      cards_color:
+        fill: "#009485" 
+        text: "#FFFFFF" 
+hooks:
+  - overrides/hooks/on_page_markdown.py
+  - overrides/hooks/on_env.py
+extra_javascript:
+  - javascripts/shortcuts.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets/dist/javascript.js
+extra_css:
+    - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
+    - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets/dist/styles.css
+    - assets/css/admonition.css
+    - assets/css/custom_attributes.css
+    - assets/css/customization.css
+extra:
+  SEO: assets/meta/SEO_plain.svg
+  comments: false #disable comments globally
+  generate_graph: false #generate the graph of the site
+  attachments: 'assets/img' #path to the folder where the attachments are stored
+  no-auto-h1: false #disable the automatic generation of h1 if no h1 is found
+  blog_list:
+    pagination: true #enable pagination
+    pagination_message: true #display the message "Showing x posts out of y"
+    pagination_translation: 'posts in' #message to display before the number of posts ; Add your own translation!
+    no_page_found: "Không tìm thấy trang!" #message to display when no pages are found ; Add your own translation!
+  hooks:
+    strip_comments: true  
+    fix_heading: true
+  analytics:
+    provider: google
+    property: <%= $GA_ID %>
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/quacau.sphere/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jWTk4EHFK2
+    - icon: fontawesome/brands/github
+      link: <%= $GITHUB_URL %>
