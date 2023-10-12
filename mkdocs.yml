@@ -1,8 +1,6 @@
-site_name: <%= $SITE_NAME %>
-site_description: <%= $DESCRIPTION %>
-site_url: https://<%= $SUBDOMAIN %>.xn--qucu-hr5aza.cc
-repo_url: https://<%= $SUBDOMAIN %>.Quảcầu.cc/📐 Dự án/3 Thành phẩm/Phần mềm/Bộ cài/Hướng dẫn tải vault
-repo_name: Tải bản đầy đủ chức năng
+site_name: Xử lý dữ liệu và lập trình
+site_description: 
+site_url: https://xn--lptrnh-zva6402d.xn--qucu-hr5aza.cc
 
 theme:
     name: 'material'
@@ -137,11 +135,11 @@ extra:
     fix_heading: true
   analytics:
     provider: google
-    property: <%= $GA_ID %>
+    property: G-E54SM38633
   social:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/quacau.sphere/
     - icon: fontawesome/brands/discord
       link: https://discord.gg/jWTk4EHFK2
     - icon: fontawesome/brands/github
-      link: <%= $GITHUB_URL %>
+      link: https://github.com/QuaCau-TheSphere/CV-xu-ly-du-lieu-va-lap-trinh
