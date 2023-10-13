@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-13T17:10
+updated: 2023-10-13T21:35
+title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
 alias: Trấn Kỳ
 description: Phân loại câu nhập bằng tiếng Việt tự nhiên
 filename: index
@@ -134,5 +135,4 @@ Thật ra, chương trình này không hẳn nên được đặt tên là "Phâ
 
 Bạn muốn đọc gì tiếp theo?
 
-[Lý do viết Trấn Kỳ](https://obsidian.quảcầu.cc/%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/3%20Th%C3%A0nh%20ph%E1%BA%A9m/Tr%E1%BA%A5n%20K%E1%BB%B3/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3/?utm_source=CW+%C2%BB+X%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh&utm_medium=Gi%E1%BB%9Bi+thi%E1%BB%87u+Tr%E1%BA%A5n+K%E1%BB%B3&utm_campaign=Giai+%C4%91o%E1%BA%A1n+1&utm_term=%C4%90%E1%BB%8Dc+b%C3%A0i+vi%E1%BA%BFt+tr%C3%AAn+web){ .md-button .md-button--primary }
-[[./Hướng dẫn sử dụng Trấn Kỳ/index|index]]{ .md-button .md-button--primary }
+[Lý do viết Trấn Kỳ](https://obsidian.quảcầu.cc/%F0%9F%93%90%20D%E1%BB%B1%20%C3%A1n/3%20Th%C3%A0nh%20ph%E1%BA%A9m/Tr%E1%BA%A5n%20K%E1%BB%B3/L%C3%BD%20do%20vi%E1%BA%BFt%20Tr%E1%BA%A5n%20K%E1%BB%B3/?utm_source=CW+%C2%BB+X%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh&utm_medium=Gi%E1%BB%9Bi+thi%E1%BB%87u+Tr%E1%BA%A5n+K%E1%BB%B3&utm_campaign=Giai+%C4%91o%E1%BA%A1n+1&utm_term=%C4%90%E1%BB%8Dc+b%C3%A0i+vi%E1%BA%BFt+tr%C3%AAn+web){ .md-button .md-button--primary } [[./Hướng dẫn sử dụng Trấn Kỳ/index|index]]{ .md-button .md-button--primary }

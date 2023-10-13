@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2023-10-13T17:08
+updated: 2023-10-13T21:31
 filename: index
+title: Hướng dẫn sử dụng Trấn Kỳ
 ---
 # 1. Cài đặt và sử dụng nhanh
 [[./1. Cài đặt và sử dụng nhanh/1.1 Cài đặt PowerShell, Deno, Python, Git, VS Code|1.1 Cài đặt PowerShell, Deno, Python, Git, VS Code]]
