@@ -1,6 +1,8 @@
 site_name: Xử lý dữ liệu và lập trình
 site_description: 
 site_url: https://xn--lptrnh-zva6402d.xn--qucu-hr5aza.cc
+repo_url: https://github.com/QuaCau-TheSphere/CV-xu-ly-du-lieu-va-lap-trinh
+repo_name: GitHub
 
 theme:
     name: 'material'
@@ -135,7 +137,8 @@ extra:
     fix_heading: true
   analytics:
     provider: google
-    property: G-E54SM38633
+  property: G-XHX9Q6ZB3Q
+    # property: G-E54SM38633
   social:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/quacau.sphere/
