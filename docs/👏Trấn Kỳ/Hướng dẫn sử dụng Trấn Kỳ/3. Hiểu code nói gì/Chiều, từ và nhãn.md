@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-16T13:22
-updated: 2023-09-16T13:23
+updated: 2023-10-15T00:39
 ---
 Chiều là nguyên cái cục.
 ```ts

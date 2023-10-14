@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-12T16:42
-updated: 2023-10-08T22:01
+updated: 2023-10-15T00:39
 ---
 Hai khối dữ liệu quan trọng nhất trong đây là khối khai báo và khối câu nhập. Chúng đều có $n$ chiều. Các chiều này được khai báo trong cấu hình. Trong mỗi chiều lại chứa $2$ danh sách: danh sách từ và danh sách nhãn. Ví dụ, trong chiều chi tiêu của khốiKhaiBáo $2$ danh sách này có dạng như sau:
 - danhSáchTừ:   `['rau'       , ... , 'xăng', 'nhớt xe', ... ]`
@@ -39,4 +39,4 @@ Xem thêm ưu và nhược điểm của cách biểu diễn dữ liệu này v�
 
 
 [[Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất]]
-[[../../⚡Hiểu biết sâu/Khoa học dữ liệu/Phân tích xu hướng, NLP/Mô hình trích chọn từ|Mô hình trích chọn từ]]
+[[../../../⚡Hiểu biết sâu/Khoa học dữ liệu/Phân tích xu hướng, NLP/Mô hình trích chọn từ|Mô hình trích chọn từ]]

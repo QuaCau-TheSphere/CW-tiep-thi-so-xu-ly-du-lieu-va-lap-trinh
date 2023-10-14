@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2023-10-10T16:37
+updated: 2023-10-15T00:39
 ---
 # Chỉnh launch.json
-[[../../📜 Lập trình/IDE (VS Code)/launch.json dùng để thiết lập debugger|launch.json dùng để thiết lập debugger]]
+[[../../../📜 Lập trình/IDE (VS Code)/launch.json dùng để thiết lập debugger|launch.json dùng để thiết lập debugger]]
 
 1. Mở VS Code lên
 2. Bấm vào nút ![Extensions view trong VS Code](https://code.visualstudio.com/assets/docs/editor/extension-marketplace/extensions-view-icon.png) ở thanh bên trái và kiếm `Deno extension`. Bấm cài đặt
