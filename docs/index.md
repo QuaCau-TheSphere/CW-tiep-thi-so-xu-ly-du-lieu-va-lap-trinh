@@ -2,8 +2,9 @@
 share: true
 filename: index
 created: 2023-08-25T15:39
-updated: 2023-10-13T21:56
+updated: 2023-10-15T00:13
 ---
+Đây là vault bổ sung cho [] 
 Những thứ được ghi lại:
 - Cái nào mò mẫm khi làm dự án mà ko hiểu trong vài lần đầu. Những khái niệm này là thiết yếu trong việc xây dựng mental model
 - Hiểu biết sâu
