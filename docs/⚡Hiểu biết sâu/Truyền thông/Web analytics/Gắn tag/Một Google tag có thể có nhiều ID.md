@@ -8,7 +8,7 @@ Cái ID đầu tiên là cái chính, nhưng dùng cái nào cũng được. Nh�
 ![](https://i.imgur.com/xWBvTda.png) 
 ![](https://i.imgur.com/GNuJnY5.png)
 
-Nguồn:: [[../../../../⚡Hiểu biết sâu/Ξ Nguồn/Google Support|Google Support]], [Google tag ID: Definition - Tag Manager Help](https://support.google.com/tagmanager/answer/12326985?hl=en)
+Nguồn:: [[../../../Ξ Nguồn/Google Support|Google Support]], [Google tag ID: Definition - Tag Manager Help](https://support.google.com/tagmanager/answer/12326985?hl=en)
 
 Câu hỏi:: [[./❓Measurement ID của web data stream chính là Google tag ID|❓Measurement ID của web data stream chính là Google tag ID]]
 [[./Destination ID cho GA trùng với Measurement ID của web data stream|Destination ID cho GA trùng với Measurement ID của web data stream]]
