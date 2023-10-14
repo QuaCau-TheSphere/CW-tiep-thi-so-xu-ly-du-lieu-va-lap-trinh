@@ -39,4 +39,4 @@ Xem thêm ưu và nhược điểm của cách biểu diễn dữ liệu này v�
 
 
 [[Hướng dẫn đọc code cho người thấy việc biết lập trình là quan trọng nhưng không thể biến nó trở thành ưu tiên cao nhất]]
-[[../../../⚡Hiểu biết sâu/Khoa học dữ liệu/Phân tích xu hướng, NLP/Mô hình trích chọn từ|Mô hình trích chọn từ]]
+[[../../⚡Hiểu biết sâu/Khoa học dữ liệu/Phân tích xu hướng, NLP/Mô hình trích chọn từ|Mô hình trích chọn từ]]
