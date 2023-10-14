@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-13T22:26
+updated: 2023-10-15T01:19
 title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
 alias: Trấn Kỳ
 description: Phân loại câu nhập bằng tiếng Việt tự nhiên
@@ -44,7 +44,7 @@ Kết quả đầu ra sẽ là:
 | Số tiền                     | 50000            |
 | Ghi chú                     | giảm giá         |
 
-Chương trình có thể tự động bắt được các giá trị trên nhờ vào [[2.1 Thiết lập cấu hình|cấu hình bạn đã thiết lập]] từ trước. Ở ví dụ này, bạn đã thiết lập:
+Chương trình có thể tự động bắt được các giá trị trên nhờ vào [[Thiết lập cấu hình|cấu hình bạn đã thiết lập]] từ trước. Ở ví dụ này, bạn đã thiết lập:
 - `thăn bò`, `lườn gà` thuộc nhãn `Lương thực` trong chiều `Món đồ`
 - `vợ trả` thuộc nhãn `Tiền mặt` trong chiều `Phương thức thanh toán`
 
