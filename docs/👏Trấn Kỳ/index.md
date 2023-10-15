@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-15T01:19
+updated: 2023-10-15T14:04
 title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
 alias: Trấn Kỳ
 description: Phân loại câu nhập bằng tiếng Việt tự nhiên
@@ -132,6 +132,7 @@ Thật ra, chương trình này không hẳn nên được đặt tên là "Phâ
 - **Mối quan hệ**: `Gặp @ông_A bàn về việc X, có đi ăn ở !nhà_hàng_Y 200k ck vcb`
 - **Công việc**: `Công việc A cần giao cho @bạn_B liên hệ với @@đối_tác_C tại !quán_D với chi phí dự kiến 300k ck vcb và nhận output &&item_X`
 - **Cảm xúc**: `xem phim:Inception thấy chấn động`
+- **Sức khoẻ:** `chạy bộ 100m, hít đất 30 cái`
 
 Bạn muốn đọc gì tiếp theo?
 
