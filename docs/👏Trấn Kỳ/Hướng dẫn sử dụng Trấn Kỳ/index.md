@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2023-10-15T14:04
+updated: 2023-10-15T14:21
 title: Hướng dẫn sử dụng Trấn Kỳ
 filename: index
 ---
@@ -10,13 +10,13 @@ filename: index
 [[./1. Cài đặt và sử dụng nhanh/1.2 Lấy code|1.2 Lấy code]]
 
 # 2. Thiết lập chương trình
-[[Thiết lập cấu hình|Thiết lập cấu hình]]
-[[../../⚡Hiểu biết sâu/Hiểu về YAML|Hiểu về YAML]]
-[[../../⚡Hiểu biết sâu/Sử dụng main.ts|Sử dụng main.ts]]
-[[../../⚡Hiểu biết sâu/Sử dụng tranky.py|Sử dụng tranky.py]]
+[[2. Thiết lập chương trình|2. Thiết lập chương trình]]
+[[Hiểu về YAML|Hiểu về YAML]]
+[[Sử dụng main.ts|Sử dụng main.ts]]
+[[Sử dụng tranky.py|Sử dụng tranky.py]]
 [[Thiết lập trên Fibery|Thiết lập trên Fibery]]
-[[../../⚡Hiểu biết sâu/Sử dụng Docker|Sử dụng Docker]]
-[[../../⚡Hiểu biết sâu/Chạy chương trình định kỳ|Chạy chương trình định kỳ]]
+[[Sử dụng Docker|Sử dụng Docker]]
+[[Chạy chương trình định kỳ|Chạy chương trình định kỳ]]
 # 3. Hiểu code nói gì
 [[./3. Hiểu code nói gì/3.1 Mô hình xử lý dữ liệu|3.1 Mô hình xử lý dữ liệu]]
 [[./3. Hiểu code nói gì/Chiều, từ và nhãn|Chiều, từ và nhãn]]
