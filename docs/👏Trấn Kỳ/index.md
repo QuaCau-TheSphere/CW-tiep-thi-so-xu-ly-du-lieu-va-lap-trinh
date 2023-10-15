@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-15T14:27
+updated: 2023-10-15T23:46
 title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
 alias: Trấn Kỳ
 description: Phân loại câu nhập bằng tiếng Việt tự nhiên
@@ -44,13 +44,9 @@ Kết quả đầu ra sẽ là:
 | Số tiền                     | 50000            |
 | Ghi chú                     | giảm giá         |
 
-Chương trình có thể tự động bắt được các giá trị trên nhờ vào [[Thiết lập cấu hình|cấu hình bạn đã thiết lập]] từ trước. Ở ví dụ này, bạn đã thiết lập:
-- `thăn bò`, `lườn gà` thuộc nhãn `Lương thực` trong chiều `Món đồ`
-- `vợ trả` thuộc nhãn `Tiền mặt` trong chiều `Phương thức thanh toán`
+Chương trình có thể tự động bắt được các giá trị trên nhờ vào [[Thiết lập cấu hình|cấu hình bạn đã thiết lập]] từ trước. Ở ví dụ này, bạn đã thiết lập như sau:
 
-Chi tiết cụ thể như sau:
-
-| Từ khoá từ câu nhập  | Nhãn phân loại  | Chiều dữ liệu            |
+| Từ khoá từ câu nhập...  | ...thuộc nhãn phân loại...  | ...thuộc chiều dữ liệu            |
 | -------------------- | --------------- | ------------------------ |
 | `thăn bò`, `lườn gà` | `Lương thực`    | `Món đồ`                 |
 | `vợ trả`             | `Tiền mặt`      | `Phương thức thanh toán` |
@@ -60,7 +56,7 @@ Chi tiết cụ thể như sau:
 | `giảm giá`           | Không thiết lập | `Ghi chú`                |
 
 ## Giá trị mặc định
-Sẽ có những lúc bạn muốn chương trình tự hiểu là nếu bạn không điền từ khoá gì trong chiều `Phương thức thanh toán` thì mặc định đó là `tiền mặt`.
+Ví dụ, bạn có thể thiết lập để chương trình tự hiểu là nếu bạn không điền từ khoá gì trong chiều `Phương thức thanh toán` thì mặc định đó là `tiền mặt`.
 
 ## Tiếp nhận từ khoá chưa được khai báo một cách trực tiếp
 Sẽ có những lúc bạn muốn một từ khoá nào đó chưa kịp khai báo trong cấu hình xuất ra ở kết quả. Bạn có thể thiết lập các ký tự để chương trình hiểu là dữ liệu đó nên được cho vào mục nào.
@@ -83,7 +79,7 @@ tặng dưa hấu cho @chị Iris@ 50k (sau đó mới biết chị Iris dị �
 ```
 
 ## Viết tắt 
-Sẽ có những lúc bạn muốn viết tắt `as` là `ăn sáng`, `st` là `siêu thị` cho nhanh. Nhưng bạn còn có thể dùng nó cho những câu nhập dài, và có thể thiết lập một hệ thống viết tắt cho những khoảng chi cố định hằng ngày, hằng tuần, hằng tháng.
+Ví dụ, bạn muốn viết tắt `as`, `st` cho nhanh, nhưng vẫn muốn kết quả hiện ra đầy đủ là `ăn sáng`, `siêu thị`. Bạn còn có thể dùng viết tắt cho những câu nhập phức tạp.
 
 Ví dụ:
 - `as` → `ăn sáng`
@@ -136,4 +132,4 @@ Thật ra, chương trình này không hẳn nên được đặt tên là "Phâ
 
 Bạn muốn đọc gì tiếp theo?
 
-[Lý do viết Trấn Kỳ](https://obsidian.quảcầu.cc/%F0%9F%93%90%20d%E1%BB%B1%20%C3%A1n/3%20th%C3%A0nh%20ph%E1%BA%A9m/tr%E1%BA%A5n%20k%E1%BB%B3/l%C3%BD%20do%20vi%E1%BA%BFt%20tr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=CW+X%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh+%C2%BB+Gi%E1%BB%9Bi+thi%E1%BB%87u+Tr%E1%BA%A5n+K%E1%BB%B3&utm_medium=Gi%E1%BB%9Bi+thi%E1%BB%87u&utm_campaign=C+Tr%E1%BA%A5n+K%E1%BB%B3){ .md-button .md-button--primary } [[./Hướng dẫn sử dụng Trấn Kỳ/index|Hướng dẫn sử dụng Trấn Kỳ]]{ .md-button .md-button--primary }
+[Lý do viết Trấn Kỳ](https://obsidian.quảcầu.cc/%F0%9F%93%90%20d%E1%BB%B1%20%C3%A1n/3%20th%C3%A0nh%20ph%E1%BA%A9m/tr%E1%BA%A5n%20k%E1%BB%B3/l%C3%BD%20do%20vi%E1%BA%BFt%20tr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=CW+X%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh+%C2%BB+Gi%E1%BB%9Bi+thi%E1%BB%87u+Tr%E1%BA%A5n+K%E1%BB%B3&utm_medium=Gi%E1%BB%9Bi+thi%E1%BB%87u&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3){ .md-button .md-button--primary } [[./Hướng dẫn sử dụng Trấn Kỳ/index|Hướng dẫn sử dụng Trấn Kỳ]]{ .md-button .md-button--primary }
