@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-16T16:24
+updated: 2023-10-16T20:22
 title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
 alias: Trấn Kỳ
 description: Phân loại câu nhập bằng tiếng Việt tự nhiên
@@ -100,7 +100,7 @@ Hiện tại đã có sẵn phần bổ trợ (add-on) để nhập dữ liệu 
 Google Keep là một phần mềm ghi chú rất phổ biến với mọi người. Nó:
 - Có trên iOS, Android và web
 - Mở rất nhanh và có thể mở trong tình trạng không có mạng
-- Đồng bộ hoá giữa tất cả các thiết bị
+- Đồng bộ nhanh chóng trên tất cả các thiết bị
 - Hoàn toàn miễn phí
 - Cho phép nhiều người cùng chỉnh sửa một ghi chú
 
@@ -118,7 +118,7 @@ Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể n
 - **Viết cho người phải tự học lập trình** nên:
 	- có rất nhiều ghi chú, hướng dẫn để bạn hiểu code, hiểu được cái cách một lập trình viên kiến trúc nên một chương trình thế nào 
 	- cố gắng tuân thủ [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/)
-	- script kiểm thử
+	- có script kiểm thử
 
 ![Giao diện khởi động](https://i.imgur.com/njIioJD.png)
 
