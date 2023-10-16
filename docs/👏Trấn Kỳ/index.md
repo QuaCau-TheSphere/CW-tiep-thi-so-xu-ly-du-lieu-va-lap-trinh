@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-15T23:46
+updated: 2023-10-16T16:24
 title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
 alias: Trấn Kỳ
 description: Phân loại câu nhập bằng tiếng Việt tự nhiên
@@ -114,7 +114,7 @@ Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể n
 	- chỉ sử dụng JavaScript thuần 
 	- đảm bảo regex không chạy lâu
 	- có sẵn build script để chuyển từ TypeScript sang JavaScript
-- **Viết cho người không muốn bị ràng buộc vào một nền tảng nào** nên sẽ có mã nguồn mở
+- **Viết cho người không muốn bị ràng buộc vào một nền tảng nào** nên sẽ là một [phần mềm tự do](https://www.gnu.org/philosophy/free-sw.html)
 - **Viết cho người phải tự học lập trình** nên:
 	- có rất nhiều ghi chú, hướng dẫn để bạn hiểu code, hiểu được cái cách một lập trình viên kiến trúc nên một chương trình thế nào 
 	- cố gắng tuân thủ [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/)
