@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2023-10-16T17:43
+updated: 2023-10-16T17:48
 title: Hướng dẫn sử dụng Trấn Kỳ
 filename: index
 ---
@@ -10,7 +10,7 @@ filename: index
 [[./1. Cài đặt và sử dụng nhanh/1.2 Lấy code|1.2 Lấy code]]
 
 # 2. Thiết lập chương trình
-[[./ươn/ươn|ươn]]
+[[./ươ/ươ|ươ]]
 [[../../Untitled/Hiểu về YAML|Hiểu về YAML]]
 [[../../Untitled/Sử dụng main.ts|Sử dụng main.ts]]
 [[../../Untitled/Sử dụng tranky.py|Sử dụng tranky.py]]
