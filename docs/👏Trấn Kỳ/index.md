@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-16T20:22
+updated: 2023-10-16T22:37
 title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
 alias: Trấn Kỳ
 description: Phân loại câu nhập bằng tiếng Việt tự nhiên
@@ -120,8 +120,7 @@ Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể n
 	- cố gắng tuân thủ [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/)
 	- có script kiểm thử
 
-![Giao diện khởi động](https://i.imgur.com/njIioJD.png)
-
+![Giao diện khởi động](https://i.imgur.com/rBe2iQ9.png)
 # Không chỉ mỗi phân loại thu chi
 Thật ra, chương trình này không hẳn nên được đặt tên là "Phân loại thu chi", vì bạn còn có thể dùng nó để phân loại nhiều thứ khác. Ví dụ:
 - **Ý tưởng**: `Kĩ thuật viết văn %topic_Writing @tác_giả_a`
