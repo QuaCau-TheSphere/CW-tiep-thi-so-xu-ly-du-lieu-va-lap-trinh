@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2023-10-16T21:40
+updated: 2023-10-18T16:23
 title: Hướng dẫn sử dụng Trấn Kỳ
 filename: index
 ---
@@ -18,6 +18,8 @@ filename: index
 [[Sử dụng Docker|Sử dụng Docker]]
 [[Chạy chương trình định kỳ|Chạy chương trình định kỳ]]
 # 3. Hiểu code nói gì
+Phần này sẽ cố gắng cung cấp các khái niệm thiết yếu trong việc giúp bạn xây dựng mental model cho code, để bạn hiểu được cái cách một lập trình viên kiến trúc nên một chương trình thế nào. Chúng sẽ cố gắng sử dụng các phép so sánh, ẩn dụ để tạo sự tương phản giữa các định nghĩa, ý tưởng (juxtaposition) và từ đó làm rõ được ý đồ thiết kế (design choice) chương trình này.
+
 [[./3. Hiểu code nói gì/3.1 Mô hình xử lý dữ liệu|3.1 Mô hình xử lý dữ liệu]]
 [[./3. Hiểu code nói gì/Chiều, từ và nhãn|Chiều, từ và nhãn]]
 [[./3. Hiểu code nói gì/Hướng dẫn debug|Hướng dẫn debug]]
