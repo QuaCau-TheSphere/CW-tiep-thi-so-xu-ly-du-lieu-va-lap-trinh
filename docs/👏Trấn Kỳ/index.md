@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-18T16:23
+updated: 2023-10-18T16:38
 title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
 alias: Trấn Kỳ
 description: Phân loại câu nhập bằng tiếng Việt tự nhiên
@@ -21,7 +21,7 @@ Nếu bạn là người cần phân loại tất cả các chi tiêu của mìn
 - [x] Không có bất cứ quảng cáo mời mọc hoặc theo dõi dữ liệu nào
 
 Thì chương trình này dành cho bạn.
-![[../assets/attachments/Hemi Head_med.png|Hemi Head_med.png]]
+![Hemi Head_med.png](../assets/attachments/Hemi%20Head_med.png#)
 # Tính năng
 ## Phân loại thông tin
 Ví dụ, với câu nhập đầu vào là:
@@ -44,7 +44,7 @@ Kết quả đầu ra sẽ là:
 | Số tiền                     | 50000            |
 | Ghi chú                     | giảm giá         |
 
-Chương trình có thể tự động bắt được các giá trị trên nhờ vào [[Thiết lập cấu hình|cấu hình bạn đã thiết lập]] từ trước. Ở ví dụ này, bạn đã thiết lập như sau:
+Chương trình có thể tự động bắt được các giá trị trên nhờ vào [cấu hình bạn đã thiết lập](2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh.md#) từ trước. Ở ví dụ này, bạn đã thiết lập như sau:
 
 | Từ khoá từ câu nhập...  | ...thuộc nhãn phân loại...  | ...thuộc chiều dữ liệu            |
 | -------------------- | --------------- | ------------------------ |
@@ -94,7 +94,7 @@ Ví dụ, nếu lúc thiết lập cấu hình bạn có khai báo ba từ khoá
 Ví dụ, từ khoá `ăn trưa với` vừa có thể thuộc nhãn `Mối quan hệ`, vừa có thể thuộc nhãn `Thực phẩm`
 
 ## Xuất, nhập dữ liệu với các chương trình khác
-![[../assets/attachments/Keep to FIbery.png|Keep to FIbery.png]]
+![Keep to FIbery.png](../assets/attachments/Keep%20to%20FIbery.png#)
 Hiện tại đã có sẵn phần bổ trợ (add-on) để nhập dữ liệu từ Google Keep và xuất dữ liệu sang Fibery. Bạn có thể tự viết những phần bổ trợ khác cho phù hợp với bạn.
 
 Google Keep là một phần mềm ghi chú rất phổ biến với mọi người. Nó:
@@ -108,17 +108,20 @@ Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể n
 
 # Các tính năng hỗ trợ khác (a.k.a. yêu cầu phi chức năng) 
 - **Viết cho người Việt** nên:
-	- xử lý được từ ghép và [[../📜 Lập trình/Regex, Unicode, tiếng Việt, emoji/Regex/Tiếng Việt có 2 cách đặt dấu|các cách đặt dấu khác nhau]]
-	- tên biến, tên hàm hoàn toàn bằng tiếng Việt
+	- Xử lý được từ ghép và [các cách đặt dấu thanh khác nhau](../%F0%9F%93%9C%20L%E1%BA%ADp%20tr%C3%ACnh/Regex,%20Unicode,%20ti%E1%BA%BFng%20Vi%E1%BB%87t,%20emoji/Regex/Ti%E1%BA%BFng%20Vi%E1%BB%87t%20c%C3%B3%202%20c%C3%A1ch%20%C4%91%E1%BA%B7t%20d%E1%BA%A5u%20thanh.md#)
+	- Tên biến, tên hàm hoàn toàn bằng tiếng Việt
 - **Viết cho người cần sử dụng trên các webapp khác** như Fibery, Google Sheet nên:
-	- chỉ sử dụng JavaScript thuần 
-	- đảm bảo regex không chạy lâu
-	- có sẵn build script để chuyển từ TypeScript sang JavaScript
+	- Chỉ sử dụng JavaScript thuần 
+	- Đảm bảo regex không chạy lâu
+	- Có sẵn build script để chuyển từ TypeScript sang JavaScript
 - **Viết cho người không muốn bị ràng buộc vào một nền tảng nào** nên sẽ là một [phần mềm tự do](https://www.gnu.org/philosophy/free-sw.html)
 - **Viết cho người phải tự học lập trình** nên:
-	- có rất nhiều ghi chú, hướng dẫn để cung cấp các khái niệm thiết yếu trong việc giúp bạn xây dựng mental model cho code, để bạn hiểu được cái cách một lập trình viên kiến trúc nên một chương trình thế nào. Chúng sẽ cố gắng sử dụng các phép so sánh, ẩn dụ để tạo sự tương phản giữa các định nghĩa, ý tưởng (juxtaposition) và từ đó làm rõ được ý đồ thiết kế (design choice) chương trình này
-	- cố gắng tuân thủ [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/)
-	- có script kiểm thử
+	- Có rất nhiều ghi chú, hướng dẫn để cung cấp các khái niệm thiết yếu trong việc giúp bạn xây dựng mental model cho code, để bạn hiểu được cái cách một lập trình viên kiến trúc nên một chương trình thế nào. Những thứ sẽ hay được sử dụng:
+		- Các phép so sánh, ẩn dụ, 
+		- Các sắp đặt để tạo sự tương phản (juxtaposition) giữa các định nghĩa, ý tưởng 
+		- Ý đồ thiết kế (design choice) chương trình 
+	- Tên commit cố gắng tuân thủ [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/)
+	- Có script kiểm thử
 
 ![Giao diện khởi động](https://i.imgur.com/rBe2iQ9.png)
 # Không chỉ mỗi phân loại thu chi
@@ -131,4 +134,4 @@ Thật ra, chương trình này không hẳn nên được đặt tên là "Phâ
 
 Bạn muốn đọc gì tiếp theo?
 
-[Lý do viết Trấn Kỳ](https://obsidian.quảcầu.cc/%F0%9F%93%90%20d%E1%BB%B1%20%C3%A1n/3%20th%C3%A0nh%20ph%E1%BA%A9m/tr%E1%BA%A5n%20k%E1%BB%B3/l%C3%BD%20do%20vi%E1%BA%BFt%20tr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=CW+X%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh+%C2%BB+Gi%E1%BB%9Bi+thi%E1%BB%87u+Tr%E1%BA%A5n+K%E1%BB%B3&utm_medium=Gi%E1%BB%9Bi+thi%E1%BB%87u&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3){ .md-button .md-button--primary } [[./Hướng dẫn sử dụng Trấn Kỳ/index|Hướng dẫn sử dụng Trấn Kỳ]]{ .md-button .md-button--primary }
+[Lý do viết Trấn Kỳ](https://obsidian.quảcầu.cc/%F0%9F%93%90%20d%E1%BB%B1%20%C3%A1n/3%20th%C3%A0nh%20ph%E1%BA%A9m/tr%E1%BA%A5n%20k%E1%BB%B3/l%C3%BD%20do%20vi%E1%BA%BFt%20tr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=CW+X%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh+%C2%BB+Gi%E1%BB%9Bi+thi%E1%BB%87u+Tr%E1%BA%A5n+K%E1%BB%B3&utm_medium=Gi%E1%BB%9Bi+thi%E1%BB%87u&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3){ .md-button .md-button--primary } [Hướng dẫn sử dụng Trấn Kỳ](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3/index.md#){ .md-button .md-button--primary }
