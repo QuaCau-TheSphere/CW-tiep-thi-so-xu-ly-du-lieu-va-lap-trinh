@@ -1,27 +1,27 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2023-09-23T14:28
+updated: 2023-10-18T16:35
 ---
 - Quy tắc kiểu cũ có phần căn cứ trên nhãn quan, giữ vị trí dấu ở giữa hay gần giữa mỗi từ cho cân bằng. VD: `hòa`
 - Quy tắc kiểu mới căn cứ trên [ngữ âm học](https://vi.wikipedia.org/wiki/Ng%E1%BB%AF_%C3%A2m_h%E1%BB%8Dc "Ngữ âm học") muốn đối chiếu chữ và âm. VD `hoà`
 
-Nguồn:: [[../../../⚡Hiểu biết sâu/Khoa học dữ liệu/Phân tích mạng lưới/Wikipedia|Wikipedia]], [Quy tắc đặt dấu thanh trong chữ quốc ngữ – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Quy_t%E1%BA%AFc_%C4%91%E1%BA%B7t_d%E1%BA%A5u_thanh_trong_ch%E1%BB%AF_qu%E1%BB%91c_ng%E1%BB%AF)
+Nguồn:: [Wikipedia](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u/Ph%C3%A2n%20t%C3%ADch%20m%E1%BA%A1ng%20l%C6%B0%E1%BB%9Bi/Wikipedia.md#), [Quy tắc đặt dấu thanh trong chữ quốc ngữ – Wikipedia tiếng Việt](https://vi.wikipedia.org/wiki/Quy_t%E1%BA%AFc_%C4%91%E1%BA%B7t_d%E1%BA%A5u_thanh_trong_ch%E1%BB%AF_qu%E1%BB%91c_ng%E1%BB%AF)
 
 Quy tắc cũ chỉ khác với quy tắc mới ở những từ không có phụ âm cuối. Nếu có phụ âm cuối thì giống như nhau
 
-# Đổi tất cả kiểu cũ sang kiểu mới
+# Snippet đổi tất cả kiểu cũ sang kiểu mới
 ```js
 const kiểuCũ = ['òa', 'óa', 'ỏa', 'õa', 'ọa', 'òe', 'óe', 'ỏe', 'õe', 'ọe', 'ùy', 'úy', 'ủy', 'ũy', 'ụy']
-
 const kiểuMới = ['oà', 'oá', 'oả', 'oã', 'oạ', 'oè', 'oé', 'oẻ', 'oẽ', 'oẹ', 'uỳ', 'uý', 'uỷ', 'uỹ', 'uỵ']
-
 for (const k in kiểuCũ) {
 	if (câuNhập.includes(kiểuCũ[k])) {
 		câuNhập = câuNhập.replaceAll(kiểuCũ[k], kiểuMới[k])
 	}
 }
 ```
+
+---
 
 # Câu lệnh Regex để bắt lỗi đặt dấu thanh trong tiếng Việt
 
