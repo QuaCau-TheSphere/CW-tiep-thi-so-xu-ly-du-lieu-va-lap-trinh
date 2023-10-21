@@ -11,7 +11,7 @@ Khi học lập trình hướng đối tượng (Object-Oriented Programming, OO
 
 SOLID, ở khía cạnh khác, lại là các _nguyên lý thiết kế_ trong OOP. Hiểu một cách đơn giản, các nguyên lý của OOP mô tả cách thức hoạt động, còn các nguyên lý SOLID mô tả cách thức vận dụng của OOP trong lập trình thực tế.
 
-Việc tuân thủ theo SOLID giúp thiết kế (và code) phần mềm dễ đọc, dễ test, uyển chuyển, dễ bảo trì. Bạn nên hiểu rằng [[../../../../⚡Hiểu biết sâu/Khoa học máy tính/Code phần mềm chỉ chiếm khoảng 1 phần 3 thời gian, còn lại là dành cho bảo trì (thêm bớt chức năng, fix lỗi, v.v.)|khâu code phần mềm chỉ chiếm khoảng 13 thời gian. Còn lại là dành cho khâu bảo trì (như thêm bớt chức năng, fix lỗi)]]. SOLID giúp ích cực lớn cho khâu này.
+Việc tuân thủ theo SOLID giúp thiết kế (và code) phần mềm dễ đọc, dễ test, uyển chuyển, dễ bảo trì. Bạn nên hiểu rằng [khâu code phần mềm chỉ chiếm khoảng 13 thời gian. Còn lại là dành cho khâu bảo trì (như thêm bớt chức năng, fix lỗi)](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/Khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh/Code%20ph%E1%BA%A7n%20m%E1%BB%81m%20ch%E1%BB%89%20chi%E1%BA%BFm%20kho%E1%BA%A3ng%201%20ph%E1%BA%A7n%203%20th%E1%BB%9Di%20gian,%20c%C3%B2n%20l%E1%BA%A1i%20l%C3%A0%20d%C3%A0nh%20cho%20b%E1%BA%A3o%20tr%C3%AC%20(th%C3%AAm%20b%E1%BB%9Bt%20ch%E1%BB%A9c%20n%C4%83ng,%20fix%20l%E1%BB%97i,%20v.v.).md#). SOLID giúp ích cực lớn cho khâu này.
 
 Các nguyên lý SOLID khá khó tiêu đối với sinh viên hay thậm chí đối với lập trình viên mới vào nghề. Các [chương trình đào tạo đại học](https://tuhocict.com/xay-dung-chuong-trinh-tu-dao-tao-cong-nghe-thong-tin/) cũng thường chỉ dạy code và công nghệ chứ không chú trọng về cách vận dụng. Vì vậy, việc tự học các vấn đề này là vô cùng quan trọng đối với sinh viên theo các hướng/chuyên ngành liên quan đến phát triển ứng dụng. Việc hiểu và vận dụng SOLID cũng có thể được dùng để đo sự tiến bộ của bạn trên con đường lập trình viên.
 
@@ -33,4 +33,4 @@ SOLID không gắn với ngôn ngữ hoặc công nghệ cụ thể nào. Các n
 
 Nói luôn là chúng ta sẽ không viết lại mô tả chính thức của các nguyên lý này như trong sách. Chúng ta sẽ cố diễn đạt nó bằng những từ ngữ đơn giản dễ hiểu. Các bạn cũng nên hiểu rằng đây là các _nguyên lý_, không phải _kỹ thuật_ cụ thể. Bạn hiểu nguyên lý để định hướng cho cách làm.
 
-Nguồn:: [[../../../../⚡Hiểu biết sâu/Ξ Nguồn/tuhocict|tuhocict]], [Bộ nguyên lý SOLID - lập trình viên tương lai cần biết | Tự học ICT](https://tuhocict.com/bo-nguyen-ly-solid-lap-trinh-vien-tuong-lai-can-biet/)
+Nguồn:: [tuhocict](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/tuhocict.md#), [Bộ nguyên lý SOLID - lập trình viên tương lai cần biết | Tự học ICT](https://tuhocict.com/bo-nguyen-ly-solid-lap-trinh-vien-tuong-lai-can-biet/)

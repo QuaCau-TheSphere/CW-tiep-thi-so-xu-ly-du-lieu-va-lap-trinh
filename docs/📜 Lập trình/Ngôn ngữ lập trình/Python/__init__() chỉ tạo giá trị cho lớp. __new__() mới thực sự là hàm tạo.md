@@ -55,4 +55,4 @@ b3 = Book('A new book')
 
 Dễ thấy rằng, lệnh tạo object bằng hàm tạo không khác biệt gì so với lời gọi hàm thông thường.
 
-Nguồn:: [[../../../⚡Hiểu biết sâu/Ξ Nguồn/tuhocict|tuhocict]], [Giới thiệu chung về class trong Python, constructor | Tự học ICT](https://tuhocict.com/class-trong-python-khai-niem-khai-bao/)
+Nguồn:: [tuhocict](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/tuhocict.md#), [Giới thiệu chung về class trong Python, constructor | Tự học ICT](https://tuhocict.com/class-trong-python-khai-niem-khai-bao/)

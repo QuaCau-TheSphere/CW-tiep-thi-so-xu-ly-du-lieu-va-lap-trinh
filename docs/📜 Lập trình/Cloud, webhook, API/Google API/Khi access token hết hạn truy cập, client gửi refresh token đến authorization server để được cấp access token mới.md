@@ -5,4 +5,4 @@ share: True
 
 Việc có mặt của _refresh token_ giúp cho **Client** có thể lấy lại được _access token_ mà không cần phải nhận xác thực lại từ phía người dùng. Nếu người dùng đăng xuất, _refresh token_ cũng sẽ bị xóa theo.
 
-Nguồn:: [[../../../⚡Hiểu biết sâu/Ξ Nguồn/Viblo|Viblo]], [Tìm hiểu đôi chút về OAuth2](https://viblo.asia/p/tim-hieu-doi-chut-ve-oauth2-eW65GvMLlDO)
+Nguồn:: [Viblo](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Viblo.md#), [Tìm hiểu đôi chút về OAuth2](https://viblo.asia/p/tim-hieu-doi-chut-ve-oauth2-eW65GvMLlDO)

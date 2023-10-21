@@ -12,4 +12,4 @@ But he talked about how in the very beginning when, mostly at Apple, they were s
 [39:19] **Maggie**: What am I ejecting? They, you know, they really struggled to do that and now we take it all for granted, but that's where it becomes tacit knowledge that we don't realize that, it's just embedded in us.
 
 
-Nguồn:: [[Maggie Appleton]], [MA 12: Maggie Appleton on Embodiment Through Metaphors - Maintainers Anonymous](https://maintainersanonymous.com/metaphor/#t=37:57)
+Nguồn:: [Maggie Appleton](Maggie%20Appleton.md#), [MA 12: Maggie Appleton on Embodiment Through Metaphors - Maintainers Anonymous](https://maintainersanonymous.com/metaphor/#t=37:57)

@@ -51,5 +51,5 @@ is a better representation than
 ```
 
 even though technically you can use either. I hope I was able to convey(put into words) my thinking in the right manner.
-Nguồn:: [[../../../⚡Hiểu biết sâu/Ξ Nguồn/Stack Overflow|Stack Overflow]], [Array of objects vs Object of Objects](https://stackoverflow.com/a/53216882/3416774)
+Nguồn:: [Stack Overflow](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Stack%20Overflow.md#), [Array of objects vs Object of Objects](https://stackoverflow.com/a/53216882/3416774)
 

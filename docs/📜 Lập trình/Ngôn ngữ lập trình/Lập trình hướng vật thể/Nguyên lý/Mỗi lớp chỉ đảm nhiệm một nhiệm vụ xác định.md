@@ -25,4 +25,4 @@ Việc tạo nhiều class nhỏ cũng có lợi thế so với một vài class
 
 Để làm được việc này bạn phải phân tích rất rõ yêu cầu của bài toán. Từ đó đưa ra những chức năng chi tiết và hệ thống hóa chúng. Từ đó bạn xác định những class cần xây dựng sao cho mỗi class đảm nhiệm đúng một nhiệm vụ trong đó.
 
-Nguồn:: [[../../../../⚡Hiểu biết sâu/Ξ Nguồn/tuhocict|tuhocict]], [Bộ nguyên lý SOLID - lập trình viên tương lai cần biết | Tự học ICT](https://tuhocict.com/bo-nguyen-ly-solid-lap-trinh-vien-tuong-lai-can-biet/)
+Nguồn:: [tuhocict](../../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/tuhocict.md#), [Bộ nguyên lý SOLID - lập trình viên tương lai cần biết | Tự học ICT](https://tuhocict.com/bo-nguyen-ly-solid-lap-trinh-vien-tuong-lai-can-biet/)

@@ -1,7 +1,7 @@
 ---
 share: True
 ---
-[[./generic là cách để giữ được tính chung chung mà vẫn không bị mất thông tin|generic là cách để giữ được tính chung chung mà vẫn không bị mất thông tin]]
+[generic là cách để giữ được tính chung chung mà vẫn không bị mất thông tin](./generic%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20gi%E1%BB%AF%20%C4%91%C6%B0%E1%BB%A3c%20t%C3%ADnh%20chung%20chung%20m%C3%A0%20v%E1%BA%ABn%20kh%C3%B4ng%20b%E1%BB%8B%20m%E1%BA%A5t%20th%C3%B4ng%20tin.md#)
 Biến (variable) thì để trong `( )`, còn biến kiểu (type variable) thì để trong `< >`
 
 Ví dụ, đây là cách viết hàm như bình thường:

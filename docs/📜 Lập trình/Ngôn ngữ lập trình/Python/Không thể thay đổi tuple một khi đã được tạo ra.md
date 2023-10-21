@@ -17,4 +17,4 @@ Mặc dù list cho phép lưu trữ dữ liệu thuộc nhiều kiểu khác nha
 
 Ví dụ, nếu khách hàng có các thông tin về họ tên, email, số điện thoại, địa chỉ. Danh sách khách hàng (tập hợp bản ghi) nên được lưu trong list. Nếu cần truyền thông tin về một khách hàng (dữ liệu 1 bản ghi, ví dụ, trả về từ hàm) thì nên dùng tuple chứa các thông tin của khách hàng đó.
 
-Nguồn:: [[../../../⚡Hiểu biết sâu/Ξ Nguồn/tuhocict|tuhocict]], [Kiểu dữ liệu tuple trong Python | Tự học ICT](https://tuhocict.com/kieu-du-lieu-tuple-trong-python/)
+Nguồn:: [tuhocict](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/tuhocict.md#), [Kiểu dữ liệu tuple trong Python | Tự học ICT](https://tuhocict.com/kieu-du-lieu-tuple-trong-python/)

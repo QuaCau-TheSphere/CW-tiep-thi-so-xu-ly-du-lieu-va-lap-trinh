@@ -47,7 +47,7 @@ share: True
 | <kbd>F5</kbd>               | Chạy code                                                     | 
 | <kbd>F9</kbd>               | Tạo breakpoint                                                |
 | <kbd>Ctrl + Shift + D</kbd> | Mở debug sidebar                                              |
-| <kbd>Ctrl + `</kbd>         | Mở [[../Hệ điều hành (Windows)/Terminal, shell, console/Terminal là cái cửa sổ để làm việc với shell\|terminal]] |
+| <kbd>Ctrl + `</kbd>         | Mở [terminal](../H%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh%20(Windows)/Terminal,%20shell,%20console/Terminal%20l%C3%A0%20c%C3%A1i%20c%E1%BB%ADa%20s%E1%BB%95%20%C4%91%E1%BB%83%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20shell.md#) |
 | <kbd>Ctrl + Shift + Y</kbd> | Mở debug console                                              |
 
 # Thiết lập VS Code

@@ -10,7 +10,7 @@ Do that in several steps.
 3)  `(?:\G-|^)[^-]+(?=\S* as ".*"$)` ⇒ `\L$&`
 https://stackoverflow.com/questions/75015542/how-to-convert-multiple-words-into-multiple-words-as-multiple-words
 
-[[./Tự học regex|Tự học regex]]
+[Tự học regex](./T%E1%BB%B1%20h%E1%BB%8Dc%20regex.md#)
 
 - [Perilous Shores](https://watabou.github.io/perilous-shores/?seed=2006422892&tags=peninsula,woodland,neutral,perilous&name=Qu%E1%BA%A3%20C%E1%BA%A7u&hexes=1)
 - [dusty sea](https://watabou.github.io/perilous-shores/?seed=34941435&tags=bay,chaotic,perilous)

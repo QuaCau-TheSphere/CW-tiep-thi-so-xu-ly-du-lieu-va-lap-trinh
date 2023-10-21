@@ -49,4 +49,4 @@ OAuth2.0 Official site: [https://oauth.net/2/](https://oauth.net/2/)
 
 RFC6749 The OAuth 2.0 Authorization Framework [https://tools.ietf.org/html/rfc6749](https://tools.ietf.org/html/rfc6749)
 
-Nguồn:: [[../../../⚡Hiểu biết sâu/Ξ Nguồn/Viblo|Viblo]], [OAuth là gì? Kỹ thuật gần gũi với đời sống của chúng ta](https://viblo.asia/p/oauth-la-gi-ky-thuat-gan-gui-voi-doi-song-cua-chung-ta-3P0lP2bgKox)
+Nguồn:: [Viblo](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Viblo.md#), [OAuth là gì? Kỹ thuật gần gũi với đời sống của chúng ta](https://viblo.asia/p/oauth-la-gi-ky-thuat-gan-gui-voi-doi-song-cua-chung-ta-3P0lP2bgKox)

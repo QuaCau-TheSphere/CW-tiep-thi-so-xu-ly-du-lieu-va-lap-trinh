@@ -25,4 +25,4 @@ This output is the default string representation of an object that’s inherited
 - **`__main__.Book`:** The name of the class and where it’s defined
 - **`0x1025c4ed0`:** The memory address of the object
 
-Nguồn:: [[../../../⚡Hiểu biết sâu/Ξ Nguồn/Real Python|Real Python]], [When Should You Use .\_\_repr\_\_() vs .\_\_str\_\_() in Python? – Real Python](https://realpython.com/python-repr-vs-str/)
+Nguồn:: [Real Python](../../../%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Real%20Python.md#), [When Should You Use .\_\_repr\_\_() vs .\_\_str\_\_() in Python? – Real Python](https://realpython.com/python-repr-vs-str/)
