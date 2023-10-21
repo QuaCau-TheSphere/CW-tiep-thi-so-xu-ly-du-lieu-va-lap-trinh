@@ -1,28 +1,25 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2023-10-21T21:53
+updated: 2023-10-21T22:37
 ---
-Phần bạn cần chỉnh sửa nằm trong thư mục `A. Cấu hình`. Đây là một tệp ở định dạng YAML.
-
-```
+Phần bạn cần chỉnh sửa nằm trong thư mục `A. Cấu hình`. Đây là một tệp ở định dạng YAML. Cấu trúc cơ bản của nó như sau:
+```yaml
 Khai báo:
-  - Tên chiều: 
-    Dữ liệu tự nhận dạng: 
-    Ký tự để nhập trực tiếp:
-      Từ:
-        - @
-      Nhãn:
-        - @@
-    Tên gọi đầu ra:
-      Từ: Item
-      Nhãn:  
+  - Tên chiều: 
+	Dữ liệu tự nhận dạng: 
+    Ký tự để nhập trực tiếp:
+      Từ:
+      Nhãn:
+    Tên gọi đầu ra:
+      Từ: 
+      Nhãn:  
 Fibery:
 Keep
 ```
 
 > [!Attention] Khoảng trắng ở mỗi đầu dòng cần phải chính xác
->  Bạn cũng chỉ được dùng **dấu cách** để tạo khoảng trắng chứ không được dùng **tab**
+>  Bạn cũng chỉ được dùng **dấu cách** để tạo khoảng trắng chứ không được dùng **tab**
 
 # Các chiều đặc biệt
 Nếu bạn khai báo một trong những chiều này thì cần lưu ý thêm:
