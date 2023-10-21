@@ -22,4 +22,4 @@ We’ve now added a type variable `Type` to the identity function. This `Type` a
 We say that this version of the `identity` function is generic, as it works over a range of types. Unlike using `any`, it’s also just as precise (i.e., it doesn’t lose any information) as the first `identity` function that used numbers for the argument and return type.
 
 Nguồn:: [TypeScript: Documentation - Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html)
-[[./generic là biến dành cho kiểu|generic là biến dành cho kiểu]] 
+[generic là biến dành cho kiểu](./generic%20l%C3%A0%20bi%E1%BA%BFn%20d%C3%A0nh%20cho%20ki%E1%BB%83u.md#) 
