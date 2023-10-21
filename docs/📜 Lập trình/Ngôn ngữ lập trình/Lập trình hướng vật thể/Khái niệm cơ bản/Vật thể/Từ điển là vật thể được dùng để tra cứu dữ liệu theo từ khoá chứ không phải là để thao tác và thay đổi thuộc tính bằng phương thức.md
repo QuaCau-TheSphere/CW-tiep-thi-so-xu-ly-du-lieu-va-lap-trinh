@@ -4,7 +4,7 @@ title: Nếu tất cả thuộc tính của vật thể đều đơn giản, và
 created: 2023-08-25T14:20
 updated: 2023-10-12T22:23
 ---
-Ví dụ, khi khai báo [[../../../../../👏Trấn Kỳ/Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên|Trấn Kỳ]] như sau:
+Ví dụ, khi khai báo [Trấn Kỳ](../../../../../%F0%9F%91%8FTr%E1%BA%A5n%20K%E1%BB%B3/index.md#) như sau:
 ```yaml
 Khai báo:
   - Tên chiều: Món đồ    
@@ -36,5 +36,5 @@ Ghi chú: ''
 
 Thì mặc dù đây cũng là một vật thể, nhưng sự phức tạp của nó không còn giống như vật thể ở trên. Nó chỉ được dùng để tra dữ liệu, giống như bạn tra từ điển. Bạn không có ý định thay đổi giá trị trong nó. Nên loại vật thể này được gọi là từ điển.
 
-[[../../../Lịch sử phát triển và triết lý ngôn ngữ/Python tách bạch từ điển và vật thể, còn JS không làm vậy|Python tách bạch từ điển và vật thể, còn JS không làm vậy]]
+[Python tách bạch từ điển và vật thể, còn JS không làm vậy](../../../L%E1%BB%8Bch%20s%E1%BB%AD%20ph%C3%A1t%20tri%E1%BB%83n%20v%C3%A0%20tri%E1%BA%BFt%20l%C3%BD%20ng%C3%B4n%20ng%E1%BB%AF/Python%20t%C3%A1ch%20b%E1%BA%A1ch%20t%E1%BB%AB%20%C4%91i%E1%BB%83n%20v%C3%A0%20v%E1%BA%ADt%20th%E1%BB%83,%20c%C3%B2n%20JS%20kh%C3%B4ng%20l%C3%A0m%20v%E1%BA%ADy.md#)
 
