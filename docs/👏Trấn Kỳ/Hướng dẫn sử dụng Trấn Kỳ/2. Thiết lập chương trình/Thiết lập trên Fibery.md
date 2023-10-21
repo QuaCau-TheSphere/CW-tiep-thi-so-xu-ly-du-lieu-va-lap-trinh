@@ -10,8 +10,7 @@ PS D:\QC supplements\Code\Apps\Trấn Kỳ\Thành phần bổ trợ\Bundle> deno
 | Fibery.js" đã được dựng xong và được lưu |
 | . Nó cũng đã được copy sẵn vào clipboard |
 \  và sẵn sàng để dán.                     /
- ------------------------------------------
-<br/>
+ ------------------------------------------<br/>
    \                       _
                           / )
                          / /
