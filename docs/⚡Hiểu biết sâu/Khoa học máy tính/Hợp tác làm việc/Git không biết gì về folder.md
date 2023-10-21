@@ -5,7 +5,7 @@ Mục đích chính của Git là theo dõi các thay đổi trong nội dung c�
 
 Tuy nhiên, điều này không có nghĩa là Git hoàn toàn không theo dõi cấu trúc thư mục. Khi bạn thêm một tệp vào kho lưu trữ Git, Git sẽ lưu trữ đường dẫn đầy đủ của tệp đó, bao gồm cả các thư mục cha. Điều này có nghĩa là khi bạn sao chép (clone) một kho lưu trữ Git, cấu trúc thư mục sẽ được khôi phục lại.
 
-Nguồn:: [[Bing AI]]
+Nguồn:: [Bing AI](Bing%20AI.md#)
 
 
 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
