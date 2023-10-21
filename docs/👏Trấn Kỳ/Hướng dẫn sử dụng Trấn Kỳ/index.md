@@ -10,13 +10,13 @@ filename: index
 [1.2 Lấy code](./1.%20C%C3%A0i%20%C4%91%E1%BA%B7t%20v%C3%A0%20s%E1%BB%AD%20d%E1%BB%A5ng%20nhanh/1.2%20L%E1%BA%A5y%20code.md#)
 
 # 2. Thiết lập chương trình
-[2. Thiết lập chương trình](2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh.md#)
-[Hiểu về YAML](Hi%E1%BB%83u%20v%E1%BB%81%20YAML.md#)
-[Sử dụng main.ts](S%E1%BB%AD%20d%E1%BB%A5ng%20main.ts.md#)
-[Sử dụng tranky.py](S%E1%BB%AD%20d%E1%BB%A5ng%20tranky.py.md#)
-[Thiết lập trên Fibery](Thi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%AAn%20Fibery.md#)
-[Sử dụng Docker](S%E1%BB%AD%20d%E1%BB%A5ng%20Docker.md#)
-[Chạy chương trình định kỳ](Ch%E1%BA%A1y%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%E1%BB%8Bnh%20k%E1%BB%B3.md#)
+[2. Thiết lập chương trình](./2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/index.md#)
+[Hiểu về YAML](./2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Hi%E1%BB%83u%20v%E1%BB%81%20YAML.md#)
+[Sử dụng main.ts](./2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/S%E1%BB%AD%20d%E1%BB%A5ng%20main.ts.md#)
+[Sử dụng tranky.py](./2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/S%E1%BB%AD%20d%E1%BB%A5ng%20tranky.py.md#)
+[Thiết lập trên Fibery](./2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Thi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%AAn%20Fibery.md#)
+[Sử dụng Docker](./2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/S%E1%BB%AD%20d%E1%BB%A5ng%20Docker.md#)
+[Chạy chương trình định kỳ](./2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Ch%E1%BA%A1y%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%E1%BB%8Bnh%20k%E1%BB%B3.md#)
 # 3. Hiểu code nói gì
 Phần này sẽ cố gắng cung cấp các khái niệm thiết yếu trong việc giúp bạn xây dựng mental model cho code, để bạn hiểu được cái cách một lập trình viên kiến trúc nên một chương trình thế nào. Những thứ sẽ hay được sử dụng:
 - Các phép so sánh, ẩn dụ, 
