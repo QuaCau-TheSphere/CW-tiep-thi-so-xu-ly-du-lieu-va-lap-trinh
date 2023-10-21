@@ -1,4 +1,4 @@
 ---
 share: True
 ---
-Nguồn:: [[Maggie Appleton]]
+Nguồn:: [Maggie Appleton](Maggie%20Appleton.md#)
