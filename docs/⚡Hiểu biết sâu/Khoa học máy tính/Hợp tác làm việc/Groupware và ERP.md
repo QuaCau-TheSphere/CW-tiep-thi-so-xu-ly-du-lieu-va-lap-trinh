@@ -10,14 +10,14 @@ Vậy Groupware và ERP có điểm khác biệt cơ bản là Groupware giúp c
 # Các cách phân loại groupware
 ## Theo không thời gian
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cscwmatrix.jpg/703px-Cscwmatrix.jpg) 
-Nguồn:: [[⚡Hiểu biết sâu/Ξ Nguồn/Wikipedia]], [Computer-supported cooperative work](https://en.wikipedia.org/wiki/Computer-supported_cooperative_work), [[Bing AI]], [Collaborative software](https://en.wikipedia.org/wiki/Collaborative_software)
+Nguồn:: [Wikipedia](%E2%9A%A1Hi%E1%BB%83u%20bi%E1%BA%BFt%20s%C3%A2u/%CE%9E%20Ngu%E1%BB%93n/Wikipedia.md#), [Computer-supported cooperative work](https://en.wikipedia.org/wiki/Computer-supported_cooperative_work), [Bing AI](Bing%20AI.md#), [Collaborative software](https://en.wikipedia.org/wiki/Collaborative_software)
 
 ## Theo mức độ hợp tác
 - Giao tiếp
 - Hội ý
 - Điều phối
 
-Groupware can be divided into three categories depending on the level of [collaboration](https://en.wikipedia.org/wiki/Collaboration "Collaboration"):[[25]](https://en.wikipedia.org/wiki/Collaborative_software#cite_note-25)[[26]](https://en.wikipedia.org/wiki/Collaborative_software#cite_note-26)
+Groupware can be divided into three categories depending on the level of [collaboration](https://en.wikipedia.org/wiki/Collaboration "Collaboration"):[25](25.md#)(https://en.wikipedia.org/wiki/Collaborative_software#cite_note-25)[26](26.md#)(https://en.wikipedia.org/wiki/Collaborative_software#cite_note-26)
 
 1.  **Communication** can be thought of as unstructured interchange of information. A phone call or an [instant messaging](https://en.wikipedia.org/wiki/Instant_messaging "Instant messaging") chat discussion are examples of this.
 2.  **Conferencing** (or collaboration level, as it is called in the academic papers that discuss these levels) refers to interactive work toward a shared goal. Brainstorming or voting are examples of this.
@@ -38,7 +38,7 @@ Collaborative management tools facilitate and manage group activities. Examples 
 -   [Enterprise bookmarking](https://en.wikipedia.org/wiki/Enterprise_bookmarking "Enterprise bookmarking") — collaborative bookmarking engine to tag, organize, share, and search enterprise data
 -   [Prediction markets](https://en.wikipedia.org/wiki/Prediction_market "Prediction market") — let a group of people predict together the outcome of future events
 -   [Extranet](https://en.wikipedia.org/wiki/Extranet "Extranet") systems (sometimes also known as 'project extranets') — collect, organize, manage and share information associated with the delivery of a project (e.g.: the construction of a building)
--   [Intranet](https://en.wikipedia.org/wiki/Intranet "Intranet") systems — quickly share company information to members within a company via Internet (e.g.: marketing and product info)[[27]](https://en.wikipedia.org/wiki/Collaborative_software#cite_note-Intranet-27)
+-   [Intranet](https://en.wikipedia.org/wiki/Intranet "Intranet") systems — quickly share company information to members within a company via Internet (e.g.: marketing and product info)[27](27.md#)(https://en.wikipedia.org/wiki/Collaborative_software#cite_note-Intranet-27)
 -   [Social software](https://en.wikipedia.org/wiki/Social_software "Social software") systems — organize social relations of groups
 -   [Online spreadsheets](https://en.wikipedia.org/wiki/Online_spreadsheet "Online spreadsheet") — collaborate and share structured data and information
 -   [Client portals](https://en.wikipedia.org/wiki/Client_portal "Client portal") — interact and share with your clients in a private online environment[_[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")_]
