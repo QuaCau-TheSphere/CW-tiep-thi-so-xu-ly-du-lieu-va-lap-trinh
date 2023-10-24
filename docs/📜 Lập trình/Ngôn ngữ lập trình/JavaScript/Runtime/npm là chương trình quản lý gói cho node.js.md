@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-24T18:26
 ---
 Tương tự, [Pip là chương trình quản lý package của Python](../../Python/Pip%20l%C3%A0%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20package%20c%E1%BB%A7a%20Python.md#)
 [node.js là cách để dùng JaveScript ở backend](./node.js%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20d%C3%B9ng%20JaveScript%20%E1%BB%9F%20backend.md#)
