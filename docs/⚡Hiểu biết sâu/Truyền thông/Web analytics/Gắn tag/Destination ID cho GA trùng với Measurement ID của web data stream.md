@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-24T18:26
 ---
 Destination là nơi nhận dữ liệu của Google tag. Hiện tại, chỉ có những tài khoản Google Ads và web data stream trong Google Analytics 4 mới có thể được dùng làm destination.
 [Một Google tag có thể có nhiều destination, nhưng một destination chỉ thuộc về một tag](./M%E1%BB%99t%20Google%20tag%20c%C3%B3%20th%E1%BB%83%20c%C3%B3%20nhi%E1%BB%81u%20destination,%20nh%C6%B0ng%20m%E1%BB%99t%20destination%20ch%E1%BB%89%20thu%E1%BB%99c%20v%E1%BB%81%20m%E1%BB%99t%20tag.md#) 
