@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-24T18:26
 ---
 [Cấu trúc phân cấp thường cứng nhắc và nhân tạo](../Khoa%20h%E1%BB%8Dc%20d%E1%BB%AF%20li%E1%BB%87u/Qu%E1%BA%A3n%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u/C%E1%BA%A5u%20tr%C3%BAc%20ph%C3%A2n%20c%E1%BA%A5p%20th%C6%B0%E1%BB%9Dng%20c%E1%BB%A9ng%20nh%E1%BA%AFc%20v%C3%A0%20nh%C3%A2n%20t%E1%BA%A1o.md#)
 [Fibery](Fibery.md#)
