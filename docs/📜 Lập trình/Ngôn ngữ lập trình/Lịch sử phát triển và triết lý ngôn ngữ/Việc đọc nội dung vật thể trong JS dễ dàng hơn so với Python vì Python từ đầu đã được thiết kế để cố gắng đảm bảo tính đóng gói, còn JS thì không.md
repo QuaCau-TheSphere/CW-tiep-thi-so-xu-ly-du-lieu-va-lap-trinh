@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2023-09-27T22:51
+updated: 2023-10-24T18:26
 ---
 Lý do:: [JavaScript không được sinh ra để làm việc với lượng code lớn](./JavaScript%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20sinh%20ra%20%C4%91%E1%BB%83%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20l%C6%B0%E1%BB%A3ng%20code%20l%E1%BB%9Bn.md#)
 Nguồn:: [Is it correct that Python does not encourage us to read objects's content?](https://langdev.stackexchange.com/q/2966/223)
