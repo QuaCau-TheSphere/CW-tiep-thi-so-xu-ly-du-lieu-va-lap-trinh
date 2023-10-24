@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-10-19T23:29
-updated: 2023-10-23T01:02
+updated: 2023-10-24T14:12
 ---
-Ezlink là plugin mà Obsidian Publisher sử dụng. Nó có nhiều bug mà nếu bạn dùng Unicode sẽ gặp vấn đề. Ví dụ, với `mkdocs.yml`:
+Ezlink là plugin cho Mkdocs để chuyển từ dạng `[[ưikilink]]` sang dạng `[MDlink]()`. Nó được để mặc định trong GitHub Publisher. Nó có nhiều lỗi. Ví dụ, với `mkdocs.yml`:
 ```yaml
 site_name: test
 plugins:
