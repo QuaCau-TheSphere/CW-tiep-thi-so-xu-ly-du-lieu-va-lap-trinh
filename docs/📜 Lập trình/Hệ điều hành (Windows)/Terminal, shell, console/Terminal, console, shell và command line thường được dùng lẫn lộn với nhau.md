@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-24T18:26
 ---
 [Shell là cái vỏ bảo vệ lõi của hệ điều hành](./Shell%20l%C3%A0%20c%C3%A1i%20v%E1%BB%8F%20b%E1%BA%A3o%20v%E1%BB%87%20l%C3%B5i%20c%E1%BB%A7a%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh.md#). [Terminal là cái cửa sổ để làm việc với shell](./Terminal%20l%C3%A0%20c%C3%A1i%20c%E1%BB%ADa%20s%E1%BB%95%20%C4%91%E1%BB%83%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20shell.md#)
 
