@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2023-09-23T14:46
+updated: 2023-10-24T18:26
 ---
 [Why does /đ\b/ not match đ? (duplicate)](https://stackoverflow.com/q/76627655/3416774)
 Nếu dùng `(?=$|\P{L})` thì lại chạy lâu. Dễ nhất là thêm khoảng trắng ở ngay sau input và 

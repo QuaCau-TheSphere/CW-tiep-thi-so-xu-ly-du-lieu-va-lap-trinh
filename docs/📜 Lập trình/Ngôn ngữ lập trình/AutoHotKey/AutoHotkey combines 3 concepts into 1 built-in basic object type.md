@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-24T18:26
 ---
   
 AutoHotkey combines 3 concepts into 1 built-in basic object type:  

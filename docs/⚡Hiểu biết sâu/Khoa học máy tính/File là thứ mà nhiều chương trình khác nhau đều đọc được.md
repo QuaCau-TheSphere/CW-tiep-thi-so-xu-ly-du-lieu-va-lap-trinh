@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-24T18:26
 ---
 [File Google Docs không thực sự là file](./File%20Google%20Docs%20kh%C3%B4ng%20th%E1%BB%B1c%20s%E1%BB%B1%20l%C3%A0%20file.md#)
 

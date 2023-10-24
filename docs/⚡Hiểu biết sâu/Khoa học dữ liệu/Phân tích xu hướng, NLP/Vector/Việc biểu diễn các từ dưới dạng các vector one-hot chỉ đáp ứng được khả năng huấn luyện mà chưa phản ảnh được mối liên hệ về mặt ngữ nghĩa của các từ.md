@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-24T18:26
 ---
 Lý do: : Giá trị của một từ đến từ vị trí tương đối giữa các từ với nhau (ngữ cảnh) và ngữ nghĩa, chứ không phải theo thứ tự từ điển đầu vào
 

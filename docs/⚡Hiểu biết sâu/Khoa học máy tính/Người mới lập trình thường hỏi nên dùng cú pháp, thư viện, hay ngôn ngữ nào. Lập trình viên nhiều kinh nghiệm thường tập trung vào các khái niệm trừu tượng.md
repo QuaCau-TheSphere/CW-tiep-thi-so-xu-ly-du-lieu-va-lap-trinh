@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-24T18:26
 ---
 [Lập trình thực ra là dùng ẩn dụ](./L%E1%BA%ADp%20tr%C3%ACnh%20th%E1%BB%B1c%20ra%20l%C3%A0%20d%C3%B9ng%20%E1%BA%A9n%20d%E1%BB%A5.md#)
 

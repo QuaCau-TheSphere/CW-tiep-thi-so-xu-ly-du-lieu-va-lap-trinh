@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-24T18:26
 ---
 [Excel as a database - Neopoleon](https://www.neopoleon.com/blog/excel-as-a-database/)
 

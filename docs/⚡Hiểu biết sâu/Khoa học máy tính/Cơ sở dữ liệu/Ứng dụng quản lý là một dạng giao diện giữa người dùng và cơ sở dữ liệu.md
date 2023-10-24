@@ -1,5 +1,7 @@
 ---
-share: True
+share: true
+created: 2023-10-24T18:26
+updated: 2023-10-24T18:26
 ---
 Ứng dụng quản lý (Line-of-Business, LOB) là loại phần mềm phổ biến nhất đối với doanh nghiệp. Về bản chất, có thể hình dung ứng dụng quản lý là một dạng giao diện giữa người dùng và cơ sở dữ liệu.
 
