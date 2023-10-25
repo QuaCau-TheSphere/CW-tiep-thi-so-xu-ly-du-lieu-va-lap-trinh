@@ -1,7 +1,8 @@
 ---
 share: true
+title: Khoa học dữ liệu
 created: 2023-10-21T20:49
-updated: 2023-10-25T22:35
+updated: 2023-10-25T22:47
 ---
 - \-: 
     - [Chuẩn hoá dữ liệu](./Chu%E1%BA%A9n%20ho%C3%A1%20d%E1%BB%AF%20li%E1%BB%87u.md#)
