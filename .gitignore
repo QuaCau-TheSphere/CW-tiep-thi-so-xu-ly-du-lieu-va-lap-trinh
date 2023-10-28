@@ -2,3 +2,4 @@
 desktop.ini
 site
 .cache/
+__pycache__
