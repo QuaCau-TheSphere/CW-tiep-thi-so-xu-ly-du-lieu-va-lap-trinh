@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-10-29T18:08
+updated: 2023-10-30T18:19
 title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
 alias: Trấn Kỳ
 description: Phân loại câu nhập bằng tiếng Việt tự nhiên
@@ -21,10 +21,9 @@ Nếu bạn là người cần phân loại tất cả các chi tiêu của mìn
 - [x] Không có bất cứ quảng cáo mời mọc hoặc theo dõi dữ liệu nào
 
 Thì chương trình này dành cho bạn.
-![Hemi Head_med.png](../assets/attachments/Hemi%20Head_med.png#)
+![Hemi Head_med.png](../assets/attachments/Hemi%20Head_med.png)
 
-[Tải Trấn Kỳ](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3/1.%20C%C3%A0i%20%C4%91%E1%BA%B7t%20v%C3%A0%20s%E1%BB%AD%20d%E1%BB%A5ng%20nhanh/1.2%20L%E1%BA%A5y%20code.md#){ .md-button .md-button--primary } [Lý do viết Trấn Kỳ](https://obsidian.quảcầu.cc/📐 dự án/trấn kỳ/9 blog/lý do viết trấn kỳ?utm_source=CW+%C2%BB+X%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh+%C2%BB+Gi%E1%BB%9Bi+thi%E1%BB%87u+v%E1%BB%81+Tr%E1%BA%A5n+K%E1%BB%B3&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3){ .md-button .md-button--primary } 
-
+[Tải Trấn Kỳ](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3/1.%20C%C3%A0i%20%C4%91%E1%BA%B7t%20v%C3%A0%20s%E1%BB%AD%20d%E1%BB%A5ng%20nhanh/1.2%20L%E1%BA%A5y%20code.md){ .md-button .md-button--primary } [Lý do viết Trấn Kỳ](https://obsidian.quảcầu.cc/%F0%9F%93%90%20d%E1%BB%B1%20%C3%A1n/3%20th%C3%A0nh%20ph%E1%BA%A9m/h%E1%BB%97%20tr%E1%BB%A3%20kendy/9%20blog/l%C3%BD%20do%20vi%E1%BA%BFt%20tr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=CW+X%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh+%C2%BB+vault+Tr%E1%BA%A5n+K%E1%BB%B3&utm_medium=vault&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3){ .md-button .md-button--primary }
 # Tính năng
 ## Phân loại thông tin
 Ví dụ, với câu nhập đầu vào là:
@@ -47,7 +46,7 @@ Kết quả đầu ra sẽ là:
 | Số tiền                     | 50000            |
 | Ghi chú                     | giảm giá         |
 
-Chương trình có thể tự động bắt được các giá trị trên nhờ vào [cấu hình bạn đã thiết lập](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3/2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/index.md#) từ trước. Ở ví dụ này, bạn đã thiết lập như sau:
+Chương trình có thể tự động bắt được các giá trị trên nhờ vào [cấu hình bạn đã thiết lập](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3/2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/index.md) từ trước. Ở ví dụ này, bạn đã thiết lập như sau:
 
 | Từ khoá từ câu nhập...  | ...thuộc nhãn phân loại...  | ...thuộc chiều dữ liệu            |
 | -------------------- | --------------- | ------------------------ |
@@ -97,7 +96,7 @@ Ví dụ, nếu lúc thiết lập cấu hình bạn có khai báo ba từ khoá
 Ví dụ, từ khoá `ăn trưa với` vừa có thể thuộc nhãn `Mối quan hệ`, vừa có thể thuộc nhãn `Thực phẩm`
 
 ## Xuất, nhập dữ liệu với các chương trình khác
-![Keep to FIbery.png](../assets/attachments/Keep%20to%20FIbery.png#)
+![Keep to FIbery.png](../assets/attachments/Keep%20to%20FIbery.png)
 Hiện tại đã có sẵn phần bổ trợ (add-on) để nhập dữ liệu từ Google Keep và xuất dữ liệu sang Fibery. Bạn có thể tự viết những phần bổ trợ khác cho phù hợp với bạn.
 
 Google Keep là một phần mềm ghi chú rất phổ biến với mọi người. Nó:
@@ -111,13 +110,13 @@ Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể n
 
 # Các tính năng hỗ trợ khác (a.k.a. yêu cầu phi chức năng) 
 - **Viết cho người Việt** nên:
-	- Xử lý được từ ghép và [các cách đặt dấu thanh khác nhau](../%F0%9F%93%9C%20L%E1%BA%ADp%20tr%C3%ACnh/Regex,%20Unicode,%20ti%E1%BA%BFng%20Vi%E1%BB%87t,%20emoji/Regex/Ti%E1%BA%BFng%20Vi%E1%BB%87t%20c%C3%B3%202%20c%C3%A1ch%20%C4%91%E1%BA%B7t%20d%E1%BA%A5u%20thanh.md#)
+	- Xử lý được từ ghép và [các cách đặt dấu thanh khác nhau](../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/Regex,%20Unicode,%20ti%E1%BA%BFng%20Vi%E1%BB%87t,%20emoji/Regex/Ti%E1%BA%BFng%20Vi%E1%BB%87t%20c%C3%B3%202%20c%C3%A1ch%20%C4%91%E1%BA%B7t%20d%E1%BA%A5u%20thanh.md)
 	- Tên biến, tên hàm hoàn toàn bằng tiếng Việt
 - **Viết cho người cần sử dụng trên các webapp khác** như Fibery, Google Sheet nên:
 	- Chỉ sử dụng JavaScript thuần 
 	- Đảm bảo regex không chạy lâu
 	- Có sẵn build script để chuyển từ TypeScript sang JavaScript
-- **Viết cho người không muốn bị ràng buộc vào một nền tảng nào** nên sẽ là một chương trình mã nguồn mở và tự do
+- **Viết cho người không muốn bị ràng buộc vào một nền tảng nào** nên sẽ là một [phần mềm tự do](https://www.gnu.org/philosophy/free-sw.html)
 - **Viết cho người phải tự học lập trình** nên:
 	- Có rất nhiều ghi chú, hướng dẫn để cung cấp các khái niệm thiết yếu trong việc giúp bạn xây dựng mental model cho code, để bạn hiểu được cái cách một lập trình viên kiến trúc nên một chương trình thế nào. Những thứ sẽ hay được sử dụng:
 		- Các phép so sánh, ẩn dụ, 
@@ -137,4 +136,4 @@ Thật ra, chương trình này không hẳn nên được đặt tên là "Phâ
 
 Bạn muốn đọc gì tiếp theo?
 
-[Tải Trấn Kỳ](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3/1.%20C%C3%A0i%20%C4%91%E1%BA%B7t%20v%C3%A0%20s%E1%BB%AD%20d%E1%BB%A5ng%20nhanh/1.2%20L%E1%BA%A5y%20code.md#){ .md-button .md-button--primary } [Lý do viết Trấn Kỳ](https://obsidian.quảcầu.cc/📐 dự án/trấn kỳ/9 blog/lý do viết trấn kỳ?utm_source=CW+%C2%BB+X%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh+%C2%BB+Gi%E1%BB%9Bi+thi%E1%BB%87u+v%E1%BB%81+Tr%E1%BA%A5n+K%E1%BB%B3&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3){ .md-button .md-button--primary } [Hướng dẫn sử dụng Trấn Kỳ](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3/index.md#){ .md-button .md-button--primary }
+[Tải Trấn Kỳ](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3/1.%20C%C3%A0i%20%C4%91%E1%BA%B7t%20v%C3%A0%20s%E1%BB%AD%20d%E1%BB%A5ng%20nhanh/1.2%20L%E1%BA%A5y%20code.md){ .md-button .md-button--primary } [Lý do viết Trấn Kỳ](https://obsidian.quảcầu.cc/%F0%9F%93%90%20d%E1%BB%B1%20%C3%A1n/3%20th%C3%A0nh%20ph%E1%BA%A9m/h%E1%BB%97%20tr%E1%BB%A3%20kendy/9%20blog/l%C3%BD%20do%20vi%E1%BA%BFt%20tr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=CW+X%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh+%C2%BB+vault+Tr%E1%BA%A5n+K%E1%BB%B3&utm_medium=vault&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3){ .md-button .md-button--primary } [index](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3/index.md){ .md-button .md-button--primary }
