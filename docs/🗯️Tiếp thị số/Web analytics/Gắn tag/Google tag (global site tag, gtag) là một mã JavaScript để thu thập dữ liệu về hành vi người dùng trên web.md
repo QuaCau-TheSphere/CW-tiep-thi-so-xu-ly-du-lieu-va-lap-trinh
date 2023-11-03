@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2023-10-24T18:26
+updated: 2023-10-30T18:24
 ---
 Mã JavaScript đó có dạng thế này:
 ```js
@@ -12,7 +12,7 @@ Mã JavaScript đó có dạng thế này:
 	function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); 
 	gtag('config', 'G-********'); </script>
 ```
-Đoạn `G-********` là ID của nó. [Một Google tag có thể có nhiều ID](./M%E1%BB%99t%20Google%20tag%20c%C3%B3%20th%E1%BB%83%20c%C3%B3%20nhi%E1%BB%81u%20ID.md#). [Có thể cài nó trực tiếp trên web, hoặc nhờ plugin hỗ trợ, nhưng tốt nhất là nên cài thông qua Google Tag Manager](./N%C3%AAn%20c%C3%A0i%20Google%20tag%20trong%20Google%20Tag%20Manager%20thay%20v%C3%AC%20c%C3%A0i%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20tr%C3%AAn%20web%20ho%E1%BA%B7c%20qua%20plugin.md#).
+Đoạn `G-********` là ID của nó. [Một Google tag có thể có nhiều ID](./M%E1%BB%99t%20Google%20tag%20c%C3%B3%20th%E1%BB%83%20c%C3%B3%20nhi%E1%BB%81u%20ID.md). [Có thể cài nó trực tiếp trên web, hoặc nhờ plugin hỗ trợ, nhưng tốt nhất là nên cài thông qua Google Tag Manager](./N%C3%AAn%20c%C3%A0i%20Google%20tag%20trong%20Google%20Tag%20Manager%20thay%20v%C3%AC%20c%C3%A0i%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20tr%C3%AAn%20web%20ho%E1%BA%B7c%20qua%20plugin.md).
 
 Các tag này sẽ đổ dữ liệu về các destination, chính là các web data stream trong GA. 
 
