@@ -1,9 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2023-11-06T20:57
-title: Hướng dẫn sử dụng Trấn Kỳ
-filename: index
+updated: 2023-11-06T21:10
 ---
 > [!NOTE] Hỗ trợ trực tiếp
 > Nếu bạn cần sự hỗ trợ trực tiếp, bạn có thể tham gia [các buổi hướng dẫn sử dụng Trấn Kỳ](https://obsidian.quảcầu.cc/%F0%9F%93%90%20d%E1%BB%B1%20%C3%A1n/3%20th%C3%A0nh%20ph%E1%BA%A9m/c%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n%20ho%E1%BA%B7c%20nghi%C3%AAn%20c%E1%BB%A9u/c%C3%A1c%20bu%E1%BB%95i%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20tr%E1%BA%A5n%20k%E1%BB%B3/?utm_source=CW+Ti%E1%BA%BFp+th%E1%BB%8B+s%E1%BB%91%2C+x%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh+%C2%BB+H%C6%B0%E1%BB%9Bng+d%E1%BA%ABn+s%E1%BB%AD+d%E1%BB%A5ng+Tr%E1%BA%A5n+K%E1%BB%B3&utm_medium=vault&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3). Chúng là một phần của [các buổi đáp ứng nhu cầu học cách sử dụng công cụ và hiểu tư duy lập trình cho nhu cầu cá nhân hoặc nghiên cứu](https://obsidian.quảcầu.cc/%F0%9F%93%90%20d%E1%BB%B1%20%C3%A1n/3%20th%C3%A0nh%20ph%E1%BA%A9m/c%C3%A1c%20bu%E1%BB%95i%20%C4%91%C3%A1p%20%E1%BB%A9ng%20nhu%20c%E1%BA%A7u%20h%E1%BB%8Dc%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%B4ng%20c%E1%BB%A5%20v%C3%A0%20t%C6%B0%20duy%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20nhu%20c%E1%BA%A7u%20c%C3%A1%20nh%C3%A2n%20ho%E1%BA%B7c%20nghi%C3%AAn%20c%E1%BB%A9u/?utm_source=CW+Ti%E1%BA%BFp+th%E1%BB%8B+s%E1%BB%91%2C+x%E1%BB%AD+l%C3%BD+d%E1%BB%AF+li%E1%BB%87u+v%C3%A0+l%E1%BA%ADp+tr%C3%ACnh+%C2%BB+H%C6%B0%E1%BB%9Bng+d%E1%BA%ABn+s%E1%BB%AD+d%E1%BB%A5ng+Tr%E1%BA%A5n+K%E1%BB%B3&utm_medium=vault&utm_campaign=Tr%E1%BA%A5n+K%E1%BB%B3).
@@ -20,11 +18,6 @@ filename: index
 - [Thiết lập trên Fibery](./2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/Thi%E1%BA%BFt%20l%E1%BA%ADp%20tr%C3%AAn%20Fibery.md)
 
 # 3. Hiểu code nói gì
-Phần này sẽ cố gắng cung cấp các khái niệm thiết yếu trong việc giúp bạn xây dựng mental model cho code, để bạn hiểu được cái cách một lập trình viên kiến trúc nên một chương trình thế nào. Những thứ sẽ hay được sử dụng:
-- Các phép so sánh, ẩn dụ, 
-- Các sắp đặt để tạo sự tương phản (juxtaposition) giữa các định nghĩa, ý tưởng 
-- Ý đồ thiết kế (design choice) chương trình 
-
 - [3.1 Mô hình xử lý dữ liệu](./3.%20Hi%E1%BB%83u%20code%20n%C3%B3i%20g%C3%AC/3.1%20M%C3%B4%20h%C3%ACnh%20x%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u.md)
 - [Chiều, từ và nhãn](./3.%20Hi%E1%BB%83u%20code%20n%C3%B3i%20g%C3%AC/Chi%E1%BB%81u,%20t%E1%BB%AB%20v%C3%A0%20nh%C3%A3n.md)
 - [Ý nghĩa của biểu thức regex trong hàm lọcSốTiền()](./3.%20Hi%E1%BB%83u%20code%20n%C3%B3i%20g%C3%AC/%C3%9D%20ngh%C4%A9a%20c%E1%BB%A7a%20bi%E1%BB%83u%20th%E1%BB%A9c%20regex%20trong%20h%C3%A0m%20l%E1%BB%8DcS%E1%BB%91Ti%E1%BB%81n().md)
