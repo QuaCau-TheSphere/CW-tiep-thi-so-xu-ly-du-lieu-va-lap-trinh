@@ -1,24 +1,19 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-06T21:08
+updated: 2023-11-07T19:38
 title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
 alias: Trấn Kỳ
 description: Phân loại câu nhập bằng tiếng Việt tự nhiên
 filename: index
 ---
-Thu chi chồng chất nhưng không biết phải tính thế nào? Dùng app thì giới hạn chức năng hoặc tính phí, không app thì không biết tính sao?
-
-Nay đã có Trấn Kỳ. Chương trình này xuất phát từ nhu cầu của một cá nhân đau đầu khi quản lý mạng lưới kinh doanh của mình, hiện tại đã hoàn thiện và trở thành công cụ đắc lực để phân loại thu chi cá nhân.
-
-Hiện tại có rất nhiều ứng dụng quản lý thu chi, mình tin mỗi người sẽ tìm được những tính năng phù hợp với nhu cầu của bản thân. Vậy câu hỏi đặt ra là: "Bạn cần gì?" 
-
-Nếu bạn là người cần phân loại tất cả các chi tiêu của mình một cách rõ ràng (việc nhắm hờ mỗi tháng chi chừng bao nhiêu tiền là không đủ với bạn), và bạn cần một chương trình:
-- [x] Dùng được trên điện thoại khi không có mạng
+Thu chi chồng chất nhưng tốn quá nhiều thời gian để phân loại mới có một báo cáo đáng tin? Nay đã có Trấn Kỳ. Nếu bạn là người cần phân loại tất cả các chi tiêu của mình một cách rõ ràng (việc nhắm hờ mỗi tháng chi chừng bao nhiêu tiền là không đủ với bạn), và bạn cần một chương trình:
+- [x] Tích hợp được vào hệ thống vận hành hiện tại của bạn: báo cáo ngân hàng, Google Keep, Google Sheet, Notion, Obsidian, Fibery, Odoo, v.v. 
 - [x] Cho phép bạn khai báo dữ liệu theo thói quen và cách phân loại của chính mình
 - [x] Tự động phân loại, gắn nhãn thông tin chứ không bắt bạn phải tự xử lý
-- [x] Tích hợp được vào hệ thống vận hành hiện tại của bạn: Obsidian, Notion, Fibery, Google Sheet, v.v. 
+- [x] Không giam dữ liệu của bạn tại chương trình 
 - [x] Không có bất cứ quảng cáo mời mọc hoặc theo dõi dữ liệu nào
+- [x] Dùng được trên điện thoại khi không có mạng
 
 Thì chương trình này dành cho bạn.
 ![Hemi Head_med.png](../assets/attachments/Hemi%20Head_med.png)

@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2023-08-25T15:39
-updated: 2023-11-03T20:54
+updated: 2023-11-07T22:11
 filename: index
 ---
-Đây là vault bổ sung cho [Obsidian, quản lý dự án và công cụ nghĩ](https://obsidian.xn--qucu-hr5aza.cc/?utm_source=CW+»+Xử+lý+dữ+liệu+và+lập+trình&utm_campaign=C+Hỗ+trợ+người+tự+học+quản+lý+dự+án+hoặc+kiến+thức&utm_term=Đọc+bài+viết+trên+web "Obsidian, quản lý dự án và công cụ nghĩ"), tập trung vào việc xử lý dữ liệu và lập trình. Nó được sinh ra trong quá trình bọn mình viết [Trấn Kỳ](https://xn--lptrnh-zva6402d.xn--qucu-hr5aza.cc/👏Trấn Kỳ/ "Trấn Kỳ"), và cũng được sử dụng như tài liệu hướng dẫn cho nó. Nếu bạn muốn tìm một nguồn tài liệu để học một cách bài bản thì không nên vào đây. Nhưng nếu bạn đang có một công việc khác mà để làm được nó trôi chảy bạn phải học nhanh một số khái niệm để còn quay sang làm việc tiếp (như khi bọn mình cần phải học để còn viết xong Trấn Kỳ), thì có thể một số thứ trong đây sẽ hữu ích cho bạn.
+Đây là vault bổ sung cho [Obsidian, quản lý dự án và công cụ nghĩ](https://obsidian.xn--qucu-hr5aza.cc/?utm_source=CW+»+Xử+lý+dữ+liệu+và+lập+trình&utm_campaign=C+Hỗ+trợ+người+tự+học+quản+lý+dự+án+hoặc+kiến+thức&utm_term=Đọc+bài+viết+trên+web "Obsidian, quản lý dự án và công cụ nghĩ"), tập trung vào việc xử lý dữ liệu và lập trình. Nó được sinh ra trong quá trình bọn mình viết [Trấn Kỳ](https://xn--lptrnh-zva6402d.xn--qucu-hr5aza.cc/👏Trấn Kỳ/ "Trấn Kỳ"), và cũng được sử dụng như tài liệu hướng dẫn cho nó. Nếu bạn muốn tìm một nguồn tài liệu để học một cách bài bản thì không nên vào đây. Nhưng nếu mục tiêu của bạn là làm xong những công việc khác, mà để làm được chúng trôi chảy bạn phải học lập trình, và bạn muốn tìm những bài viết thật ngắn nhưng đủ để hiểu khái niệm để còn làm việc được tiếp (như khi bọn mình cần phải học để còn viết xong Trấn Kỳ), thì có thể một số thứ trong đây sẽ hữu ích cho bạn.
 
 Những thứ được ghi lại:
 
