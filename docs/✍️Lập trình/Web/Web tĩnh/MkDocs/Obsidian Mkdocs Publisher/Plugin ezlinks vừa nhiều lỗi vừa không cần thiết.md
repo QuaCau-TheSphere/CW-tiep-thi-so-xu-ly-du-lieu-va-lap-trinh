@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-19T23:29
-updated: 2023-10-31T22:27
+updated: 2023-11-15T21:50
 ---
 Ezlink là plugin cho Mkdocs để chuyển từ dạng `[[wikilink]]` sang dạng `[MDlink]()`. Nó được để mặc định trong GitHub Publisher. Nó có nhiều lỗi. Ví dụ, với `mkdocs.yml`:
 ```yaml
@@ -58,4 +58,4 @@ INFO    -  Doc file 'index.md' contains an
 - [Expecting `[[./a/index]]` to return `<a href="a/"`, get `<a href="a/index"`](https://github.com/Lisandra-dev/mkdocs-ezlinked-plugin/issues/2 "Expecting `[[./a/index]]` to return `&lt;a href=&quot;a/&quot;`, get `&lt;a href=&quot;a/index&quot;` · Issue #2 · Lisandra-dev/mkdocs-ezlinked-plugin")
 - [Correct MD path with unicode characters doesn't render correct HTML path](https://github.com/Lisandra-dev/mkdocs-ezlinked-plugin/issues/4 "Correct MD path with unicode characters doesn't render correct HTML path · Issue #4 · Lisandra-dev/mkdocs-ezlinked-plugin")
 
-Tốt nhất là nên đổi wikilink sang  mdlink rồi xoá ezlinks trong `mkdocs.yml`. Nếu cần thì dùng [mkdocs-obsidian-bridge](https://github.com/GooRoo/mkdocs-obsidian-bridge "GooRoo/mkdocs-obsidian-bridge: An MkDocs plugin that helps exporting your Obsidian vault as an MkDocs site.").
+Tốt nhất là nên đổi wikilink sang mdlink ngay từ trong plugin của Obsidian rồi xoá ezlinks trong `mkdocs.yml`. Hoặc nếu không có thể không dùng Mkdocs Publisher plugin luôn mà dùng [mkdocs-obsidian-bridge](https://github.com/GooRoo/mkdocs-obsidian-bridge "GooRoo/mkdocs-obsidian-bridge: An MkDocs plugin that helps exporting your Obsidian vault as an MkDocs site.").
