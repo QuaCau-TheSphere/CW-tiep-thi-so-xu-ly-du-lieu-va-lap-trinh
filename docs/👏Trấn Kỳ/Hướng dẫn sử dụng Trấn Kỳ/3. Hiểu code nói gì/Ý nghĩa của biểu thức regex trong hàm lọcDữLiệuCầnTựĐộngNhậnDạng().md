@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-09-19T23:42
-updated: 2023-11-06T21:24
+updated: 2023-11-13T15:23
 ---
-Biểu thức regex chỉ nhận những từ phía trước không có ký tự nào. Như vậy thì người dùng ghi `cáp` thì script sẽ không tưởng lầm là có `cá`, ghi `đáo` thì sẽ không tưởng lầm là có `áo`.
+Biểu thức regex chỉ nhận những từ phía trước không có ký tự nào. Như vậy thì người dùng ghi `cát` thì script sẽ không tưởng lầm là có `cá`, ghi `đáo` thì sẽ không tưởng lầm là có `áo`.
  
  Đoạn ghi chú ngay sau đây dành cho người đã có hiểu biết về regex:
  - Ý tưởng ban đầu: dùng `\\b + từ + \\b`
