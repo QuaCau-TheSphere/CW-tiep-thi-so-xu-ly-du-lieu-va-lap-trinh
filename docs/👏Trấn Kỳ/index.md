@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-07T19:38
+updated: 2023-11-20T01:21
 title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
 alias: Trấn Kỳ
 description: Phân loại câu nhập bằng tiếng Việt tự nhiên
 filename: index
 ---
-Thu chi chồng chất nhưng tốn quá nhiều thời gian để phân loại mới có một báo cáo đáng tin? Nay đã có Trấn Kỳ. Nếu bạn là người cần phân loại tất cả các chi tiêu của mình một cách rõ ràng (việc nhắm hờ mỗi tháng chi chừng bao nhiêu tiền là không đủ với bạn), và bạn cần một chương trình:
+Bạn có cảm thấy chán nản, mất năng lượng vì phải tốn quá nhiều thời gian để phân loại chi tiêu cũng như các loại dữ liệu khác không? Nay đã có Trấn Kỳ. Nếu bạn là người cần phân loại tất cả các chi tiêu của mình một cách rõ ràng (việc nhắm hờ mỗi tháng chi chừng bao nhiêu tiền là không đủ với bạn), và bạn cần một chương trình:
 - [x] Tích hợp được vào hệ thống vận hành hiện tại của bạn: báo cáo ngân hàng, Google Keep, Google Sheet, Notion, Obsidian, Fibery, Odoo, v.v. 
 - [x] Cho phép bạn khai báo dữ liệu theo thói quen và cách phân loại của chính mình
 - [x] Tự động phân loại, gắn nhãn thông tin chứ không bắt bạn phải tự xử lý
@@ -26,7 +26,7 @@ Ví dụ, với câu nhập đầu vào là:
 thăn bò 30k lườn gà 20k (giảm giá) cho Parid ở coopmart vợ trả 
 ```
 
-Kết quả đầu ra sẽ là:
+Kết quả đầu[Tải Trấn Kỳ](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3/1.%20C%C3%A0i%20%C4%91%E1%BA%B7t%20v%C3%A0%20s%E1%BB%AD%20d%E1%BB%A5ng%20nhanh/1.2%20L%E1%BA%A5y%20code.md) ra sẽ là:
 
 | Tên                         | Giá trị          |
 | --------------------------- | ---------------- |
@@ -90,18 +90,20 @@ Ví dụ, nếu lúc thiết lập cấu hình bạn có khai báo ba từ khoá
 ## Một từ khoá có thể thuộc về nhiều nhãn phân loại
 Ví dụ, từ khoá `ăn trưa với` vừa có thể thuộc nhãn `Mối quan hệ`, vừa có thể thuộc nhãn `Thực phẩm`
 
-## Xuất, nhập dữ liệu với các chương trình khác
-![Keep to FIbery.png](../assets/attachments/Keep%20to%20FIbery.png)
-Hiện tại đã có sẵn phần bổ trợ (add-on) để nhập dữ liệu từ Google Keep và xuất dữ liệu sang Fibery. Bạn có thể tự viết những phần bổ trợ khác cho phù hợp với bạn.
-
-Google Keep là một phần mềm ghi chú rất phổ biến với mọi người. Nó:
+## Nhập liệu và tạo báo cáo ngay trên hệ thống bạn đang dùng
+Ví dụ, Google Keep là một phần mềm ghi chú rất phổ biến với mọi người. Nó:
 - Có trên iOS, Android và web
 - Mở rất nhanh và có thể mở trong tình trạng không có mạng
 - Đồng bộ nhanh chóng trên tất cả các thiết bị
 - Hoàn toàn miễn phí
 - Cho phép nhiều người cùng chỉnh sửa một ghi chú
+- Sử dụng giọng nói
+- Nhập số lượng lớn
 
-Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể nhập những khoảng chi tiêu chung, phù hợp cho gia đình, nhóm bạn, tổ chức.
+Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể nhập nhanh những khoảng chi tiêu chung với khối lượng lớn vào lúc bạn không có đầu óc để phân loại, phù hợp cho gia đình, nhóm bạn, công ty những lúc chợ búa, du lịch, tổ chức sự kiện, v.v.
+
+![Keep to Fibery.png](../assets/attachments/Keep%20to%20Fibery.png)
+Hiện tại đã có sẵn phần bổ trợ (add-on) để nhập dữ liệu từ Google Keep và xuất dữ liệu sang Fibery. Bạn có thể tự viết những phần bổ trợ khác cho phù hợp với bạn.
 
 # Các tính năng hỗ trợ khác (a.k.a. yêu cầu phi chức năng) 
 - **Viết cho người Việt** nên:
@@ -111,7 +113,7 @@ Việc có thể nhập liệu từ Google Keep sẽ giúp cho bạn có thể n
 	- Chỉ sử dụng JavaScript thuần 
 	- Đảm bảo regex không chạy lâu
 	- Có sẵn build script để chuyển từ TypeScript sang JavaScript
-- **Viết cho người không muốn bị ràng buộc vào một nền tảng nào** nên sẽ là một [phần mềm tự do](https://www.gnu.org/philosophy/free-sw.html)
+- **Viết cho người không muốn bị ràng buộc vào một nền tảng nào** nên sẽ là một chương trình mã nguồn mở và tự do
 - **Viết cho người phải tự học lập trình** nên:
 	- Có rất nhiều ghi chú, hướng dẫn để cung cấp các khái niệm thiết yếu trong việc giúp bạn xây dựng mental model cho code, để bạn hiểu được cái cách một lập trình viên kiến trúc nên một chương trình thế nào. Những thứ sẽ hay được sử dụng:
 		- Các phép so sánh, ẩn dụ, 
