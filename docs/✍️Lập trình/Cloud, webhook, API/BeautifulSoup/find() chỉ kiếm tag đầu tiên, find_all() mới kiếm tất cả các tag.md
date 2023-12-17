@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-09-19T12:15
-updated: 2023-10-30T18:19
+updated: 2023-12-04T12:41
 ---
+
 ```python
 # return the first meta tag
 soup.find("meta")
