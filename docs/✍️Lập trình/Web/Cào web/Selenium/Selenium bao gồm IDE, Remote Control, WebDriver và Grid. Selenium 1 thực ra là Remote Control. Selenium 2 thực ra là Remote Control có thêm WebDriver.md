@@ -12,4 +12,4 @@ updated: 2023-11-29T15:06
 - WebDriver là một tool khác hoàn toàn, có nhiều ưu điểm hơn Selenium RC. Sự kết hợp của Selenium RC và WebDriver được biết đến với cái tên Selenium 2. WebDriver tương tác trực tiếp với trình duyệt web và sử dụng khả năng tương thích gốc để tự động hóa.
 - Selenium 3 là sản phẩm được dự đoán nhiều nhất trong bộ Selenium nhưng chưa được đưa ra thị trường. Selenium 3 được khuyến khích dùng trong kiểm thử mobile.
 
-Nguồn:: [Viblo](../../%CE%9E%20Ngu%E1%BB%93n%20v%C3%A0%20t%C3%A0i%20nguy%C3%AAn%20h%E1%BB%97%20tr%E1%BB%A3/%CE%9E%20Ngu%E1%BB%93n/Viblo.md), [Selenium Tutorials - 31+ Bài hướng dẫn học Selenium](https://viblo.asia/p/selenium-tutorials-31-bai-huong-dan-hoc-selenium-eW65Gx8PKDO)
+Nguồn:: [Viblo](../../../%CE%9E%20Ngu%E1%BB%93n%20v%C3%A0%20t%C3%A0i%20nguy%C3%AAn%20h%E1%BB%97%20tr%E1%BB%A3/%CE%9E%20Ngu%E1%BB%93n/Viblo.md), [Selenium Tutorials - 31+ Bài hướng dẫn học Selenium](https://viblo.asia/p/selenium-tutorials-31-bai-huong-dan-hoc-selenium-eW65Gx8PKDO)
