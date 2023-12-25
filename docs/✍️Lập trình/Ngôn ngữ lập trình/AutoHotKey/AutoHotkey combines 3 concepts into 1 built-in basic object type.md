@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2023-10-30T18:19
+updated: 2023-12-20T00:20
 ---
+
   
 AutoHotkey combines 3 concepts into 1 built-in basic object type:  
 - linear arrays (e.g. obj[1] := "value") (AKA list/vector)  
