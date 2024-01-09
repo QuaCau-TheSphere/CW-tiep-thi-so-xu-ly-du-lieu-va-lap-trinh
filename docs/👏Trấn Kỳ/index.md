@@ -1,12 +1,13 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2023-11-20T01:21
+updated: 2024-01-07T15:53
 title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
 alias: Trấn Kỳ
 description: Phân loại câu nhập bằng tiếng Việt tự nhiên
 filename: index
 ---
+
 Bạn có cảm thấy chán nản, mất năng lượng vì phải tốn quá nhiều thời gian để phân loại chi tiêu cũng như các loại dữ liệu khác không? Nay đã có Trấn Kỳ. Nếu bạn là người cần phân loại tất cả các chi tiêu của mình một cách rõ ràng (việc nhắm hờ mỗi tháng chi chừng bao nhiêu tiền là không đủ với bạn), và bạn cần một chương trình:
 - [x] Tích hợp được vào hệ thống vận hành hiện tại của bạn: báo cáo ngân hàng, Google Keep, Google Sheet, Notion, Obsidian, Fibery, Odoo, v.v. 
 - [x] Cho phép bạn khai báo dữ liệu theo thói quen và cách phân loại của chính mình
@@ -43,14 +44,14 @@ Kết quả đầu[Tải Trấn Kỳ](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%
 
 Chương trình có thể tự động bắt được các giá trị trên nhờ vào [cấu hình bạn đã thiết lập](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3/2.%20Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh/index.md) từ trước. Ở ví dụ này, bạn đã thiết lập như sau:
 
-| Từ khoá từ câu nhập...  | ...thuộc nhãn phân loại...  | ...thuộc chiều dữ liệu            |
-| -------------------- | --------------- | ------------------------ |
-| `thăn bò`, `lườn gà` | `Lương thực`    | `Món đồ`                 |
-| `vợ trả`             | `Tiền mặt`      | `Phương thức thanh toán` |
-| `coopmart`           | `Siêu thị`      | `Nơi mua`                |
-| `Parid`              | `Gia đình`      | `Người thụ hưởng`        |
-| `20k`, `30k`         | Không thiết lập | `Số tiền`                |
-| `giảm giá`           | Không thiết lập | `Ghi chú`                |
+| Từ khoá từ câu nhập... | ...thuộc nhãn phân loại... | ...thuộc chiều dữ liệu   |
+| ---------------------- | -------------------------- | ------------------------ |
+| `thăn bò`, `lườn gà`   | `Lương thực`               | `Món đồ`                 |
+| `vợ trả`               | `Tiền mặt`                 | `Phương thức thanh toán` |
+| `coopmart`             | `Siêu thị`                 | `Nơi mua`                |
+| `Parid`                | `Gia đình`                 | `Người thụ hưởng`        |
+| `20k`, `30k`           | Không thiết lập            | `Số tiền`                |
+| `giảm giá`             | Không thiết lập            | `Ghi chú`                |
 
 ## Giá trị mặc định
 Ví dụ, bạn có thể thiết lập để chương trình tự hiểu là nếu bạn không điền từ khoá gì trong chiều `Phương thức thanh toán` thì mặc định đó là `tiền mặt`.
