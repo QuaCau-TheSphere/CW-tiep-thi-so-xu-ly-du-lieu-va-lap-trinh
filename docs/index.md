@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T15:39
-updated: 2024-01-02T15:32
+updated: 2024-01-07T20:27
 filename: index
 title: Nơi này là nơi nào
 ---
@@ -13,12 +13,13 @@ Những thứ được ghi lại:
     - Những khái niệm cơ bản mà nếu không được giải thích thì không thể tự đoán ra được
     - Các so sánh, ẩn dụ tới một cái gì đó dễ hiểu hơn
     - Sự khác biệt, tương phản giữa những thứ có vẻ na ná nhau
-    - Những thuật ngữ dùng không được chuẩn xác. Người đã hiểu rồi thì không sao nhưng gây khó khăn cho người mới hiểu (các [misnomer](https://en.wikipedia.org/wiki/Misnomer)) 
+    - Những thuật ngữ dùng không được chuẩn xác. Người đã hiểu rồi thì thiếu chính xác cũng không thành vấn đề nhưng người mới học thì thấy loạn (các [misnomer](https://en.wikipedia.org/wiki/Misnomer)) 
     - Ý đồ thiết kế (design choice)
 - Các lỗi thường gặp mà việc tìm hiểu đòi hỏi phải có hiểu biết sâu về vấn đề (pitfall)
 - Những nguồn tốt dể học một cách bài bản
+- Những lĩnh vực, hướng khai phá ít được để ý
 
-Chúng là những thứ mà bạn ước rằng ngày xưa có ai nói với mình như vậy để mình hiểu ra nhanh. 
+Chúng là những thứ mà bạn ước rằng ngày xưa có ai nói với mình như vậy để mình hiểu ra nhanh. Chúng thể hiện được sự vận động, chuyển động của khái niệm.
 
 Những thứ không được ghi lại:
 - Các giới thiệu chi tiết (về công cụ, ngôn ngữ, khái niệm, v.v.) đặc biệt là nếu có nguồn tốt hơn
