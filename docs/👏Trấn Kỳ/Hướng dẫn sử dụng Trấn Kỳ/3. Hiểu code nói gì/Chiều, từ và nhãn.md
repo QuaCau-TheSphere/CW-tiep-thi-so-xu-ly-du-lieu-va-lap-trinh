@@ -1,8 +1,13 @@
 ---
 share: true
 created: 2023-09-16T13:22
-updated: 2023-10-30T18:19
+updated: 2024-01-07T15:53
 ---
+
+| từ khoá | Nhãn = loại chiều = loại món đồ | Chiều  |
+| ------- | ------------------------------- | ------ |
+| cá      | Thực phẩm                       | Món đồ |
+|         |                                 |        |
 Chiều là nguyên cái cục.
 ```ts
 interface KhaiBáoChiều {
