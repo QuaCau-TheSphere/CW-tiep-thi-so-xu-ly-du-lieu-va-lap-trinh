@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2023-10-30T18:19
+updated: 2024-01-05T12:31
 ---
+
 Hàm giúp ta làm một công việc nào đó. Công việc đó có thể liên quan tới một vật thể hoặc không. Còn phương thức chắc chắn phải làm những công việc liên quan tới một vật thể cụ thể. [Phương thức cho ta biết mình có thể làm gì với vật thể đó](./Ph%C6%B0%C6%A1ng%20th%E1%BB%A9c%20cho%20ta%20bi%E1%BA%BFt%20m%C3%ACnh%20c%C3%B3%20th%E1%BB%83%20l%C3%A0m%20g%C3%AC%20v%E1%BB%9Bi%20v%E1%BA%ADt%20th%E1%BB%83%20%C4%91%C3%B3.md). 
 
 Ví dụ, bạn có một rổ trái cây:
@@ -26,3 +27,4 @@ xem_ngày() # Kết quả: "ngày 32 tháng 13 năm 12023"
 
 Bạn thấy là công việc `xem_ngày()` này không phụ thuộc vào vật thể nào. Dù bạn quyết định là sẽ ăn táo hay ăn lê thì kết quả cũng không thay đổi. Dù bạn không có vật thể nào bạn vẫn có thể xem ngày được. 
 
+[Phương thức là một thuộc tính của vật thể](./Ph%C6%B0%C6%A1ng%20th%E1%BB%A9c%20l%C3%A0%20m%E1%BB%99t%20thu%E1%BB%99c%20t%C3%ADnh%20c%E1%BB%A7a%20v%E1%BA%ADt%20th%E1%BB%83.md) 
