@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2023-12-20T00:20
+updated: 2024-01-09T16:16
 ---
 
 - Tính trừu tượng (abstraction)
@@ -9,8 +9,7 @@ updated: 2023-12-20T00:20
 - Tính đa hình (polymorphism) 
 - Tính kế thừa (inheritance) 
 
-Nguồn:: Lập trình không khó, [Lập Trình Hướng Đối Tượng Là Gì?](https://blog.luyencode.net/lap-trinh-huong-doi-tuong-cpp/)
+Nguồn:: [Lập Trình Hướng Đối Tượng Là Gì?](https://blog.luyencode.net/lap-trinh-huong-doi-tuong-cpp/)
 
-![logo3.svg](logo3.svg)
 [Chưa rõ lý do vì sao lại dịch object ra thành đối tượng chứ không phải vật thể](./Ch%C6%B0a%20r%C3%B5%20l%C3%BD%20do%20v%C3%AC%20sao%20l%E1%BA%A1i%20d%E1%BB%8Bch%20object%20ra%20th%C3%A0nh%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20v%E1%BA%ADt%20th%E1%BB%83.md)
 [Separation of concerns - Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
