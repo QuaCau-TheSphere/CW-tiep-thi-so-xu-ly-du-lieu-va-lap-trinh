@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2023-10-30T18:19
+updated: 2024-01-15T14:19
+title: Phân tích xu hướng, NLP
 ---
+
 Danh sách các repo trên GitHub có tag `nlp` và `vietnamese`
 - [undertheseanlp/underthesea](https://github.com/undertheseanlp/underthesea.git)
 - [vncorenlp/VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP.git)
