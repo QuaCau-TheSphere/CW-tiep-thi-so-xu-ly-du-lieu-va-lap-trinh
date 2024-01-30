@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-01-07T15:53
+updated: 2024-01-30T23:52
 title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
 alias: Trấn Kỳ
 description: Phân loại câu nhập bằng tiếng Việt tự nhiên
@@ -27,7 +27,7 @@ Ví dụ, với câu nhập đầu vào là:
 thăn bò 30k lườn gà 20k (giảm giá) cho Parid ở coopmart vợ trả 
 ```
 
-Kết quả đầu[Tải Trấn Kỳ](./H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng%20Tr%E1%BA%A5n%20K%E1%BB%B3/1.%20C%C3%A0i%20%C4%91%E1%BA%B7t%20v%C3%A0%20s%E1%BB%AD%20d%E1%BB%A5ng%20nhanh/1.2%20L%E1%BA%A5y%20code.md) ra sẽ là:
+Kết quả đầu ra sẽ là:
 
 | Tên                         | Giá trị          |
 | --------------------------- | ---------------- |
