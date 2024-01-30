@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-01-03T11:38
+updated: 2024-01-14T13:58
 ---
 
 ## Trailing comma là gì? Tại sao nó từng là lỗi trong JavaScript?
@@ -83,3 +83,5 @@ Trong ví dụ không dùng trailing comma, mặc dù phần tử `female` đề
 Ngoài ra, khi số dòng thay đổi ít đi thì khả năng conflict code sẽ giảm và khả năng code tự merge sẽ cao hơn.
 
 Nguồn:: [Tại sao lại để dư một dấu phẩy? - Ehkoo](https://ehkoo.com/bai-viet/why-trailing-comma-javascript)
+
+[JSON không cho phép để dư dấu phẩy, không có comment, bắt buộc phải dùng ngoặc kép, key phải được đóng trong ngoặc kép](JSON%20kh%C3%B4ng%20cho%20ph%C3%A9p%20%C4%91%E1%BB%83%20d%C6%B0%20d%E1%BA%A5u%20ph%E1%BA%A9y,%20kh%C3%B4ng%20c%C3%B3%20comment,%20b%E1%BA%AFt%20bu%E1%BB%99c%20ph%E1%BA%A3i%20d%C3%B9ng%20ngo%E1%BA%B7c%20k%C3%A9p,%20key%20ph%E1%BA%A3i%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%B3ng%20trong%20ngo%E1%BA%B7c%20k%C3%A9p.md)
