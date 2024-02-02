@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2023-10-30T18:19
+updated: 2024-02-01T18:56
 ---
 
 | Icon                                                                                                                                            | Name                      | Symbol type                         |
@@ -29,3 +29,6 @@ updated: 2023-10-30T18:19
 | ![a square with letters abc word completion](https://code.visualstudio.com/assets/docs/editor/intellisense/String_16x.svg)                      | Words                     | `text`                              |
 | 
 Nguồn:: [IntelliSense in Visual Studio Code](https://code.visualstudio.com/docs/editor/intellisense#_types-of-completions)
+
+Xanh đậm: biến trong file
+Xanh nhạt: biến ngoài file
