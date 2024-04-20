@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-01-08T20:32
+updated: 2024-03-31T16:25
 ---
 
-[Runtime là lúc chạy. Runtime environment là môi trường thực thi](Runtime%20l%C3%A0%20l%C3%BAc%20ch%E1%BA%A1y.%20Runtime%20environment%20l%C3%A0%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi.md). Trình duyệt không biết gì về Deno, Node, v.v. Muốn dùng các hàm do các môi trường thực thi này cung cấp thì phải chạy trên server chứ không chạy trên client được
+[Những API của môi trường thực thi không chạy được trên trình duyệt](../../../Ng%C3%B4n%20ng%E1%BB%AF/Ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BA%ADp%20tr%C3%ACnh/JavaScript%20v%C3%A0%20Python/JavaScript/Runtime/Nh%E1%BB%AFng%20API%20c%E1%BB%A7a%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi%20kh%C3%B4ng%20ch%E1%BA%A1y%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20tr%C3%ACnh%20duy%E1%BB%87t.md). Trình duyệt không biết gì về Deno, Node, v.v. Muốn dùng các hàm do các môi trường thực thi này cung cấp thì phải chạy trên server chứ không chạy trên client được
