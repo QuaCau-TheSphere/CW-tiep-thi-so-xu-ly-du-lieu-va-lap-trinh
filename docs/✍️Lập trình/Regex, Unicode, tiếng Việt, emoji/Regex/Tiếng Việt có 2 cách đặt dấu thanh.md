@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2023-10-30T18:19
+updated: 2024-03-22T23:24
 ---
+
 - Quy tắc kiểu cũ có phần căn cứ trên nhãn quan, giữ vị trí dấu ở giữa hay gần giữa mỗi từ cho cân bằng. VD: `hòa`
 - Quy tắc kiểu mới căn cứ trên [ngữ âm học](https://vi.wikipedia.org/wiki/Ng%E1%BB%AF_%C3%A2m_h%E1%BB%8Dc "Ngữ âm học") muốn đối chiếu chữ và âm. VD `hoà`
 
