@@ -1,8 +1,11 @@
 ---
 share: true
 created: 2023-08-25T15:39
-updated: 2024-02-06T18:13
+updated: 2024-04-06T22:25
 filename: index
+alias:
+  - Homepage
+  - Trang chủ
 title: Nơi này là nơi nào
 ---
 
@@ -10,11 +13,11 @@ title: Nơi này là nơi nào
 
 > [!IMPORTANT] Những thứ được ghi lại trong đây
 > - **Những khái niệm thiết yếu trong việc xây dựng mental model, đặc biệt là:**
->     - Những khái niệm cơ bản mà nếu không được giải thích thì không thể tự đoán ra được. Công việc ta cần làm đòi hỏi ta phải làm theo những hướng dẫn mặc định rằng ta đã hiểu được chúng rồi, và không cung cấp thêm lời giải thích hoặc xây dựng đủ bối cảnh để ta có thể đoán ý nghĩa của nó. Thường ta sẽ phải quay lại học bài bản, nhưng lúc đó việc học bài bản lại phân tán sự tập trung của ta khỏi công việc cần làm.
->     - Các so sánh, ẩn dụ tới một cái gì đó dễ hiểu hơn
->     - Sự khác biệt, tương phản giữa những thứ có vẻ na ná nhau, hoặc sự tăng tiến của những mức độ liên tục với nhau
->     - Những thuật ngữ dùng không được chuẩn xác. Có những cách dùng từ mà với người đã hiểu rồi thì sự thiếu chính xác cũng không thành vấn đề, thậm chí còn tiện lợi, nhưng người mới học thì thấy loạn (các [misnomer](https://en.wikipedia.org/wiki/Misnomer)) 
->     - Ý đồ thiết kế ([design rationale](https://en.wikipedia.org/wiki/Design_rationale "Design rationale - Wikipedia"))
+>     - Những khái niệm cơ bản mà nếu không được giải thích thì không thể tự đoán ra được. Công việc ta cần làm đòi hỏi ta phải làm theo những hướng dẫn mặc định rằng ta đã hiểu được chúng rồi, và không cung cấp thêm lời giải thích hoặc xây dựng đủ bối cảnh để ta có thể đoán ý nghĩa của nó. Thường để hiểu được các khái niệm cơ bản này ta sẽ phải quay lại học bài bản, nhưng lúc đó việc học bài bản lại phân tán sự tập trung của ta khỏi công việc cần làm
+>     - Các so sánh, ẩn dụ tới một cái gì đó dễ hiểu, dễ liên tưởng hơn
+>     - Sự khác biệt, tương phản hoặc tăng tiến về cường độ của những thứ có vẻ na ná nhau hoặc mâu thuẫn nhau. Phân biệt những cái tên khác nhau cho cùng một thứ, và những thứ khác nhau có cùng một cái tên
+>     - Những thuật ngữ dùng không được chuẩn xác. Có những cách dùng từ mà với người đã hiểu rồi thì sự thiếu chính xác cũng không thành vấn đề, thậm chí còn tiện lợi, nhưng người mới học thì thấy loạn (các [misnomer](https://en.wikipedia.org/wiki/Misnomer))
+>     - Ý đồ thiết kế ([design rationale](https://en.wikipedia.org/wiki/Design_rationale "Design rationale - Wikipedia")) để hiểu được điểm mạnh, điểm yếu của các giải pháp khác nhau cho cùng một vấn đề, và vì sao các tác giả của chúng chấp nhận những đánh đổi đó
 > - **Các lỗi thường gặp mà việc tìm hiểu đòi hỏi phải có hiểu biết sâu về vấn đề (pitfall)**
 > - **Những nguồn tốt dể học một cách bài bản**
 > - **Những lĩnh vực, hướng tư duy ít được để ý**

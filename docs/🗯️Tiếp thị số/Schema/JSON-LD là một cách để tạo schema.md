@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2023-12-15T19:50
+updated: 2024-03-17T17:57
 ---
 
 ![What is Linked Data? - YouTube](https://youtu.be/4x_xzT5eF5Q?si=pKxW5p19YSQkBrxS)
@@ -68,3 +68,5 @@ Do I understand right, JSON-LD can only let you specify general info about whole
 Nguồn:: [Stack Overflow](../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/%CE%9E%20Ngu%E1%BB%93n%20v%C3%A0%20t%C3%A0i%20nguy%C3%AAn%20h%E1%BB%97%20tr%E1%BB%A3/%CE%9E%20Ngu%E1%BB%93n/Stack%20Overflow.md), [How does Microdata rdfa compare to JSON-LD? - Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/328567/how-does-microdata-rdfa-compare-to-json-ld#comment981918_328711)
 
 [Open Graph chuyên cho việc chia sẻ trên mạng xã hội. Schema chuyên cho việc tìm kiếm trên Google](./Open%20Graph%20chuy%C3%AAn%20cho%20vi%E1%BB%87c%20chia%20s%E1%BA%BB%20tr%C3%AAn%20m%E1%BA%A1ng%20x%C3%A3%20h%E1%BB%99i.%20Schema%20chuy%C3%AAn%20cho%20vi%E1%BB%87c%20t%C3%ACm%20ki%E1%BA%BFm%20tr%C3%AAn%20Google.md)
+
+[Schema là gì? Cách thêm Schema Markup tăng sức mạnh website](https://vietnix.vn/schema-la-gi/)
