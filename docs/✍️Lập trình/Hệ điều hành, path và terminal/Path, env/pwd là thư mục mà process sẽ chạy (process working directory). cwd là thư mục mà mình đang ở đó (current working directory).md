@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-03-23T17:04
+updated: 2024-04-23T01:41
 ---
 
 Ở Node, `process.env.PWD` **không** tồn tại trên Windows
