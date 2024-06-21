@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-03-17T17:57
+updated: 2024-04-23T01:41
 ---
 
 ![What is Linked Data? - YouTube](https://youtu.be/4x_xzT5eF5Q?si=pKxW5p19YSQkBrxS)
