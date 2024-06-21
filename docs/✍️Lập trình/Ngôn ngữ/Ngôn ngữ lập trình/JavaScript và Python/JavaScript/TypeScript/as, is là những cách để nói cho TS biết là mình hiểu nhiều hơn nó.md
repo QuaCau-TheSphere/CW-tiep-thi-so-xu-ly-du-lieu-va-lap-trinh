@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-03-24T14:20
+updated: 2024-05-03T21:13
 ---
 
 # `is` là để hàm kiểm tra ra boolean có thể dùng cho if
@@ -48,3 +48,5 @@ Thì nó sẽ biết là nếu trả về `true`, thì `true` đó phải đư�
 Cái này gọi là **type predicate** hoặc là type guard.
 
 # `as` là để ép kiểu
+
+[satisfied là để kiểm tra xem dữ liệu mình nhập bằng tay có thoả kiểu hay không](./satisfied%20l%C3%A0%20%C4%91%E1%BB%83%20ki%E1%BB%83m%20tra%20xem%20d%E1%BB%AF%20li%E1%BB%87u%20m%C3%ACnh%20nh%E1%BA%ADp%20b%E1%BA%B1ng%20tay%20c%C3%B3%20tho%E1%BA%A3%20ki%E1%BB%83u%20hay%20kh%C3%B4ng.md)
