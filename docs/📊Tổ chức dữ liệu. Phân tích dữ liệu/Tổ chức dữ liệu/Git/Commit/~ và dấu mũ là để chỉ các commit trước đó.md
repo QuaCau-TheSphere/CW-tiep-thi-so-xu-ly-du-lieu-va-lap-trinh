@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-04-20T22:16
+updated: 2024-04-23T01:41
 title: ~ và ^ là để chỉ các commit trước đó
 ---
 

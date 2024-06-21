@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-04-12T00:12
+updated: 2024-05-06T13:29
+alias: same-origin policy là để trình duyệt bảo vệ người dùng, không phải để bảo vệ máy chủ
 ---
 
 You are at work and you're connected to your company's intranet. Only people in your company's network can see this special website containing secret documents.
@@ -25,3 +26,5 @@ Trích từ:: [What is CORS and why is it so annoying : r/reactjs](https://www.r
 
 [How to win at CORS - JakeArchibald.com](https://jakearchibald.com/2021/cors/)
 ![](https://wizardzines.com/images/uploads/why-same-origin-matters.png) 
+[Same-origin policy ngăn chặn việc script ở tab này điều khiển tab kia](./Same-origin%20policy%20ng%C4%83n%20ch%E1%BA%B7n%20vi%E1%BB%87c%20script%20%E1%BB%9F%20tab%20n%C3%A0y%20%C4%91i%E1%BB%81u%20khi%E1%BB%83n%20tab%20kia.md)
+[Origin là sự kết hợp của protocol, hostname và port](./Origin%20l%C3%A0%20s%E1%BB%B1%20k%E1%BA%BFt%20h%E1%BB%A3p%20c%E1%BB%A7a%20protocol,%20hostname%20v%C3%A0%20port.md)

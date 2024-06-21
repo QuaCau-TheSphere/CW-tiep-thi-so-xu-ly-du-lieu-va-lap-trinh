@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-01-30T23:52
+updated: 2024-04-23T01:43
 title: Trấn Kỳ — Phân loại thu chi bằng tiếng Việt tự nhiên
 alias: Trấn Kỳ
 description: Phân loại câu nhập bằng tiếng Việt tự nhiên
@@ -108,7 +108,7 @@ Hiện tại đã có sẵn phần bổ trợ (add-on) để nhập dữ liệu 
 
 # Các tính năng hỗ trợ khác (a.k.a. yêu cầu phi chức năng) 
 - **Viết cho người Việt** nên:
-	- Xử lý được từ ghép và [các cách đặt dấu thanh khác nhau](../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/Regex,%20Unicode,%20ti%E1%BA%BFng%20Vi%E1%BB%87t,%20emoji/Regex/Ti%E1%BA%BFng%20Vi%E1%BB%87t%20c%C3%B3%202%20c%C3%A1ch%20%C4%91%E1%BA%B7t%20d%E1%BA%A5u%20thanh.md)
+	- Xử lý được từ ghép và [các cách đặt dấu thanh khác nhau](../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/Regex,%20Unicode,%20ti%E1%BA%BFng%20Vi%E1%BB%87t,%20emoji/Regex/Ti%E1%BA%BFng%20Vi%E1%BB%87t%20c%C3%B3%202%20c%C3%A1ch%20%C4%91%E1%BA%B7t%20d%E1%BA%A5u%20thanh,%20c%C4%83n%20c%E1%BB%A9%20v%C3%A0o%20th%E1%BA%A9m%20m%E1%BB%B9%20ho%E1%BA%B7c%20v%C3%A0o%20ng%E1%BB%AF%20%C3%A2m.md)
 	- Tên biến, tên hàm hoàn toàn bằng tiếng Việt
 - **Viết cho người cần sử dụng trên các webapp khác** như Fibery, Google Sheet nên:
 	- Chỉ sử dụng JavaScript thuần 

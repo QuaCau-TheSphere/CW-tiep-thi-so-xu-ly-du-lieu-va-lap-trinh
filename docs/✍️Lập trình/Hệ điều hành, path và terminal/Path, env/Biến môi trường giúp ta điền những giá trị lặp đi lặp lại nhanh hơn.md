@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-04-20T17:36
+updated: 2024-04-29T15:32
 ---
 
 Biến môi trường tiếng Anh là *environmental variable*. Viết tắt là `env`
@@ -10,4 +10,4 @@ Trong [PowerShell](../Terminal,%20shell,%20console/PowerShell/PowerShell%20l%C3%
 ```PowerShell
 get-childitem env:
 ```
-[env người dùng định nghĩa được ưu tiên hơn env hệ thống định nghĩa. Nhưng với biến path thì ngược lại](./env%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20%C4%91%E1%BB%8Bnh%20ngh%C4%A9a%20%C4%91%C6%B0%E1%BB%A3c%20%C6%B0u%20ti%C3%AAn%20h%C6%A1n%20env%20h%E1%BB%87%20th%E1%BB%91ng%20%C4%91%E1%BB%8Bnh%20ngh%C4%A9a.%20Nh%C6%B0ng%20v%E1%BB%9Bi%20bi%E1%BA%BFn%20path%20th%C3%AC%20ng%C6%B0%E1%BB%A3c%20l%E1%BA%A1i.md)
+[env của người dùng được ưu tiên hơn env của hệ thống. Nhưng với biến path thì ngược lại](./env%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20%C4%91%C6%B0%E1%BB%A3c%20%C6%B0u%20ti%C3%AAn%20h%C6%A1n%20env%20c%E1%BB%A7a%20h%E1%BB%87%20th%E1%BB%91ng.%20Nh%C6%B0ng%20v%E1%BB%9Bi%20bi%E1%BA%BFn%20path%20th%C3%AC%20ng%C6%B0%E1%BB%A3c%20l%E1%BA%A1i.md)
