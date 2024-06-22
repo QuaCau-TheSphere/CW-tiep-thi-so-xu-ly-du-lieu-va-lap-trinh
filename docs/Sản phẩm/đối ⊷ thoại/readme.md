@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-06-18T18:19
+updated: 2024-06-22T01:37
 ---
 
 # Thử nhanh
@@ -35,7 +35,7 @@ WHERE wp_posts.post_type = 'post'
 AND wp_posts.post_status = 'publish'
 GROUP BY wp_posts.ID
 ```
-Xuất kết quả dưới dạng csv.
+Xuất kết quả dưới dạng CSV.
 
 ## Thiết lập cấu hình
 Chỉnh sửa các cấu hình có sẵn trong `Cấu hình và dữ liệu/Nơi đăng` và các đường dẫn trong `Code chạy trên local, server, KV/ĐƯỜNG_DẪN.ts` cho đúng.
