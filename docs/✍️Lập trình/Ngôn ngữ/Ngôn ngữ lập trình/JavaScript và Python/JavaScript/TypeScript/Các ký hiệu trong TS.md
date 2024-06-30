@@ -3,7 +3,6 @@ share: true
 created: 2023-09-21T17:48
 updated: 2024-03-22T16:45
 ---
-
 ## 1. Unions type: |
 
 Trong javascript thì kí hiệu | để tính bit : Toán tử OR (|) sẽ trả về 1 nếu 1 trong mỗi vị trí của các bit tương ưng có có bit có giá trị là 1 hoặc cả hai đều có 1. Trong javascipt example :
