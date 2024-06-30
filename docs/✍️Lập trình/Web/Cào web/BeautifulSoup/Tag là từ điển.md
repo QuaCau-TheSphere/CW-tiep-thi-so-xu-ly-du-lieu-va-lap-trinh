@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-04-23T01:46
 ---
-
 ```python
 soup = BeautifulSoup('<b class="boldest">Extremely bold</b>', 'html.parser')
 tag = soup.b
