@@ -3,7 +3,6 @@ share: true
 created: 2023-10-24T18:26
 updated: 2024-03-26T21:59
 ---
-
 Nó giúp làm quen được một số cú pháp hoặc lỗi cơ bản.
 
 Get helpful hints on syntax you've never seen before, with direct links to the docs. Once you feel you've got it covered, mark it as learned to hide the hints. Goes all the way from beginner to hyper-advanced. (Bấm <kbd>Ctrl+K Ctrl+I</kbd>) 
