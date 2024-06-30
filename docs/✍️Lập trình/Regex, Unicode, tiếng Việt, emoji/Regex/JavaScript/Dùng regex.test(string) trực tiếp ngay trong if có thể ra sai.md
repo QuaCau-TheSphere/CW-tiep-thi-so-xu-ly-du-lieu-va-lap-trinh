@@ -4,7 +4,6 @@ created: 2023-08-25T14:20
 updated: 2024-04-23T01:40
 ---
 
-
 Để `regex.test()` ngay trong `if`:
 ```js
 var string = 'aaa lấy tôi bbb'
