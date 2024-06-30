@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-05-12T13:26
 ---
-
 Async route components are not really components. They are route handlers which happen to return JSX and then the JSX gets rendered. You cannot pass them to other components and instantiate them as if they were components, because they're not
 
 Yes, initially I wanted to support that in Fresh 2, but I've made a 180 on that. They seem exciting to use until you realise that they are super bad for performance because it ties data loading to rendering which forces waterfall like loading patterns.
