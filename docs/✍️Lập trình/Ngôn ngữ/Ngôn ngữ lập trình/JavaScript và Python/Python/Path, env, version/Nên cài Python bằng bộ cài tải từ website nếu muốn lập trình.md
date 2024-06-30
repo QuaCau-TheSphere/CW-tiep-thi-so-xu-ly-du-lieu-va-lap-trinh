@@ -3,7 +3,6 @@ share: true
 created: 2023-10-24T18:26
 updated: 2024-02-01T21:39
 ---
-
 [The full installer](https://docs.python.org/3/using/windows.html#windows-full) contains all components and is the best option for developers using Python for any kind of project.
 
 [The Microsoft Store package](https://docs.python.org/3/using/windows.html#windows-store) is a simple installation of Python that is suitable for running scripts and packages, and using IDLE or other development environments. It requires Windows 10 and above, but can be safely installed without corrupting other programs. It also provides many convenient commands for launching Python and its tools.
