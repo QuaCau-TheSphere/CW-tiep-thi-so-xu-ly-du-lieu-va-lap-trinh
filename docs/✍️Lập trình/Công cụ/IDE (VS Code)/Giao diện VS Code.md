@@ -4,7 +4,6 @@ created: 2023-07-28T12:35
 updated: 2024-03-17T17:49
 ---
 
-
 ## [Git Status Bar actions](https://code.visualstudio.com/docs/sourcecontrol/overview#_git-status-bar-actions)
 
 There is a **Synchronize Changes** action in the Status Bar, next to the branch indicator, when the current checked out branch has an upstream branch configured. **Synchronize Changes** will pull remote changes down to your local repository and then push local commits to the upstream branch.
