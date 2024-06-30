@@ -3,7 +3,6 @@ share: true
 created: 2023-10-24T18:26
 updated: 2024-02-01T21:37
 ---
-
 ## Nguyên lý DIP – Dependency Inversion Principle
 
 Đây là nguyên lý khó nhằn nhất của SOLID vì nó đi ngược lại cách hiểu thông thường các bạn được học trong lập trình hướng đối tượng.
