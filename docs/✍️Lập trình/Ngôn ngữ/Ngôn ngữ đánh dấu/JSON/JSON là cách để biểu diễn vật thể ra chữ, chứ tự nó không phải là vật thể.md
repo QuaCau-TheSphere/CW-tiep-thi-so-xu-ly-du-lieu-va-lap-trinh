@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-05-20T12:08
 ---
-
 Đây cũng là lý do mà [Trong JS, console.log() sẽ hiển thị toàn bộ nội dung vật thể mà không phải làm gì. Trong Python, print() sẽ chỉ hiển thị nội dung vật thể nếu __str__() đã được định nghĩa](../../Ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BA%ADp%20tr%C3%ACnh/JavaScript%20v%C3%A0%20Python/Kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20JS%20v%C3%A0%20Python/V%E1%BB%81%20m%E1%BA%B7t%20k%E1%BB%B9%20thu%E1%BA%ADt/Trong%20JS,%20console.log()%20s%E1%BA%BD%20hi%E1%BB%83n%20th%E1%BB%8B%20to%C3%A0n%20b%E1%BB%99%20n%E1%BB%99i%20dung%20v%E1%BA%ADt%20th%E1%BB%83%20m%C3%A0%20kh%C3%B4ng%20ph%E1%BA%A3i%20l%C3%A0m%20g%C3%AC.%20Trong%20Python,%20print()%20s%E1%BA%BD%20ch%E1%BB%89%20hi%E1%BB%83n%20th%E1%BB%8B%20n%E1%BB%99i%20dung%20v%E1%BA%ADt%20th%E1%BB%83%20n%E1%BA%BFu%20__str__()%20%C4%91%C3%A3%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BB%8Bnh%20ngh%C4%A9a.md)
 Nguồn:: [Ben Alman » There's no such thing as a "JSON Object"](https://benalman.com/news/2010/03/theres-no-such-thing-as-a-json/)
 
