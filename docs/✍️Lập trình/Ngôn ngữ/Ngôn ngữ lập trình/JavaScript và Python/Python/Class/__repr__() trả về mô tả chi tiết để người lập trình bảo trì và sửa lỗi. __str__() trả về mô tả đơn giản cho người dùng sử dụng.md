@@ -3,7 +3,6 @@ share: true
 created: 2023-09-27T15:07
 updated: 2024-02-01T21:39
 ---
-
 Nguồn:: [Real Python](../../../../../%CE%9E%20Ngu%E1%BB%93n%20v%C3%A0%20t%C3%A0i%20nguy%C3%AAn%20h%E1%BB%97%20tr%E1%BB%A3/%CE%9E%20Ngu%E1%BB%93n/Real%20Python.md), [When Should You Use .\_\_repr\_\_() vs .\_\_str\_\_() in Python? – Real Python](https://realpython.com/python-repr-vs-str/)
 
 I was advised to not use `vars()` or `__dict__`, just use the actual API of the classes. If an object isn't printing well without that introspection, then that's the devs fault for not writing proper string and print methods (usually via `__repr__`). Or in other words, Python defers the responsibility to display the objects to the dev, while JS takes that responsibility.
