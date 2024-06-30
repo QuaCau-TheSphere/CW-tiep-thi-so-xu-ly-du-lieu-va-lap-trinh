@@ -3,7 +3,6 @@ share: true
 created: 2023-10-24T18:26
 updated: 2024-01-09T16:12
 ---
-
 Một cách đại khái, [interface](https://tuhocict.com/lesson/cai-tien-data-acceess-su-dung-interface/) là một giao kèo giữa bên sử dụng và bên thực thi class. Cụ thể hơn, [interface](https://tuhocict.com/giai-phap-winforms-3-interface-loose-coupling/) chứa các mô tả về phương thức và thuộc tính mà bên thực thi class phải xây dựng. Bên sử dụng thì không cần quan tâm đến cách thức xây dựng này.
 
 Lấy một ví dụ khác. Giả sử đèn điện nhà bạn lắp toàn loại đui xoáy. Nếu bạn cần mua bóng đèn, có vô số loại khác nhau, từ đèn sợi đốt đến đèn huỳnh quang, từ hình vuông đến hình tròn. Nhưng chỉ cần nó là đui xoáy thì bạn đều có thể sử dụng được.
