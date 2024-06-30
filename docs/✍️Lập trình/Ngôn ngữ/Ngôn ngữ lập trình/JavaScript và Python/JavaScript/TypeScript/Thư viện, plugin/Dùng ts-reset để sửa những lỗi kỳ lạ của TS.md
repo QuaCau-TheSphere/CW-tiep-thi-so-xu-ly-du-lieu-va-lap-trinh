@@ -4,7 +4,6 @@ created: 2023-10-30T14:29
 updated: 2024-03-22T16:37
 ---
 
-
 > [!attention] Chỉ dùng cho app, không dùng trên thư viện
 > `ts-reset` is designed to be used in application code, not library code. Each rule you include will make changes to the global scope. That means that, simply by importing your library, your user will be unknowingly opting in to `ts-reset`.
 
