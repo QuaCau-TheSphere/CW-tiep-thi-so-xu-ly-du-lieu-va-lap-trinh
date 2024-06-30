@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-05-14T12:21
 ---
-
 It is important because signals are reactive, meaning they need to keep track of who is interested in the state and notify subscribers of state changes. This is achieved by observing the context in which the state-getter is invoked, which creates a subscription.
 
 In contrast, `useState()` in React returns only the state-value, meaning it has no idea how the state-value is used and must re-render the whole component tree in response to state changes.
