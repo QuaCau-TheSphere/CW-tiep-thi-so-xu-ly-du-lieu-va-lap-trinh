@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-06-01T22:12
 ---
-
 Khi merge là lấy commit từ branch khác về branch hiện tại
 ```
 # Xem branch hiện tại
