@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-05-06T17:30
 ---
-
 Một document có thể có nhiều article. Một article cũng có thể chứa nhiều article khác. :
 ```html
 <article class="forecast">
