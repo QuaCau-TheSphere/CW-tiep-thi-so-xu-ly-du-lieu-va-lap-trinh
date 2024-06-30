@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2023-11-29T15:06
 ---
-
 [Remote Control được sinh ra để giải quyết vấn đề Same-Origin Policy](./Remote%20Control%20%C4%91%C6%B0%E1%BB%A3c%20sinh%20ra%20%C4%91%E1%BB%83%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20Same-Origin%20Policy.md) 
 
 - Selenium IDE được phân phối dưới dạng plug-in của Firefox và khá dễ dàng để cài đặt và sử dụng. Người dùng không bắt buộc phải có kiến thức lập trình. Selenium IDE là một tool lý tưởng cho người dùng naive.
