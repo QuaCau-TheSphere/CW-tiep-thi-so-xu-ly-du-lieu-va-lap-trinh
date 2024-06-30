@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-03-20T21:47
 ---
-
 Tốt nhất là dùng một [YAML Parser Online](https://jsonformatter.org/yaml-parser) để kiểm tra.
 
 Dấu liệt kê `- ` phía trước và dấu hai chấm `:` phía sau sẽ quyết định nhiều thứ
