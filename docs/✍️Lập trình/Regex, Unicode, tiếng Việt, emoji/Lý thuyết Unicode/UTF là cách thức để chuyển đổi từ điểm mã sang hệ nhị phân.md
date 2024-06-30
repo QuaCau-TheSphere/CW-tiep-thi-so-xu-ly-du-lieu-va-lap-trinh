@@ -3,7 +3,6 @@ share: true
 created: 2023-09-22T21:39
 updated: 2024-04-23T01:40
 ---
-
 Nguồn:: ![Unicode Encoding! UTF-32, UCS-2, UTF-16, & UTF-8! - YouTube](https://www.youtube.com/watch?v=uTJoJtNYcaQ)
 ![](https://youtu.be/c_hfKgektt4?si=gKYUGTBDqefMiXeG) 
 
