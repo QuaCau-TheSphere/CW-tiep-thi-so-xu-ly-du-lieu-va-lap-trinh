@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2023-11-28T23:49
 ---
-
 Chắc hẳn nhiều người sẽ cảm thấy xa lạ với từ OAuth. Bởi OAuth có chứa cụm Auth nên có lẽ các bạn cũng đã hình dung đái khái rằng nó có liên quan đến xác thực người dung. Thế nhưng còn “O” thì sao? “O” có ý nghĩa gì? Trường hợp tên chính thức của một sự vật, hiện tượng được cấu thành bằng một từ viết tắt, việc gặp khó khăn khi đi tìm từ nguyên gốc là điều tất nhiên.
 
 Vậy thì, trước tiên chúng ta hãy bỏ qua việc đi tìm ý nghĩa của từng từ đơn cấu thành nên OAuth. Hãy cùng tìm hiểu xem kỹ thuật này được ứng dụng ở đâu? Trong số những câu trả lời cho câu hỏi này, có một đáp án quen thuộc đến mức khiến nhiều người bất ngờ: Tính năng liên kết giữa các mạng xã hội.
