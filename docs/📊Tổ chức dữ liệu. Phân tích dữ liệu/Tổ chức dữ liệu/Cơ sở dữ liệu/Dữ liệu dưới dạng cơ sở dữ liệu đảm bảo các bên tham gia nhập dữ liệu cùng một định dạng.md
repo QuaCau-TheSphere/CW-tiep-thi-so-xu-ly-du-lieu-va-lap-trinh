@@ -3,7 +3,7 @@ share: true
 created: 2023-10-30T14:29
 updated: 2023-10-30T18:19
 ---
-\-
+
 - Thống nhất giữa các người dùng dễ dàng
 - Đảm bảo các bên tham gia nhập dữ liệu cùng một format
 - Số biến có hạn, nhưng nhất quán
