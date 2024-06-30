@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-02-01T21:39
 ---
-
 ## Trailing comma là gì? Tại sao nó từng là lỗi trong JavaScript?
 
 Trailing comma (dấu phẩy đuôi, dấu phẩy cuối) là việc để dư **một dấu phẩy** sau phần tử cuối cùng ở cuối một danh sách (có thể là phần tử trong Array literal, property trong Object literal, tham số của hàm…). Ví dụ:

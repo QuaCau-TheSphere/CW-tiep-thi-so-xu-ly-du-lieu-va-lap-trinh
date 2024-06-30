@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-01-25T19:12
 ---
-
 One important thing to remember: **Preact is just a rendering library and only concerns itself with getting stuff on the screen as fast as possible.**
 
 The consequences of this are:
@@ -29,4 +28,4 @@ All in all Fresh is a somewhat minimal wrapper around Preact. It's a similar rel
 
 Nguồn:: [fresh/docs/latest/concepts/jsx-and-preact.md at ddff9a6324be4d35dd6065f3503c5d5b42a1b574 · denoland/fresh · GitHub](https://github.com/denoland/fresh/blob/ddff9a6324be4d35dd6065f3503c5d5b42a1b574/docs/latest/concepts/jsx-and-preact.md)
 
-[Render là quá trình chuyển đổi dữ liệu và code sang HTML](../Component,%20render/Render%20l%C3%A0%20qu%C3%A1%20tr%C3%ACnh%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20d%E1%BB%AF%20li%E1%BB%87u%20v%C3%A0%20code%20sang%20HTML.md)
+[Render là quá trình chuyển đổi dữ liệu và code sang HTML](../Component,%20render,%20JSX/Render%20l%C3%A0%20qu%C3%A1%20tr%C3%ACnh%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20d%E1%BB%AF%20li%E1%BB%87u%20v%C3%A0%20code%20sang%20HTML.md)

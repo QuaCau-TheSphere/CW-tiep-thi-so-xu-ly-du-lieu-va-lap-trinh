@@ -4,7 +4,6 @@ created: 2023-10-30T14:29
 updated: 2024-04-23T23:48
 title: /// cung cấp chỉ dẫn cho TS
 ---
-
 ```
 /// <reference path="helperFunctions.ts" />
 /// <reference types="node" />

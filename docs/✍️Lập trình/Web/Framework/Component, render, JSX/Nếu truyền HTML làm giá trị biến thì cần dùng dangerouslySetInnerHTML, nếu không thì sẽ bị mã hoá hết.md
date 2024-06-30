@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-05-12T13:26
 ---
-
 Ví dụ trong `routes/test.tsx`:
 ```tsx
 import { CSS, render } from "https://deno.land/x/gfm/mod.ts";

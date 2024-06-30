@@ -6,5 +6,4 @@ title: Python
 ---
 
 
-
 ![Transforming Code into Beautiful, Idiomatic Python - YouTube](https://youtu.be/OSGv2VnC0go?si=rFkJawTXPhVZdgXG)

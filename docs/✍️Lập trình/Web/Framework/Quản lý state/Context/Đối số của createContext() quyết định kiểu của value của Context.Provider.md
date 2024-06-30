@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-04-03T14:34
 ---
-
 ```tsx
 export const Context = createContext('a')
 export default function Provider({ children }) {

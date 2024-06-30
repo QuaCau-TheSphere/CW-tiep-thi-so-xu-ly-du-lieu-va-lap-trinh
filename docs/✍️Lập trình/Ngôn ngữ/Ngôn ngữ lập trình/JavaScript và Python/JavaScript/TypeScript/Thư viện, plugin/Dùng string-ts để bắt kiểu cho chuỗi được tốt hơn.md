@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-03-22T16:37
 ---
-
 ## 😬 The problem
 
 When you are working with literal strings, the string manipulation functions only work at the runtime level and the types don't follow those transformations. You end up losing type information and possibly having to cast the result.

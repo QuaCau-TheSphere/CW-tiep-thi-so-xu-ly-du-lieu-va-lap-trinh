@@ -3,7 +3,6 @@ share: true
 created: 2023-09-22T21:08
 updated: 2024-04-23T01:39
 ---
-
 Nguồn:: ![](https://www.youtube.com/watch?v=qOcxwRc2Epg&t=0s) 
 
 Tốt nhất là nên dùng điểm mã khi nói về ký tự máy tính

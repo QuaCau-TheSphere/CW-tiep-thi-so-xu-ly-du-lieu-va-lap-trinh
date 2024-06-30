@@ -3,7 +3,6 @@ share: true
 created: 2023-09-26T15:16
 updated: 2024-01-17T21:28
 ---
-
 ```
 Vật thể:
   - Tên chiều: Món đồ

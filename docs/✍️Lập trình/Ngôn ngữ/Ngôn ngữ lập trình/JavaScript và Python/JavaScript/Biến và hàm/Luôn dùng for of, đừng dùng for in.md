@@ -3,7 +3,6 @@ share: true
 created: 2023-10-24T18:26
 updated: 2024-04-27T13:20
 ---
-
 ```js
 let colors = ['red', 'green', 'blue'];
 

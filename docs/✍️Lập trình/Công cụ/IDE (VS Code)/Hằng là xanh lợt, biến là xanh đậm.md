@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-02-20T15:27
 ---
-
 ![](https://i.imgur.com/GRFQjkb.png)
 - Cái `importVar` đầu tiên, `varVar`, `letVar`, `console` đều biến nên có màu xanh đậm
 - `constVar` là hằng nên có màu xanh nhạt

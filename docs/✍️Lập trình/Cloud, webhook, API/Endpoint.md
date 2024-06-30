@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-04-03T13:23
 ---
-
 # Endpoint là gì? Lợi ích trong việc phát triển APIs
 
 In [QC/Test/Management](https://lcdung.top/category/qctest/)Tags [Action Plan](https://lcdung.top/tag/action-plan/), [endpoint](https://lcdung.top/tag/endpoint/)May 27, 2018

@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-03-31T16:31
 ---
-
 ### Chuyện làm web thời xưa
 
 Thời xưa, người ta chẳng cần bundler gì sất. Câu chuyện này giống như chuyện thời xưa người ta không cần điện thoại ấy.

@@ -4,7 +4,6 @@ created: 2023-10-10T20:51
 updated: 2023-12-03T21:08
 ---
 
-
 |                                                    | Template                       | Fork                                                      |
 | -------------------------------------------------- | ------------------------------ | --------------------------------------------------------- |
 | Commit history                                     | Starts with a single commit    | Includes entire commit history of the parent repository   |

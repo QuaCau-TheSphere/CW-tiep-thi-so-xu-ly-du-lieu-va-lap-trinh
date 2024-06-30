@@ -4,7 +4,6 @@ created: 2023-10-24T18:26
 updated: 2023-11-03T20:32
 title: Giao diện người dùng, logic, dữ liệu là 3 thành phần cơ bản cho một chương trình. Mỗi thành phần này có mục tiêu khác nhau, kỹ thuật xử lý khác nhau. Không thể trộn lẫn lộn với nhau được.
 ---
-
 ### Không phân biệt giữa giao diện – logic – dữ liệu
 
 Ở trên có nói tới việc bạn thường xuyên nhồi nhét đủ mọi loại code vào file code-behind của form. Nếu bạn phân biệt được rạch ròi các thành phần chính của ứng dụng thì có thể mọi thứ sẽ khác.

@@ -6,7 +6,6 @@ created: 2023-08-25T14:20
 updated: 2024-06-02T18:02
 ---
 
-
 # Debug trực tiếp ngay trên script
 1. Dùng console.log
 3. Dùng try...catch

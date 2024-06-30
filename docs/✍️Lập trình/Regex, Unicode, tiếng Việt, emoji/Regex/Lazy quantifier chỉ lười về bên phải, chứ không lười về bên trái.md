@@ -3,7 +3,6 @@ share: true
 created: 2023-10-24T16:28
 updated: 2024-04-23T01:42
 ---
-
 Nếu bạn có chuỗi sau:
 ```
 START START word word word END

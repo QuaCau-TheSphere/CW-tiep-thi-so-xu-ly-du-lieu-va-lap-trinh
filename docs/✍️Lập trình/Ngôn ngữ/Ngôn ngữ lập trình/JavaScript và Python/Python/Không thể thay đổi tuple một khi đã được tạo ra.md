@@ -3,7 +3,6 @@ share: true
 created: 2023-09-22T21:50
 updated: 2024-04-26T21:34
 ---
-
 Qua các nội dung của bài này và bài học trước đó ([list trong Python](https://tuhocict.com/kieu-danh-sach-list-trong-python/)) bạn có thể thấy có rất nhiều điểm tương tự giữa tuple và list. Tuy nhiên, tuple và list có những điểm phân biệt rất rõ ràng. Sự khác biệt này quyết định giá trị sử dụng của từng kiểu dữ liệu.
 
 Thứ nhất, list là kiểu dữ liệu _khả biến_ (mutable) trong khi tuple là kiểu dữ liệu _bất biến_ (immutable). Nghĩa là, một khi đã được tạo ra trong bộ nhớ, list có thể thay đổi còn tuple không thể thay đổi. Các thao tác biến đổi trên tuple sẽ đều tạo ra object mới chứ không thay đổi object sẵn có.

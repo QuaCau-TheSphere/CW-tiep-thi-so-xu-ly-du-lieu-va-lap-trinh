@@ -3,7 +3,6 @@ share: true
 created: 2023-10-24T18:26
 updated: 2024-04-29T15:32
 ---
-
 Biến môi trường tiếng Anh là *environmental variable*. Viết tắt là `env`
 ![What are Environment Variables, and how do I use them? (get,set) - YouTube](https://youtu.be/ADh_OFBfdEE?si=U30Tg6HS8hvzgCcv)
 Trong [PowerShell](../Terminal,%20shell,%20console/PowerShell/PowerShell%20l%C3%A0%20m%E1%BB%99t%20ng%C3%B4n%20ng%E1%BB%AF%20shell.md) dùng lệnh này để liệt kê tất cả các env:

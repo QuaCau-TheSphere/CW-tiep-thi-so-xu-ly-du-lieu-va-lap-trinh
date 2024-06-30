@@ -3,7 +3,6 @@ share: true
 created: 2023-10-24T18:26
 updated: 2024-06-01T22:15
 ---
-
 # Xem danh sách tất cả commit
 ```bash
 git log --oneline

@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-03-13T13:44
 ---
-
 JS map or object, Python dictionary, PHP associative array, Perl hash, Common Lisp hash table
 
 Programming languages intended for mathematicians should use the jargon of mathematics; we'd expect "map" in the sense of "function" to be in their vocabulary. A line-of-business programmer, particularly one who came to programming through business rather than academia, is more likely to think of a map as being a plot of terrain used for navigation, so a line-of-business language ought to use a less jargon-laden term such as "lookup" or "dictionary".

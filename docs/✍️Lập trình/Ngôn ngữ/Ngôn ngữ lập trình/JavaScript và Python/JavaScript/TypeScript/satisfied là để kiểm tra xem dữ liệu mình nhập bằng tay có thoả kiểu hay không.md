@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-05-03T21:13
 ---
-
 ```ts
 type Colors = "red" | "green" | "blue";
 type RGB = [red: number, green: number, blue: number];

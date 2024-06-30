@@ -3,7 +3,6 @@ share: true
 created: 2023-10-24T18:26
 updated: 2024-04-27T13:20
 ---
-
 ### Khác với [`var`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
 
 Các biến được khai báo với `var` có phạm vi `function scope`, còn với `let`, `const` thì nó phạm vi `block scope`

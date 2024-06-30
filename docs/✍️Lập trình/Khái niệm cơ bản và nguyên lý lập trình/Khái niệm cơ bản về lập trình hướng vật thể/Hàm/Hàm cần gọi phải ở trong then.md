@@ -3,7 +3,6 @@ share: true
 created: 2023-10-24T18:26
 updated: 2024-02-01T21:51
 ---
-
 Tại sao khi gọi async function thì lại để console.log() trong then chứ không để ở ngoài được nhỉ? Phải là:
 ```js
 asyncFunction(arg).then((result) => { console.log(result) })

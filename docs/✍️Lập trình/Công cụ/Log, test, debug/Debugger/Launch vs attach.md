@@ -3,7 +3,6 @@ share: true
 created: 2023-10-30T14:29
 updated: 2023-11-10T13:10
 ---
-
 Khởi chạy so với đính kèm cấu hình
 
 Trong Mã VS, có hai chế độ gỡ lỗi cốt lõi, Khởi chạy và Đính kèm, xử lý hai quy trình công việc và phân đoạn khác nhau của nhà phát triển. Tùy thuộc vào quy trình làm việc của bạn, có thể gây nhầm lẫn khi biết loại cấu hình nào phù hợp với dự án của bạn.

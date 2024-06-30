@@ -3,7 +3,6 @@ share: true
 created: 2023-09-27T15:15
 updated: 2024-02-01T21:39
 ---
-
 ```python
 c = a + b
 ```

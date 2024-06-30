@@ -4,7 +4,6 @@ created: 2023-10-30T14:29
 updated: 2024-03-02T14:19
 ---
 
-
 In TeX, you learn the **basic things** and use that to do what you want.
 
 [![TeX](https://i.stack.imgur.com/IGvRS.png)](https://i.stack.imgur.com/IGvRS.png)
