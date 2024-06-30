@@ -3,7 +3,6 @@ share: true
 created: 2023-10-24T18:26
 updated: 2024-02-01T18:56
 ---
-
 | Icon                                                                                                                                            | Name                      | Symbol type                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------------------------- |
 | ![method icon](https://code.visualstudio.com/assets/docs/editor/intellisense/Method_16x.svg)                                                    | Methods and Functions     | `method`, `function`, `constructor` |
