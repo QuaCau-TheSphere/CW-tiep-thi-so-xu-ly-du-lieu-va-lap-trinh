@@ -3,7 +3,6 @@ share: true
 created: 2023-10-24T18:26
 updated: 2023-10-31T19:25
 ---
-
 Can I know for what typescript is used for with a realtime example in which it is being used
 
 [](https://chat.stackoverflow.com/transcript/17?m=56479899#56479899)
