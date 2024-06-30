@@ -3,7 +3,6 @@ share: true
 created: 2023-09-27T22:34
 updated: 2024-03-21T21:49
 ---
-
 ```python
 class Book:
     def __init__(self, title, author):
