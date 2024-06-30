@@ -3,7 +3,6 @@ share: true
 created: 2023-10-24T18:26
 updated: 2024-01-05T12:31
 ---
-
 Hàm giúp ta làm một công việc nào đó. Công việc đó có thể liên quan tới một vật thể hoặc không. Còn phương thức chắc chắn phải làm những công việc liên quan tới một vật thể cụ thể. [Phương thức cho ta biết mình có thể làm gì với vật thể đó](./Ph%C6%B0%C6%A1ng%20th%E1%BB%A9c%20cho%20ta%20bi%E1%BA%BFt%20m%C3%ACnh%20c%C3%B3%20th%E1%BB%83%20l%C3%A0m%20g%C3%AC%20v%E1%BB%9Bi%20v%E1%BA%ADt%20th%E1%BB%83%20%C4%91%C3%B3.md). 
 
 Ví dụ, bạn có một rổ trái cây:
