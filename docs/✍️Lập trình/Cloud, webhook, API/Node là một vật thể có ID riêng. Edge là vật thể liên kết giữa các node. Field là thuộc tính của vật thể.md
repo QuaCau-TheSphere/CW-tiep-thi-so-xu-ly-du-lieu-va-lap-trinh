@@ -3,7 +3,6 @@ share: true
 created: 2023-10-26T00:13
 updated: 2023-11-29T00:16
 ---
-
 [Node với edge được gọi chung là endpoint](Node%20v%E1%BB%9Bi%20edge%20%C4%91%C6%B0%E1%BB%A3c%20g%E1%BB%8Di%20chung%20l%C3%A0%20endpoint.md)
 nodes to get data about a specific object, use edges to get collections of objects on a single object, and use fields to get data about a single object or each object in a collection
 ## Nodes
