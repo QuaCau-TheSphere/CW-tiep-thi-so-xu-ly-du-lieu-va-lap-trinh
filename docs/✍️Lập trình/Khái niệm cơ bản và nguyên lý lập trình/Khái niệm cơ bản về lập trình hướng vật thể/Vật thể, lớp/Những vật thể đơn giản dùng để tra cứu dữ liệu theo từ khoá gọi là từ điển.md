@@ -5,7 +5,7 @@ updated: 2023-11-03T19:52
 ---
 Nếu tất cả thuộc tính của vật thể đều đơn giản, và vật thể được dùng để tra cứu dữ liệu theo từ khoá chứ không phải là để thao tác và thay đổi thuộc tính bằng phương thức, thì nó được gọi là từ điển
 
-Ví dụ, khi khai báo [Trấn Kỳ](../../../../%F0%9F%92%A1S%E1%BA%A3n%20ph%E1%BA%A9m/%F0%9F%91%8FTr%E1%BA%A5n%20K%E1%BB%B3/index.md) như sau:
+Ví dụ, khi khai báo [Trấn Kỳ](../../../../%F0%9F%91%8FS%E1%BA%A3n%20ph%E1%BA%A9m/Tr%E1%BA%A5n%20K%E1%BB%B3/index.md) như sau:
 ```yaml
 Khai báo:
   - Tên chiều: Món đồ    

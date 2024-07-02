@@ -15,8 +15,8 @@ title: Docker
     - [Image là template để chạy container](./Image%20l%C3%A0%20template%20%C4%91%E1%BB%83%20ch%E1%BA%A1y%20container.md)
     - [Mỗi một dòng trong dockerfile sẽ tương ứng với một step khi dựng image](./M%E1%BB%97i%20m%E1%BB%99t%20d%C3%B2ng%20trong%20dockerfile%20s%E1%BA%BD%20t%C6%B0%C6%A1ng%20%E1%BB%A9ng%20v%E1%BB%9Bi%20m%E1%BB%99t%20step%20khi%20d%E1%BB%B1ng%20image.md)
     - [Nếu dựng lại image mà đánh tag giống nhau thì image cũ sẽ thành danling image](./N%E1%BA%BFu%20d%E1%BB%B1ng%20l%E1%BA%A1i%20image%20m%C3%A0%20%C4%91%C3%A1nh%20tag%20gi%E1%BB%91ng%20nhau%20th%C3%AC%20image%20c%C5%A9%20s%E1%BA%BD%20th%C3%A0nh%20danling%20image.md)
-    - [Volume là cách để đồng bộ dữ liệu giữa máy chủ và máy ảo](./Volume%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20%C4%91%E1%BB%93ng%20b%E1%BB%99%20d%E1%BB%AF%20li%E1%BB%87u%20gi%E1%BB%AFa%20m%C3%A1y%20ch%E1%BB%A7%20v%C3%A0%20m%C3%A1y%20%E1%BA%A3o.md)
     - [Việc dựng image được thiết lập qua dockerfile](./Vi%E1%BB%87c%20d%E1%BB%B1ng%20image%20%C4%91%C6%B0%E1%BB%A3c%20thi%E1%BA%BFt%20l%E1%BA%ADp%20qua%20dockerfile.md)
+    - [Volume là cách để đồng bộ dữ liệu giữa máy chủ và máy ảo](./Volume%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20%C4%91%E1%BB%93ng%20b%E1%BB%99%20d%E1%BB%AF%20li%E1%BB%87u%20gi%E1%BB%AFa%20m%C3%A1y%20ch%E1%BB%A7%20v%C3%A0%20m%C3%A1y%20%E1%BA%A3o.md)
 
 
 

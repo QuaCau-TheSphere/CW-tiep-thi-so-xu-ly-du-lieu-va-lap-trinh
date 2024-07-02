@@ -3,7 +3,7 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-04-03T13:46
 ---
-[HTTP là ngôn ngữ để trình duyệt và webserver nói chuyện với nhau](../../Qu%E1%BA%A3n%20tr%E1%BB%8B%20m%E1%BA%A1ng/Giao%20th%E1%BB%A9c/HTTP/HTTP%20l%C3%A0%20ng%C3%B4n%20ng%E1%BB%AF%20%C4%91%E1%BB%83%20tr%C3%ACnh%20duy%E1%BB%87t%20v%C3%A0%20webserver%20n%C3%B3i%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20nhau.md)
+[HTTP là ngôn ngữ để trình duyệt và webserver nói chuyện với nhau](../../%F0%9F%96%A5%EF%B8%8FM%E1%BA%A1ng%20m%C3%A1y%20t%C3%ADnh/Giao%20th%E1%BB%A9c/HTTP/HTTP%20l%C3%A0%20ng%C3%B4n%20ng%E1%BB%AF%20%C4%91%E1%BB%83%20tr%C3%ACnh%20duy%E1%BB%87t%20v%C3%A0%20webserver%20n%C3%B3i%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20nhau.md)
 ## What is Web API?
 
 - An API (Application Programming Interface) is the means by which third parties can write code that interfaces with other code.
