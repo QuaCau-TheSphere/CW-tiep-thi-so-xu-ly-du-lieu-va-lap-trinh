@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-05-26T14:29
+updated: 2024-07-26T13:44
 ---
-[JS được sinh ra để chạy trên trình duyệt và không được dùng để làm việc với lượng code lớn](../../Kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20JS%20v%C3%A0%20Python/V%E1%BB%81%20m%E1%BA%B7t%20tri%E1%BA%BFt%20l%C3%BD/JS%20%C4%91%C6%B0%E1%BB%A3c%20sinh%20ra%20%C4%91%E1%BB%83%20ch%E1%BA%A1y%20tr%C3%AAn%20tr%C3%ACnh%20duy%E1%BB%87t%20v%C3%A0%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20l%C6%B0%E1%BB%A3ng%20code%20l%E1%BB%9Bn.md)
+[JS vốn được sinh ra để chạy trên trình duyệt và không được dùng để làm việc với lượng code lớn](../../../%C3%9D%20%C4%91%E1%BB%93%20thi%E1%BA%BFt%20k%E1%BA%BF/JS%20v%E1%BB%91n%20%C4%91%C6%B0%E1%BB%A3c%20sinh%20ra%20%C4%91%E1%BB%83%20ch%E1%BA%A1y%20tr%C3%AAn%20tr%C3%ACnh%20duy%E1%BB%87t%20v%C3%A0%20kh%C3%B4ng%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20%C4%91%E1%BB%83%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20l%C6%B0%E1%BB%A3ng%20code%20l%E1%BB%9Bn.md)
 Trình duyệt không biết gì về Deno, Node, v.v. Muốn dùng các hàm do các môi trường thực thi này cung cấp thì phải chạy trên server chứ không chạy trên client được
 [Các hàm được môi trường thực thi cung cấp không hoạt động được ở island](../../../../../Web/Framework/Island,%20state/C%C3%A1c%20h%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi%20cung%20c%E1%BA%A5p%20kh%C3%B4ng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20%C4%91%C6%B0%E1%BB%A3c%20%E1%BB%9F%20island.md)
 
