@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-05-14T13:15
+updated: 2024-07-09T14:14
 ---
 ### Cách sử dụng sai
 
@@ -29,6 +29,6 @@ useEffect(() => {
 }, [])
 ```
 Cần xử lý gì thì cứ nhét hết vào `fetchData`. Ở dưới chỉ gọi mỗi hàm thôi.
-Nguồn:: [Site Unreachable](https://techmaster.vn/posts/37327/cach-su-dung-ham-async-trong-useeffect-co-vi-du)
+Nguồn:: https://techmaster.vn/posts/37327/cach-su-dung-ham-async-trong-useeffect-co-vi-du
 
 [Dùng fetch dạng promise chứ đừng await trong component](../../Component,%20render,%20JSX/D%C3%B9ng%20fetch%20d%E1%BA%A1ng%20promise%20ch%E1%BB%A9%20%C4%91%E1%BB%ABng%20await%20trong%20component.md)
