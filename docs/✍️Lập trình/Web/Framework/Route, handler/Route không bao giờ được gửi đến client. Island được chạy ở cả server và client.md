@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-05-26T14:14
+updated: 2024-07-26T13:37
 ---
 Lý do:: [Có một số hàm ở server sẽ không serialize được](./C%C3%B3%20m%E1%BB%99t%20s%E1%BB%91%20h%C3%A0m%20%E1%BB%9F%20server%20s%E1%BA%BD%20kh%C3%B4ng%20serialize%20%C4%91%C6%B0%E1%BB%A3c.md), [Serialize là cách duy nhất để truyền dữ liệu từ server tới client và ngược lại](./Serialize%20l%C3%A0%20c%C3%A1ch%20duy%20nh%E1%BA%A5t%20%C4%91%E1%BB%83%20truy%E1%BB%81n%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20server%20t%E1%BB%9Bi%20client%20v%C3%A0%20ng%C6%B0%E1%BB%A3c%20l%E1%BA%A1i.md)
 Lý do:: [Những API của môi trường thực thi không chạy được trên trình duyệt](../../../Ng%C3%B4n%20ng%E1%BB%AF/Ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BA%ADp%20tr%C3%ACnh/JavaScript%20v%C3%A0%20Python/JavaScript/Runtime/Nh%E1%BB%AFng%20API%20c%E1%BB%A7a%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi%20kh%C3%B4ng%20ch%E1%BA%A1y%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20tr%C3%ACnh%20duy%E1%BB%87t.md), [Các hàm được môi trường thực thi cung cấp không hoạt động được ở island](../Island,%20state/C%C3%A1c%20h%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi%20cung%20c%E1%BA%A5p%20kh%C3%B4ng%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20%C4%91%C6%B0%E1%BB%A3c%20%E1%BB%9F%20island.md) 
