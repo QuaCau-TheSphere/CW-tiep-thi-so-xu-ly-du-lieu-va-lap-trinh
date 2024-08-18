@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:31
-updated: 2024-08-17T20:28
+updated: 2024-08-17T23:44
 ---
 Nếu như một lập trình viên là một nhạc sĩ, thì những dòng code mà họ viết ra chính là một văn bản nhạc. Một bản nhạc được phát ra khi nhạc công nhìn vào văn bản nhạc và thao tác trên nhạc cụ. Tương tư, một chương trình chạy được khi engine đọc code và sử dụng runtime. Engine là thứ có thể đọc và hiểu code, còn runtime là toàn bộ những thứ mà engine dùng để tương tác với môi trường bên ngoài.
 
@@ -14,6 +14,6 @@ Có nhiều cách thức để ta ký hiệu âm thanh xuống trang giấy, cũ
 
 Để chạy được những ký hiệu này, chúng cần tới engine, thứ có thể đọc và hiểu chúng. Có nhiều loại runtime khác nhau cho JavaScript, và đây là những runtime bạn thường được nghe đến: Firefox, Chrome, Safari, Opera, Edge, Node, Deno, Electron. Như bạn thấy, 5 cái đầu chính là các trình duyệt chứ chẳng phải là gì xa lạ. Còn Electron chính là cái để viết ra phiên bản desktop cho Obsidian, Notion, Slack, VS Code, Discord, Dropbox, Figma, v.v. Trừ Firefox, Safari và Edge ra, thì tất cả các runtime còn lại đều dùng V8, một engine do Google viết ra.
 
-Node là một runtime, một môi trường thực thi cho JavaScript. Sau một thập kỷ phát triển, tác giả của Node viết đã viết ra Deno để khắc phục những thiếu sót của Node. Có thể xem bài thuyết trình [10 điều tôi hối hận về Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA "10 Things I Regret About Node.js - Ryan Dahl - JSConf EU - YouTube") của tác giả. (Tác giả không giải thích cái tên Deno có nghĩa là gì, nhưng nhiều người đoán nó là viết ngược lại của Node.)
+Node là một runtime, một môi trường thực thi cho JavaScript. Sau một thập kỷ phát triển, tác giả của Node viết đã viết ra Deno để khắc phục những thiếu sót của Node. Có thể xem bài diễn thuyết [10 điều tôi hối hận về Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA "10 Things I Regret About Node.js - Ryan Dahl - JSConf EU - YouTube") của tác giả. (Tác giả không giải thích cái tên Deno có nghĩa là gì, nhưng nhiều người đoán nó là viết ngược lại của Node.)
 
 Xem thêm:: [Stack Overflow](../../%CE%9E%20Ngu%E1%BB%93n%20v%C3%A0%20t%C3%A0i%20nguy%C3%AAn%20h%E1%BB%97%20tr%E1%BB%A3/%CE%9E%20Ngu%E1%BB%93n/Stack%20Overflow.md), [What is the difference between JavaScript Engine and JavaScript Runtime Environment - Stack Overflow](https://stackoverflow.com/questions/29027845/what-is-the-difference-between-javascript-engine-and-javascript-runtime-environm)
