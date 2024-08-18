@@ -1,0 +1,108 @@
+site_name: Tiếp thị số, xử lý dữ liệu và lập trình
+# site_name: !ENV [SITE_NAME, 'My default site name']
+site_description: Những thứ giúp xây dựng mental model khi phải code một cái gì đó
+site_url: https://xn--lptrnh-zva6402d.xn--qucu-hr5aza.cc
+repo_url: https://doi-thoai.deno.dev/jC.4F.1
+repo_name: GitHub
+
+theme:
+    name: 'material'
+    logo: assets/Vật thể (xuôi).svg
+    favicon: assets/Vật thể (xuôi).svg
+    font:
+        text: Roboto Slab
+        code: Roboto Mono
+    language: vi
+    icon:
+      repo: octicons/download-16
+    palette:
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+    features:
+        - navigation.indexes
+        - navigation.top
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - search.suggest
+        - search.highlight
+        - navigation.instant
+        - header.autohide
+        
+# Extensions
+markdown_extensions:
+  - footnotes
+  - nl2br
+  - attr_list
+  - sane_lists 
+  - meta
+  - smarty
+  - tables
+  - mdx_breakless_lists
+  - def_list
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.magiclink
+#   - pymdownx.critic
+#   - pymdownx.caret
+#   - pymdownx.keys
+#   - pymdownx.mark
+#   - pymdownx.tilde
+#   - pymdownx.highlight:
+#       use_pygments: true
+#       anchor_linenums: true
+  - pymdownx.tasklist:
+#   - pymdownx.inlinehilite
+#   - pymdownx.snippets
+#   - pymdownx.superfences:
+#       custom_fences:
+#         - name: mermaid
+#           class: mermaid
+#           format: !!python/name:pymdownx.superfences.fence_code_format
+plugins:
+  - search:
+      lang: en                            #Không hiểu sao dùng vi ko đc
+  - meta-descriptions
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: true
+      locale: vi
+      custom_format: "%A %d %B %Y"
+      enable_creation_date: true
+  - awesome-pages
+  - callouts
+  - glightbox
+  - social:
+      cards_font: Roboto Slab
+      cards_color:
+        fill: "#009485" 
+        text: "#FFFFFF" 
+extra:
+  SEO: assets/meta/SEO_plain.svg
+  attachments: 'attachments'
+  analytics:
+    provider: google
+    property: G-XHX9Q6ZB3Q
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://doi-thoai.deno.dev/pagefbQC.4F.1
+    - icon: fontawesome/brands/discord
+      link: https://doi-thoai.deno.dev/iz.4F.1
+    - icon: fontawesome/brands/github
+      link: https://doi-thoai.deno.dev/jC.4F.2
