@@ -1,13 +1,14 @@
 site_name: Tiếp thị số, xử lý dữ liệu và lập trình
+# site_name: !ENV [SITE_NAME, 'My default site name']
 site_description: Những thứ giúp xây dựng mental model khi phải code một cái gì đó
 site_url: https://xn--lptrnh-zva6402d.xn--qucu-hr5aza.cc
-repo_url: https://github.com/QuaCau-TheSphere/CV-xu-ly-du-lieu-va-lap-trinh
+repo_url: https://doi-thoai.deno.dev/jC.4F.1
 repo_name: GitHub
 
 theme:
     name: 'material'
-    # logo: assets/Vật thể (xuôi).svg
-    # favicon: assets/Vật thể (xuôi).svg
+    logo: assets/Vật thể (xuôi).svg
+    favicon: assets/Vật thể (xuôi).svg
     font:
         text: Roboto Slab
         code: Roboto Mono
@@ -45,19 +46,19 @@ theme:
         
 # Extensions
 markdown_extensions:
-#   - footnotes
-#   - nl2br
-#   - attr_list
-#   - sane_lists 
-#   - meta
-#   - smarty
-#   - tables
-#   - mdx_breakless_lists
-#   - def_list
-#   - pymdownx.arithmatex:
-#       generic: true
-#   - pymdownx.details
-#   - pymdownx.magiclink
+  - footnotes
+  - nl2br
+  - attr_list
+  - sane_lists 
+  - meta
+  - smarty
+  - tables
+  - mdx_breakless_lists
+  - def_list
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.magiclink
 #   - pymdownx.critic
 #   - pymdownx.caret
 #   - pymdownx.keys
@@ -66,14 +67,7 @@ markdown_extensions:
 #   - pymdownx.highlight:
 #       use_pygments: true
 #       anchor_linenums: true
-#   - pymdownx.tasklist:
-#        custom_checkbox: true
-#   - pymdownx.emoji:
-#       emoji_index: !!python/name:materialx.emoji.twemoji
-#       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - admonition
-#   - toc:
-#       permalink: true
+  - pymdownx.tasklist:
 #   - pymdownx.inlinehilite
 #   - pymdownx.snippets
 #   - pymdownx.superfences:
@@ -101,14 +95,14 @@ plugins:
         text: "#FFFFFF" 
 extra:
   SEO: assets/meta/SEO_plain.svg
-  attachments: 'assets/img' #path to the folder where the attachments are stored
+  attachments: 'attachments'
   analytics:
     provider: google
     property: G-XHX9Q6ZB3Q
   social:
     - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/quacau.sphere/
+      link: https://doi-thoai.deno.dev/pagefbQC.4F.1
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/jWTk4EHFK2
+      link: https://doi-thoai.deno.dev/iz.4F.1
     - icon: fontawesome/brands/github
-      link: https://github.com/QuaCau-TheSphere/CV-xu-ly-du-lieu-va-lap-trinh
+      link: https://doi-thoai.deno.dev/jC.4F.2

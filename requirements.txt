@@ -18,3 +18,5 @@ mkdocs-exclude
 cairocffi
 pillow
 cairosvg
+pyyaml 
+pyyaml_env_tag
