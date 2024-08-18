@@ -6,8 +6,8 @@ repo_name: GitHub
 
 theme:
     name: 'material'
-    logo: assets/Vật thể (xuôi).svg
-    favicon: assets/Vật thể (xuôi).svg
+    # logo: assets/Vật thể (xuôi).svg
+    # favicon: assets/Vật thể (xuôi).svg
     font:
         text: Roboto Slab
         code: Roboto Mono
@@ -82,8 +82,8 @@ markdown_extensions:
 #           class: mermaid
 #           format: !!python/name:pymdownx.superfences.fence_code_format
 plugins:
-  - search
-      # lang: en                      # không hiểu sao không cho build nếu có dòng này
+  - search:
+      lang: en                            #Không hiểu sao dùng vi ko đc
   - meta-descriptions
   - git-revision-date-localized:
       type: date
@@ -92,11 +92,6 @@ plugins:
       custom_format: "%A %d %B %Y"
       enable_creation_date: true
   - awesome-pages
-  - embed_file:
-      callouts: true
-      custom-attributes: 'assets/css/custom_attributes.css'
-  - custom-attributes:
-      file: 'assets/css/custom_attributes.css'
   - callouts
   - glightbox
   - social:

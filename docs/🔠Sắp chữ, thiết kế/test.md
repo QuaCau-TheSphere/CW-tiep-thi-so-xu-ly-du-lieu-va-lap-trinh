@@ -3,7 +3,7 @@ share: true
 created: 2023-10-30T14:29
 updated: 2024-08-18T14:49
 ---
-```tsx
+```js
 console.log('dfdf')
 function App(){
     return <div>ssdf</div>
