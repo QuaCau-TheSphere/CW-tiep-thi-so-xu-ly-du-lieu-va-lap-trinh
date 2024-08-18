@@ -1,7 +1,0 @@
----
-share: true
-created: 2023-10-24T18:26
-updated: 2024-01-26T17:22
----
-Nguồn:: [Viblo](../../../%CE%9E%20Ngu%E1%BB%93n%20v%C3%A0%20t%C3%A0i%20nguy%C3%AAn%20h%E1%BB%97%20tr%E1%BB%A3/%CE%9E%20Ngu%E1%BB%93n/Viblo.md), [Typescript: Class, Interface & chúng khác gì với class, interface trong C#, Java (!?)](https://viblo.asia/p/typescript-class-interface-chung-khac-gi-voi-class-interface-trong-c-java-YWOZryzrKQ0)
-[Nếu dữ liệu không nhất thiết ở dạng vật thể thì type gọn hơn và linh hoạt hơn.  Nếu đã xác định dữ liệu cần ở dạng vật thể thì interface sẽ thể hiện tốt ý tưởng của người viết hơn](../../../Ng%C3%B4n%20ng%E1%BB%AF/Ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BA%ADp%20tr%C3%ACnh/JavaScript%20v%C3%A0%20Python/JavaScript/TypeScript/N%E1%BA%BFu%20d%E1%BB%AF%20li%E1%BB%87u%20kh%C3%B4ng%20nh%E1%BA%A5t%20thi%E1%BA%BFt%20%E1%BB%9F%20d%E1%BA%A1ng%20v%E1%BA%ADt%20th%E1%BB%83%20th%C3%AC%20type%20g%E1%BB%8Dn%20h%C6%A1n%20v%C3%A0%20linh%20ho%E1%BA%A1t%20h%C6%A1n.%20%20N%E1%BA%BFu%20%C4%91%C3%A3%20x%C3%A1c%20%C4%91%E1%BB%8Bnh%20d%E1%BB%AF%20li%E1%BB%87u%20c%E1%BA%A7n%20%E1%BB%9F%20d%E1%BA%A1ng%20v%E1%BA%ADt%20th%E1%BB%83%20th%C3%AC%20interface%20s%E1%BA%BD%20th%E1%BB%83%20hi%E1%BB%87n%20t%E1%BB%91t%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20vi%E1%BA%BFt%20h%C6%A1n.md)
