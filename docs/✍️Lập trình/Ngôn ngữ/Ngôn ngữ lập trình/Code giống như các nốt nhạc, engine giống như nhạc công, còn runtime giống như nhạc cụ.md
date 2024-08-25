@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2023-10-30T14:31
-updated: 2024-08-18T17:02
+updated: 2024-08-24T12:40
+alias: Môi trường thực thi đối với code cũng giống như nhạc cụ đối với nốt nhạc
 ---
 Nếu như một lập trình viên là một nhạc sĩ, thì cái script họ viết ra chính là cái sheet nhạc. Một bản nhạc được phát ra khi nhạc công nhìn vào văn bản nhạc và thao tác trên nhạc cụ. Tương tự, một chương trình chạy được khi engine đọc code và sử dụng runtime. Engine là thứ có thể đọc và hiểu code, còn runtime là toàn bộ những thứ mà engine dùng để tương tác với môi trường bên ngoài.
 
@@ -17,3 +18,5 @@ Có nhiều cách thức để ta ký hiệu âm thanh xuống trang giấy, cũ
 Node là một runtime, một môi trường thực thi cho JavaScript. Sau một thập kỷ phát triển, tác giả của Node viết đã viết ra Deno để khắc phục những thiếu sót của Node. Có thể xem bài diễn thuyết [10 điều tôi hối hận về Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA "10 Things I Regret About Node.js - Ryan Dahl - JSConf EU - YouTube") của tác giả. (Tác giả không giải thích cái tên Deno có nghĩa là gì, nhưng nhiều người đoán nó là viết ngược lại của Node.)
 
 Xem thêm:: [Stack Overflow](../../%CE%9E%20Ngu%E1%BB%93n%20v%C3%A0%20t%C3%A0i%20nguy%C3%AAn%20h%E1%BB%97%20tr%E1%BB%A3/%CE%9E%20Ngu%E1%BB%93n/Stack%20Overflow.md), [What is the difference between JavaScript Engine and JavaScript Runtime Environment - Stack Overflow](https://stackoverflow.com/questions/29027845/what-is-the-difference-between-javascript-engine-and-javascript-runtime-environm)
+
+[Runtime là lúc chạy, runtime environment là môi trường thực thi. Nhưng nhiều lúc môi trường thực thi được gọi tắt là runtime](./Runtime%20l%C3%A0%20l%C3%BAc%20ch%E1%BA%A1y,%20runtime%20environment%20l%C3%A0%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi.%20Nh%C6%B0ng%20nhi%E1%BB%81u%20l%C3%BAc%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi%20%C4%91%C6%B0%E1%BB%A3c%20g%E1%BB%8Di%20t%E1%BA%AFt%20l%C3%A0%20runtime.md)
