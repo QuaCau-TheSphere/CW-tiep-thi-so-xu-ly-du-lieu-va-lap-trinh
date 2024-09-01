@@ -1,0 +1,15 @@
+---
+share: true
+created: 2023-05-26T14:51
+updated: 2024-08-31T21:00
+---
+Syncthing là dành cho nhóm nhỏ thôi, hoặc tốt nhất là giữa các thiết bị khác nhau của cùng một người. Nếu có nhiều người cùng xài thì sẽ dễ loạn lắm, tạo nhiều xung đột. Nếu có ai thao tác sai thì nó sẽ phá huỷ tất cả dữ liệu. 
+
+Git chuyên cho việc hợp tác làm việc. Mỗi người có thể tự điều chỉnh thứ nào mình sẽ lấy xuống, thứ nào mình sẽ đẩy lên
+
+Những thứ loạn khi dùng Syncthing cho nhiều người:
+- Ngăn những file không mong muốn
+- Mỗi người có một cách để đồng bộ trên điện thoại. 
+- [Ảnh lưu trên vault trên điện thoại sẽ được thấy trong gallery ảnh](./Syncthing/%E1%BA%A2nh%20l%C6%B0u%20tr%C3%AAn%20vault%20tr%C3%AAn%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20s%E1%BA%BD%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BA%A5y%20trong%20gallery%20%E1%BA%A3nh.md)
+
+[Hướng dẫn đồng bộ dữ liệu với Android](./Syncthing/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20%C4%91%E1%BB%93ng%20b%E1%BB%99%20d%E1%BB%AF%20li%E1%BB%87u%20v%E1%BB%9Bi%20Android.md)
