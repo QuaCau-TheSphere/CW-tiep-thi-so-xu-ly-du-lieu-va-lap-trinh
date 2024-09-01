@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-08-18T15:05
+updated: 2024-08-27T00:25
 ---
 === là == mà không đổi kiểu (type conversion).
 
@@ -47,3 +47,5 @@ e === f           // true
 "abc" === new String("abc")   // false
 ```
 Nguồn:: [Stack Overflow](../../../../../../%CE%9E%20Ngu%E1%BB%93n%20v%C3%A0%20t%C3%A0i%20nguy%C3%AAn%20h%E1%BB%97%20tr%E1%BB%A3/%CE%9E%20Ngu%E1%BB%93n/Stack%20Overflow.md), [Which equals operator (== vs ===) should be used in JavaScript comparisons?](https://stackoverflow.com/a/359509/3416774)
+
+[JS Comparison Table](https://dorey.github.io/JavaScript-Equality-Table/unified/)
