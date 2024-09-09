@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-31T15:06
+updated: 2024-09-02T02:13
 description: 2020-12-09T16:09:53+00:00 đáp ứng cả ISO và RFC
 ---
 | Mô tả                             | Ví dụ                       | ISO 8601 | RFC3339 |
