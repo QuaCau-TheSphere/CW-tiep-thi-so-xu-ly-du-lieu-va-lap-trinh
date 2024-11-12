@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-09-09T14:07
+updated: 2024-09-22T01:49
 ---
 ## Liệt kê tất cả các tag
 ```PowerShell
@@ -26,4 +26,4 @@ git push origin :refs/tags/12345
 git push --delete origin tagName
 git tag -d tagName
 ```
-Nguồn::
+Xem thêm:: [Các lệnh Git thường dùng](./C%C3%A1c%20l%E1%BB%87nh%20Git%20th%C6%B0%E1%BB%9Dng%20d%C3%B9ng.md)
