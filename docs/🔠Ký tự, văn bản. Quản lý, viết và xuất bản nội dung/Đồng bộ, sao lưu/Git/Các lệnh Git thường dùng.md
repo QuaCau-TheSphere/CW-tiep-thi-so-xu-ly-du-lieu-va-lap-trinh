@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-09-20T13:55
+updated: 2024-10-13T22:46
 ---
 ## Xem danh sách tất cả commit
 ```bash
@@ -9,7 +9,7 @@ git log --oneline
 git log --oneline --graph
 git log --pretty='%C(yellow)%h %C(cyan)%cd%C(auto)%d %Creset%s' --graph --date=relative --date-order
 ```
-## Biết xem một commit có những thay đổi
+## Xem những thay đổi của một commit
 ```
 git show --stat <commit>
 git diff <commit>^!
@@ -33,4 +33,5 @@ Nhược điểm của việc này là vì vim đọc trực tiếp từ stdin, 
 git show <commitHash>:/path/to/file | vim -c 'set filetype=python' -
 ```
 
-Xem thêm:: [Các lỗi Git thường gặp](./C%C3%A1c%20l%E1%BB%97i%20Git%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p.md)
+Xem thêm:: [Các lỗi Git thường gặp](./C%C3%A1c%20l%E1%BB%97i%20Git%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p.md), [Git tag](./Git%20tag.md)
+Xem thêm:: [GitHub - git-tips/tips: Most commonly used git tips and tricks.](https://github.com/git-tips/tips?tab=readme-ov-file#readme)
