@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-27T22:04
-updated: 2024-08-18T15:05
+updated: 2024-09-26T10:49
 tags:
   - fragment
   - fra
@@ -111,3 +111,4 @@ Despite its ubiquity, Berners-Lee and [others](https://djangodeployment.com/2017
 _This article is part of Behind the Code, the media for developers, by developers. Discover more articles and videos by visiting [Behind the Code](https://www.welcometothejungle.com/collections/behind-the-code)!_
 
 Nguồn:: [How The URL Was Built](https://www.welcometothejungle.com/en/articles/btc-url-internet)
+[URL as UI](https://www.nngroup.com/articles/url-as-ui/)
