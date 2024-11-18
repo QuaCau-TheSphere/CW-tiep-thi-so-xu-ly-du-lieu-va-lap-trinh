@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-26T19:20
+updated: 2024-11-18T15:48
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L8CDt1J3DAw?si=tTCg8pJhTfUEPvLt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 Một trong những cách đơn giản nhất để debug Javascript code đó chính là hiện ra kết quả qua câu lệnh `console.log`. Mặc dù nó vẫn hoạt động, tuy nhiên đó không phải là cách tối ưu cho mọi việc. Trong bài viết này mình sẽ giới thiệu với các bạn những chức năng khác mà console javascript có thể làm được
@@ -159,15 +159,8 @@ Kết quả:
 
 ![](https://images.viblo.asia/ed89cb10-7f22-490b-ad5b-929ca2bcb5be.png)
 
-## Kết luận
-
-Sau bài viết này hi vọng các ban biết thêm về sức mạnh của `console` trong javascript cũng như giúp ích được trong project của các bạn. Hẹn gặp lại mọi người trong bài viết sau.
-
-## Source
-
-[https://developer.mozilla.org/en-US/docs/Web/API/Console/timeLog](https://developer.mozilla.org/en-US/docs/Web/API/Console/timeLog) [https://www.freecodecamp.org/news/how-you-can-improve-your-workflow-using-the-javascript-console-bdd7823a9472/](https://www.freecodecamp.org/news/how-you-can-improve-your-workflow-using-the-javascript-console-bdd7823a9472/) [https://medium.com/better-programming/boost-your-javascript-debugging-skills-with-these-console-tricks-ab984c70298a](https://medium.com/better-programming/boost-your-javascript-debugging-skills-with-these-console-tricks-ab984c70298a)
 Nguồn:: [Nâng cao kỹ năng debug trong Javascript bằng Console](https://viblo.asia/p/nang-cao-ky-nang-debug-trong-javascript-bang-console-3P0lPEEp5ox)
-
+## [Dùng thư viện chuyên cho log](https://jsr.io/@std/log)
 
 I) Insert meaningful log message automatically
 
