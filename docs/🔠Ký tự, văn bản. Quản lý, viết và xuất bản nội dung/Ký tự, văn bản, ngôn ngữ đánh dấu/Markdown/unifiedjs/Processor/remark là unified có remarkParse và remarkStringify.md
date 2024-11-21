@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-09-09T20:53
+updated: 2024-11-18T22:22
 ---
 Gọi `remark` thế này
 ```js
@@ -21,4 +21,4 @@ const file = await unified()
   .process('1) Hello, _Jupiter_ and *Neptune*!')
 ```
 
-Nguồn:: [Stack Overflow](../../../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/%CE%9E%20Ngu%E1%BB%93n%20v%C3%A0%20t%C3%A0i%20nguy%C3%AAn%20h%E1%BB%97%20tr%E1%BB%A3/%CE%9E%20Ngu%E1%BB%93n/Stack%20Overflow.md), [Why can remark work independently from unified?](https://stackoverflow.com/a/78913256/3416774)
+Nguồn:: [Stack Overflow](../../../../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/%CE%9E%20Ngu%E1%BB%93n%20v%C3%A0%20t%C3%A0i%20nguy%C3%AAn%20h%E1%BB%97%20tr%E1%BB%A3/%CE%9E%20Ngu%E1%BB%93n/Stack%20Overflow.md), [Why can remark work independently from unified?](https://stackoverflow.com/a/78913256/3416774)
