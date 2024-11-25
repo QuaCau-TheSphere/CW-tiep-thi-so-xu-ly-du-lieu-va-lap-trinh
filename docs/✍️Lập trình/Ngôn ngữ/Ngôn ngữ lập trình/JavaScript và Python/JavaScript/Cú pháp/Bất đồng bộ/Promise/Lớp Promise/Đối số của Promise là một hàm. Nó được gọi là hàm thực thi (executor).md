@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-25T15:14
+updated: 2024-11-25T16:47
 ---
 ```ts
 function hàmThựcThi(biến1, biến2){
@@ -16,6 +16,8 @@ function hàmGiảiQuyết(giáTrịTrongHàmGiảiQuyết){}
 function hàmTừChối(giáTrịTrongHàmTừChối){}
 function hàmThựcThi(hàmGiảiQuyết, hàmTừChối){}
 ```
+
+Thông thường, bạn phải định nghĩa `hàmGiảiQuyết` và `hàmTừChối`. Nhưng nếu bạn 
 
 Nếu chạy thông thường thì bạn chỉ cần `return` lấy kết quả trong `hàmThựcThi` là được. Nhưng nhớ rằng ở đây ta đang truyền nó vào `Promise`. Mà đây là một lớp được JS viết ra sẵn, không phải là do bạn viết ra. Khi JS viết ra, nó không viết dòng nào để nhận kết quả của `hàmThựcThi`. Tức là việc bạn có `return` trong đó không có tác dụng gì (ngoài trừ việc làm nó kết thúc sớm).
 

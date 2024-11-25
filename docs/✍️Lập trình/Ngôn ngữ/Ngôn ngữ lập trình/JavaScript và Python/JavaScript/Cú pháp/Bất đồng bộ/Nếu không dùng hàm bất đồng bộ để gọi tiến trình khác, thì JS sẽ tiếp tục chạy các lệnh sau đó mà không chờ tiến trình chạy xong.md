@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-25T14:48
+updated: 2024-11-25T16:37
 ---
+Kết quả là các lệnh phụ thuộc vào kết quả của tiến trình đó sẽ bị lỗi
 ```js
 readFile("./data.txt", (error, result) => {
   // This callback will be called when the task is done, with the
@@ -13,7 +14,6 @@ readFile("./data.txt", (error, result) => {
 // is fired. It does not wait for the callback to be called, hence
 // making `readFile` "asynchronous".
 ```
-[Nếu không dùng hàm bất đồng bộ để gọi tiến trình khác, thì JS sẽ tiếp tục chạy các lệnh sau đó mà không chờ tiến trình chạy xong. Kết quả là các lệnh phụ thuộc vào kết quả của tiến trình đó sẽ bị lỗi](N%E1%BA%BFu%20kh%C3%B4ng%20d%C3%B9ng%20h%C3%A0m%20b%E1%BA%A5t%20%C4%91%E1%BB%93ng%20b%E1%BB%99%20%C4%91%E1%BB%83%20g%E1%BB%8Di%20ti%E1%BA%BFn%20tr%C3%ACnh%20kh%C3%A1c,%20th%C3%AC%20JS%20s%E1%BA%BD%20ti%E1%BA%BFp%20t%E1%BB%A5c%20ch%E1%BA%A1y%20c%C3%A1c%20l%E1%BB%87nh%20sau%20%C4%91%C3%B3%20m%C3%A0%20kh%C3%B4ng%20ch%E1%BB%9D%20ti%E1%BA%BFn%20tr%C3%ACnh%20ch%E1%BA%A1y%20xong.%20K%E1%BA%BFt%20qu%E1%BA%A3%20l%C3%A0%20c%C3%A1c%20l%E1%BB%87nh%20ph%E1%BB%A5%20thu%E1%BB%99c%20v%C3%A0o%20k%E1%BA%BFt%20qu%E1%BA%A3%20c%E1%BB%A7a%20ti%E1%BA%BFn%20tr%C3%ACnh%20%C4%91%C3%B3%20s%E1%BA%BD%20b%E1%BB%8B%20l%E1%BB%97i.md)
 
 ```js
 function loadScript(src, callback) {
