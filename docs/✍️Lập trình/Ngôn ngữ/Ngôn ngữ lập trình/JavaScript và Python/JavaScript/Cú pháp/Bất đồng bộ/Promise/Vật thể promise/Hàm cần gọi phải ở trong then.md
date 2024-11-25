@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-09-02T15:12
+updated: 2024-11-24T14:55
 ---
 Tại sao khi gọi async function thì lại để console.log() trong then chứ không để ở ngoài được nhỉ? Phải là:
 ```js
