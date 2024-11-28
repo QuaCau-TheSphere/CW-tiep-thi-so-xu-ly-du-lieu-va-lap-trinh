@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-27T20:28
+updated: 2024-11-28T01:23
 ---
 Ví dụ trong Python:
 ```python
 a += b
 ``` 
-là cú pháp đường của:
+là đường cú pháp của:
 ```python
 a = a + b
 ```
@@ -15,7 +15,7 @@ Hoặc trong JS:
 ```js
 x => x + 1
 ```
-là cú pháp đường của:
+là đường cú pháp của:
 ```js
 function (x) {
     return x + 1
