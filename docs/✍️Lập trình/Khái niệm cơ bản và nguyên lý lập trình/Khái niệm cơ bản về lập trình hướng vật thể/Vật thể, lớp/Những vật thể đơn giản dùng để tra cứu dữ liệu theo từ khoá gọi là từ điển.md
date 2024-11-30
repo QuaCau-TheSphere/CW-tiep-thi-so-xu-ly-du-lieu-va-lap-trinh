@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2024-08-18T15:05
+updated: 2024-11-30T13:54
 ---
 Nếu tất cả thuộc tính của vật thể đều đơn giản, và vật thể được dùng để tra cứu dữ liệu theo từ khoá chứ không phải là để thao tác và thay đổi thuộc tính bằng phương thức, thì nó được gọi là từ điển
 
@@ -37,4 +37,4 @@ Ghi chú: ''
 
 Thì mặc dù đây cũng là một vật thể, nhưng sự phức tạp của nó không còn giống như vật thể ở trên. Nó chỉ được dùng để tra dữ liệu, giống như bạn tra từ điển. Bạn không có ý định thay đổi giá trị trong nó. Nên loại vật thể này được gọi là từ điển.
 
-[Python tách bạch từ điển và vật thể ngay từ đầu, còn JS mãi về sau mới có từ điển](../../../Ng%C3%B4n%20ng%E1%BB%AF/Ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BA%ADp%20tr%C3%ACnh/JavaScript%20v%C3%A0%20Python/Kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20JS%20v%C3%A0%20Python/V%E1%BB%81%20m%E1%BA%B7t%20tri%E1%BA%BFt%20l%C3%BD/Python%20t%C3%A1ch%20b%E1%BA%A1ch%20t%E1%BB%AB%20%C4%91i%E1%BB%83n%20v%C3%A0%20v%E1%BA%ADt%20th%E1%BB%83%20ngay%20t%E1%BB%AB%20%C4%91%E1%BA%A7u,%20c%C3%B2n%20JS%20m%C3%A3i%20v%E1%BB%81%20sau%20m%E1%BB%9Bi%20c%C3%B3%20t%E1%BB%AB%20%C4%91i%E1%BB%83n.md)
+[Python tách bạch từ điển và vật thể ngay từ đầu, còn JS mãi về sau mới có từ điển](../../../Ng%C3%B4n%20ng%E1%BB%AF/Ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BA%ADp%20tr%C3%ACnh/%C3%9D%20%C4%91%E1%BB%93%20thi%E1%BA%BFt%20k%E1%BA%BF/JavaScript%20v%C3%A0%20Python/Python%20t%C3%A1ch%20b%E1%BA%A1ch%20t%E1%BB%AB%20%C4%91i%E1%BB%83n%20v%C3%A0%20v%E1%BA%ADt%20th%E1%BB%83%20ngay%20t%E1%BB%AB%20%C4%91%E1%BA%A7u,%20c%C3%B2n%20JS%20m%C3%A3i%20v%E1%BB%81%20sau%20m%E1%BB%9Bi%20c%C3%B3%20t%E1%BB%AB%20%C4%91i%E1%BB%83n.md)
