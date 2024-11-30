@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-27T17:16
-updated: 2024-08-18T15:05
+updated: 2024-11-30T13:56
 ---
 
-[Vật thể được tạo nên bởi những thuộc tính](./V%E1%BA%ADt%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20n%C3%AAn%20b%E1%BB%9Fi%20nh%E1%BB%AFng%20thu%E1%BB%99c%20t%C3%ADnh.md)
+[Vật thể là những dữ liệu có những thuộc tính thành phần](./V%E1%BA%ADt%20th%E1%BB%83%20l%C3%A0%20nh%E1%BB%AFng%20d%E1%BB%AF%20li%E1%BB%87u%20c%C3%B3%20nh%E1%BB%AFng%20thu%E1%BB%99c%20t%C3%ADnh%20th%C3%A0nh%20ph%E1%BA%A7n.md)
