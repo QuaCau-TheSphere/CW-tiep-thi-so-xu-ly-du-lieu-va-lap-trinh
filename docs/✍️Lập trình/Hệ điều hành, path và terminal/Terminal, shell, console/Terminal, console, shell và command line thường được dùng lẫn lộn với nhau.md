@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-08-18T15:05
+updated: 2024-12-18T15:33
 ---
-[Shell là cái vỏ bảo vệ lõi của hệ điều hành](./Shell%20l%C3%A0%20c%C3%A1i%20v%E1%BB%8F%20b%E1%BA%A3o%20v%E1%BB%87%20l%C3%B5i%20c%E1%BB%A7a%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh.md). [Terminal là cái chương trình để làm việc với shell](./Terminal%20l%C3%A0%20c%C3%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%E1%BB%83%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20shell.md)
+[Shell là cái vỏ bảo vệ nhân của hệ điều hành](./Shell%20l%C3%A0%20c%C3%A1i%20v%E1%BB%8F%20b%E1%BA%A3o%20v%E1%BB%87%20nh%C3%A2n%20c%E1%BB%A7a%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh.md). [Terminal là cái chương trình để làm việc với shell](./Terminal%20l%C3%A0%20c%C3%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%E1%BB%83%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20shell.md)
 
 ![](https://thumbs.dreamstime.com/b/magic-portal-green-plants-fantasy-fern-ivy-night-79779455.jpg) 
 
@@ -19,7 +19,7 @@ A terminal is a text input and output environment. A terminal window, also known
 A console is a physical terminal; an instrument panel containing computer controls. A console is a type of terminal. Is a window in which your text-mode programs are active. This window recognizes key presses and is aware of its width and height. A full-screen mode is an option.
 
 **Shell :**  
-[Shell là cái vỏ bảo vệ lõi của hệ điều hành](./Shell%20l%C3%A0%20c%C3%A1i%20v%E1%BB%8F%20b%E1%BA%A3o%20v%E1%BB%87%20l%C3%B5i%20c%E1%BB%A7a%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh.md)
+[Shell là cái vỏ bảo vệ nhân của hệ điều hành](./Shell%20l%C3%A0%20c%C3%A1i%20v%E1%BB%8F%20b%E1%BA%A3o%20v%E1%BB%87%20nh%C3%A2n%20c%E1%BB%A7a%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh.md)
 Shell stands for the command-line interpreter. A shell is a program that processes commands and outputs the results. A shell is a layer that sits on top of the kernel: 1) It interprets and processes the commands entered by the user. Unlike users, the shell has access to the kernel. Users can only gain access to the kernel by using a shell and entering commands (i.e. running programs). System calls are used by programs to gain access to kernel functionality. The system API is made up of all system calls.
 
 [**Command-Line**](https://www.geeksforgeeks.org/command-line-arguments-in-c-cpp/) **:**   
