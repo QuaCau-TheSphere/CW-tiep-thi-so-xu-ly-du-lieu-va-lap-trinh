@@ -1,29 +1,29 @@
 ---
 share: true
 created: 2023-10-26T14:59
-updated: 2024-12-02T14:12
+updated: 2025-01-17T14:08
 alias: Các ký hiệu đặc biệt trong các ngôn ngữ khác nhau
 cssClass: wide-table
 ---
-| Ký tự               | JavaScript        | Python          | Git                               | PowerShell                                                | AutoHotKey   | CSS                           | CMD     | SQL | Bash | LaTeX |
-| ------------------- | ----------------- | --------------- | --------------------------------- | --------------------------------------------------------- | ------------ | ----------------------------- | ------- | --- | ---- | ----- |
-| Dấu nháy kép `"`    | Verbatim string   | Verbatim string |                                   | Chuỗi có thể chèn chuỗi khác vào được (expandable string) |              |                               |         |     |      |       |
-| Dấu nháy đơn `'`    | Verbatim string   | Verbatim string |                                   | Chuỗi có sao ghi vậy (verbatim string)                    |              |                               |         |     |      |       |
-| Dấu backtick ` `` ` | Expandable string |                 |                                   | Thoát khỏi ký tự đặc biệt, ngắt dòng                      |              |                               |         |     |      |       |
-| Dấu đô la `$`       |                   |                 |                                   | `$biến`, `$env:path`                                      |              |                               |         |     |      |       |
-| Dấu phần trăm `%`   |                   |                 |                                   | `ForEach-Object`                                          | `%biến%`     |                               | `%biến` |     |      |       |
-| Dấu chéo `\`        |                   |                 |                                   |                                                           |              |                               |         |     |      |       |
-| Dấu chéo ngược `/`  |                   |                 |                                   |                                                           |              |                               |         |     |      |       |
-| Dấu sao `*`         |                   |                 |                                   |                                                           |              |                               |         |     |      |       |
-| Dấu a còng `@`      |                   |                 | [HEAD](../../%F0%9F%94%A0K%C3%BD%20t%E1%BB%B1,%20v%C4%83n%20b%E1%BA%A3n.%20Qu%E1%BA%A3n%20l%C3%BD,%20vi%E1%BA%BFt%20v%C3%A0%20xu%E1%BA%A5t%20b%E1%BA%A3n%20n%E1%BB%99i%20dung/%C4%90%E1%BB%93ng%20b%E1%BB%99,%20sao%20l%C6%B0u/Git/Commit/HEAD%20l%C3%A0%20commit%20hi%E1%BB%87n%20t%E1%BA%A1i.md) | Chèn nhiều tham số vào cùng lúc (splatting)               |              | Scope                         |         |     |      |       |
-| Dấu thăng `#`       |                   |                 |                                   | `# comment`. Mẹo: dùng `##` ở trên function               | `#directive` |                               |         |     |      |       |
-| Dấu chấm phẩy `;`   |                   |                 |                                   |                                                           | `; comment`  |                               |         |     |      |       |
-| Dấu gạch đứng `\|`  |                   |                 |                                   | Pipe                                                      |              |                               |         |     |      |       |
-| Dấu chấm hỏi `?`    |                   |                 |                                   | `Where-Object`                                            |              |                               |         |     |      |       |
-| Dấu lớn hơn `>`     |                   |                 |                                   |                                                           |              | Child combinator              |         |     |      |       |
-| Dấu cộng `+`        |                   |                 |                                   |                                                           |              | Next-sibling combinator       |         |     |      |       |
-| Dấu ngã `~`         |                   |                 |                                   |                                                           |              | Subsequent-sibling combinator |         |     |      |       |
-| Ký tự               | JavaScript        | Python          |                                   | PowerShell                                                | AutoHotKey   | CSS                           | CMD     | SQL | Bash | LaTeX |
+| Ký tự               | JavaScript        | Python          | PowerShell                                                | Git                               | AutoHotKey   | CSS                           | CMD     | SQL | Bash | LaTeX |
+| ------------------- | ----------------- | --------------- | --------------------------------------------------------- | --------------------------------- | ------------ | ----------------------------- | ------- | --- | ---- | ----- |
+| Dấu nháy kép `"`    | Verbatim string   | Verbatim string | Chuỗi có thể chèn chuỗi khác vào được (expandable string) |                                   |              |                               |         |     |      |       |
+| Dấu nháy đơn `'`    | Verbatim string   | Verbatim string | Chuỗi có sao ghi vậy (verbatim string)                    |                                   |              |                               |         |     |      |       |
+| Dấu backtick ` `` ` | Expandable string |                 | Thoát khỏi ký tự đặc biệt, ngắt dòng                      |                                   |              |                               |         |     |      |       |
+| Dấu đô la `$`       |                   |                 | `$biến`, `$env:path`                                      |                                   |              |                               |         |     |      |       |
+| Dấu phần trăm `%`   |                   |                 | `ForEach-Object`                                          |                                   | `%biến%`     |                               | `%biến` |     |      |       |
+| Dấu chéo `\`        |                   |                 |                                                           |                                   |              |                               |         |     |      |       |
+| Dấu chéo ngược `/`  |                   |                 |                                                           |                                   |              |                               |         |     |      |       |
+| Dấu sao `*`         |                   |                 |                                                           |                                   |              |                               |         |     |      |       |
+| Dấu a còng `@`      |                   |                 | Chèn nhiều tham số vào cùng lúc (splatting)               | [HEAD](../../%F0%9F%94%A0K%C3%BD%20t%E1%BB%B1,%20v%C4%83n%20b%E1%BA%A3n.%20Qu%E1%BA%A3n%20l%C3%BD,%20vi%E1%BA%BFt%20v%C3%A0%20xu%E1%BA%A5t%20b%E1%BA%A3n%20n%E1%BB%99i%20dung/%C4%90%E1%BB%93ng%20b%E1%BB%99,%20sao%20l%C6%B0u/Git/Commit/HEAD%20l%C3%A0%20commit%20hi%E1%BB%87n%20t%E1%BA%A1i.md) |              | Scope                         |         |     |      |       |
+| Dấu thăng `#`       |                   |                 | `# comment`. Mẹo: dùng `##` ở trên function               |                                   | `#directive` |                               |         |     |      |       |
+| Dấu chấm phẩy `;`   |                   |                 |                                                           |                                   | `; comment`  |                               |         |     |      |       |
+| Dấu gạch đứng `\|`  |                   |                 | Pipe                                                      |                                   |              |                               |         |     |      |       |
+| Dấu chấm hỏi `?`    |                   |                 | `Where-Object`                                            |                                   |              |                               |         |     |      |       |
+| Dấu lớn hơn `>`     |                   |                 |                                                           |                                   |              | Child combinator              |         |     |      |       |
+| Dấu cộng `+`        |                   |                 |                                                           |                                   |              | Next-sibling combinator       |         |     |      |       |
+| Dấu ngã `~`         |                   |                 |                                                           |                                   |              | Subsequent-sibling combinator |         |     |      |       |
+| Ký tự               | JavaScript        | Python          | PowerShell                                                |                                   | AutoHotKey   | CSS                           | CMD     | SQL | Bash | LaTeX |
 
 
 
