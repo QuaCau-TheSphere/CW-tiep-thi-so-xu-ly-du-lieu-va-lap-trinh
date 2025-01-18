@@ -1,11 +1,13 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-09-20T13:53
+updated: 2025-01-14T21:29
 ---
+## So sánh cùng một tệp giữa hai commit
 ```bash
 git diff <commit 1> <commit 2> -- <file>
 ```
+## So sánh hai tệp khác nhau giữa hai commit
 ```bash
 git diff <commit 1>:<file 1> <commit 2>:<file 2>
 ```

@@ -1,8 +1,9 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-10-13T22:46
+updated: 2025-01-18T10:30
 ---
+[GitHub - GitAlias/gitalias: Git alias commands for faster easier version control](https://github.com/GitAlias/gitalias)
 ## Xem danh sách tất cả commit
 ```bash
 git log --oneline

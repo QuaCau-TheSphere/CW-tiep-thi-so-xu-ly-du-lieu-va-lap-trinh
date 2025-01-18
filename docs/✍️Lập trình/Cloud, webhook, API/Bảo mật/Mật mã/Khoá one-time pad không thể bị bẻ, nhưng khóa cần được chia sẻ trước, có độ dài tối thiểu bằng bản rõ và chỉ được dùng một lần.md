@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-12-18T22:16
+updated: 2025-01-01T12:01
 description: One time pad (OTP) là một phương pháp mã hóa dữ liệu an toàn tuyệt đối. Tuy nhiên nó lại không mấy hữu ích trong thực tế. Nguyên nhân do đâu?
 ---
 ### One time pad, phương pháp mã hóa hoàn hảo
@@ -95,15 +95,11 @@ Ngày nay các thiết bị lưu trữ rất rẻ mà lại có dung lượng l�
 
 Nguồn:: [One time pad, phương pháp mã hóa hoàn hảo nhưng lại không mấy hữu ích - Duong's Blog](https://duongnt.com/one-time-pad-vie/)
 
-Bản chất của nó chỉ là toán tử XOR
+Hàm mã hoá:
 ```
-E(m, k) = m XOR k = c`
+E(m, k) = m XOR k = c
 ```
-
+Hàm giải mã:
 ```
-D(c, k) = c XOR k = (m XOR k) XOR k = m`
+D(c, k) = c XOR k = (m XOR k) XOR k = m
 ```
-
-Một điều đáng buồn là phương pháp One-Time Pad không có ý nghĩa sử dụng thực tế. Vì chiều dài khóa bằng chiều dài bản tin, mỗi khóa chỉ sử dụng một lần, nên thay vì truyền khóa trên kênh an toàn thì có thể truyền trực tiếp bản rõ mà không cần quan tâm đến vấn đề mã hóa
-
-Nguồn:: [Fetching Title#5qe3](https://viblo.asia/p/tim-hieu-ve-he-ma-one-time-pad-yMnKM62NZ7P)
