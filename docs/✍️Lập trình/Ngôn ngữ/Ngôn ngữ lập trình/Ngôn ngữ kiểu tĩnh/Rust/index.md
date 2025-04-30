@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-01-02T15:35
-updated: 2024-12-18T15:06
+updated: 2025-03-03T18:48
 title: Rust
 ---
 [Rust và Data Engineering? 🤔](https://blog.duyet.net/2021/11/rust-data-engineering.html)
