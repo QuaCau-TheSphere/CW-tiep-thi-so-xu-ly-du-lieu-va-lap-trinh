@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-24T22:04
-updated: 2024-12-12T19:57
+updated: 2025-03-03T18:48
 ---
 ```
 PS D:\QC supplements\Code\Apps\Trấn Kỳ\Thành phần bổ trợ\Bundle> deno run --allow-all --allow-env build.ts
@@ -10,8 +10,7 @@ PS D:\QC supplements\Code\Apps\Trấn Kỳ\Thành phần bổ trợ\Bundle> deno
 | Fibery.js" đã được dựng xong và được lưu |
 | . Nó cũng đã được copy sẵn vào clipboard |
 \  và sẵn sàng để dán.                     /
- ------------------------------------------
-<br/>
+ ------------------------------------------<br/>
    \                       _
                           / )
                          / /
