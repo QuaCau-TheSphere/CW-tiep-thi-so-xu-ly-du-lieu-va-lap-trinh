@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-01-05T12:47
+updated: 2025-03-03T18:48
 ---
 ```json
 {
@@ -9,7 +9,7 @@ updated: 2025-01-05T12:47
   "deno": {
     "enable": true,
     "lint": true,
-    "config": "./deno.json",
+    "config": "./deno.jsonc",
   },
   "[typescriptreact]": {
     "editor.defaultFormatter": "denoland.vscode-deno"
