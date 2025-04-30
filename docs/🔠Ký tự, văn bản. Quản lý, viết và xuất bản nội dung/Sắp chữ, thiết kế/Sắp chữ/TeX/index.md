@@ -11,10 +11,10 @@ title: TeX
 - Macro (LaTeX, ConTeX): 
     - [LaTeX aims to separate the user from having to make decisions about typography and layout, ConTeXt aims to provide an easy interface to advanced typography features.](./Macro%20(LaTeX,%20ConTeX)/LaTeX%20aims%20to%20separate%20the%20user%20from%20having%20to%20make%20decisions%20about%20typography%20and%20layout,%20ConTeXt%20aims%20to%20provide%20an%20easy%20interface%20to%20advanced%20typography%20features..md)
     - [LaTeX đối với TeX cũng giống như jQuery đối với JavaScript](./Macro%20(LaTeX,%20ConTeX)/LaTeX%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20TeX%20c%C5%A9ng%20gi%E1%BB%91ng%20nh%C6%B0%20jQuery%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20JavaScript.md)
+    - [Macro dùng để viết tắt](./Macro%20(LaTeX,%20ConTeX)/Macro%20d%C3%B9ng%20%C4%91%E1%BB%83%20vi%E1%BA%BFt%20t%E1%BA%AFt.md)
     - [TeX dùng cho máy in. LaTeX dùng cho tác giả](./Macro%20(LaTeX,%20ConTeX)/TeX%20d%C3%B9ng%20cho%20m%C3%A1y%20in.%20LaTeX%20d%C3%B9ng%20cho%20t%C3%A1c%20gi%E1%BA%A3.md)
     - [TeX là ngôn ngữ hoàn chỉnh. LaTeX là ngôn ngữ cho lĩnh vực chuyên biệt](./Macro%20(LaTeX,%20ConTeX)/TeX%20l%C3%A0%20ng%C3%B4n%20ng%E1%BB%AF%20ho%C3%A0n%20ch%E1%BB%89nh.%20LaTeX%20l%C3%A0%20ng%C3%B4n%20ng%E1%BB%AF%20cho%20l%C4%A9nh%20v%E1%BB%B1c%20chuy%C3%AAn%20bi%E1%BB%87t.md)
     - [TeX là ngôn ngữ lập trình cho việc sắp chữ. LaTeX là các macro để việc định dạng được thân thiện hơn](./Macro%20(LaTeX,%20ConTeX)/TeX%20l%C3%A0%20ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BA%ADp%20tr%C3%ACnh%20cho%20vi%E1%BB%87c%20s%E1%BA%AFp%20ch%E1%BB%AF.%20LaTeX%20l%C3%A0%20c%C3%A1c%20macro%20%C4%91%E1%BB%83%20vi%E1%BB%87c%20%C4%91%E1%BB%8Bnh%20d%E1%BA%A1ng%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%A2n%20thi%E1%BB%87n%20h%C6%A1n.md)
-    - [Macro dùng để viết tắt](./Macro%20(LaTeX,%20ConTeX)/Macro%20d%C3%B9ng%20%C4%91%E1%BB%83%20vi%E1%BA%BFt%20t%E1%BA%AFt.md)
 
 - Quản lý trích dẫn (Biber, BiBTeX): 
     - [Biber và BibTeX là các bộ máy để đọc tệp bib](./Qu%E1%BA%A3n%20l%C3%BD%20tr%C3%ADch%20d%E1%BA%ABn%20(Biber,%20BiBTeX)/Biber%20v%C3%A0%20BibTeX%20l%C3%A0%20c%C3%A1c%20b%E1%BB%99%20m%C3%A1y%20%C4%91%E1%BB%83%20%C4%91%E1%BB%8Dc%20t%E1%BB%87p%20bib.md)
