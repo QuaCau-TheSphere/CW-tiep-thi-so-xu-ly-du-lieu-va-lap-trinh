@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-22T20:54
+updated: 2025-03-03T18:48
 ---
 [Lớp thực ra là một cú pháp ](L%E1%BB%9Bp%20th%E1%BB%B1c%20ra%20l%C3%A0%20m%E1%BB%99t%20c%C3%BA%20ph%C3%A1p.md)
 ```javascript
