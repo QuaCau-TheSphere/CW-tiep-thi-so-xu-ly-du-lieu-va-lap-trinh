@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-10-19T15:37
+updated: 2025-03-03T18:48
 ---
 From [Namespaces and Modules](https://www.typescriptlang.org/docs/handbook/namespaces-and-modules.html#using-namespaces "TypeScript: Documentation - Namespaces and Modules"):
 > Namespaces are simply named JavaScript objects in the global namespace.
