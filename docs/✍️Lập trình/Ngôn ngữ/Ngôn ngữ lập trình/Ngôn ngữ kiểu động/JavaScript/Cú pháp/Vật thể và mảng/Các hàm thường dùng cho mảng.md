@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-27T14:43
+updated: 2025-03-03T18:48
 ---
 ![civilised_guide_to_javascript_array_methods.pdf](../../../../../../../attachments/civilised_guide_to_javascript_array_methods.pdf)
 ## What makes this cheat sheet so civilised?

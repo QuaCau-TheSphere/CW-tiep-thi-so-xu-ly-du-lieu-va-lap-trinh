@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2024-12-18T16:23
+updated: 2025-03-03T18:48
 ---
 - Mọi thứ trong Python hoặc JavaScript đều là đối tượng
 - [Việc hiển thị nội dung dữ liệu như thế nào là do công cụ quyết định, không phải ngôn ngữ quyết định](../../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n%20v%C3%A0%20nguy%C3%AAn%20l%C3%BD%20l%E1%BA%ADp%20tr%C3%ACnh/Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/Vi%E1%BB%87c%20hi%E1%BB%83n%20th%E1%BB%8B%20n%E1%BB%99i%20dung%20d%E1%BB%AF%20li%E1%BB%87u%20nh%C6%B0%20th%E1%BA%BF%20n%C3%A0o%20l%C3%A0%20do%20c%C3%B4ng%20c%E1%BB%A5%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh,%20kh%C3%B4ng%20ph%E1%BA%A3i%20ng%C3%B4n%20ng%E1%BB%AF%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh.md).

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-12-18T15:42
+updated: 2025-03-03T18:48
 ---
 Biến môi trường tiếng Anh là *environmental variable*. Viết tắt là `env`.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ADh_OFBfdEE?si=U30Tg6HS8hvzgCcv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

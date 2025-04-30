@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-01-10T14:32
+updated: 2025-03-03T18:48
 ---
 2 đồ thị đều có cùng giá trị trung bình. Nhưng cái màu đỏ thì độ phân tán thấp hơn. Còn cái màu xanh thì có độ phân tán cao hơn
 

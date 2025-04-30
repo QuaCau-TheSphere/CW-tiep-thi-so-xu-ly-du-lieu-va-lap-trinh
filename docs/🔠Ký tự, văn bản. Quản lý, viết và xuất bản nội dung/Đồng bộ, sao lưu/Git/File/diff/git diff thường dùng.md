@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-01-14T21:29
+updated: 2025-04-26T20:58
 ---
 ![](https://i.sstatic.net/GhE7a.png)
 ## So sánh cùng một tệp giữa hai commit

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-01-14T21:29
+updated: 2025-03-03T18:48
 ---
 ## So sánh cùng một tệp giữa hai commit
 ```bash

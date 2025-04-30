@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-01-01T11:59
+updated: 2025-03-03T18:48
 ---
 ## Hệ mã đối xứng - Private Key
 Các hệ mã đối xứng sử dụng chung một khóa K cho cả hai hàm mã hóa và giải mã.

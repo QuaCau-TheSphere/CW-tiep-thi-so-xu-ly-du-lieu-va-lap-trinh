@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-10-09T14:46
-updated: 2025-03-03T18:48
+updated: 2025-04-26T21:09
 ---
-[Có thể hiểu blob là hash của một file, tree là hash của một folder, còn commit thực ra chỉ là hash của cả folder tổng](./C%C3%B3%20th%E1%BB%83%20hi%E1%BB%83u%20blob%20l%C3%A0%20hash%20c%E1%BB%A7a%20m%E1%BB%99t%20file,%20tree%20l%C3%A0%20hash%20c%E1%BB%A7a%20m%E1%BB%99t%20folder,%20c%C3%B2n%20commit%20th%E1%BB%B1c%20ra%20ch%E1%BB%89%20l%C3%A0%20hash%20c%E1%BB%A7a%20c%E1%BA%A3%20folder%20t%E1%BB%95ng.md) 
+[Có thể hiểu blob là hash của một tệp, tree là hash của một thư mục, còn commit thực ra chỉ là hash của cả thư mục tổng](./C%C3%B3%20th%E1%BB%83%20hi%E1%BB%83u%20blob%20l%C3%A0%20hash%20c%E1%BB%A7a%20m%E1%BB%99t%20t%E1%BB%87p,%20tree%20l%C3%A0%20hash%20c%E1%BB%A7a%20m%E1%BB%99t%20th%C6%B0%20m%E1%BB%A5c,%20c%C3%B2n%20commit%20th%E1%BB%B1c%20ra%20ch%E1%BB%89%20l%C3%A0%20hash%20c%E1%BB%A7a%20c%E1%BA%A3%20th%C6%B0%20m%E1%BB%A5c%20t%E1%BB%95ng.md) 
 
 Git sử dụng 1 database được xây dựng trên 4 objects (đối tượng) chính:
 

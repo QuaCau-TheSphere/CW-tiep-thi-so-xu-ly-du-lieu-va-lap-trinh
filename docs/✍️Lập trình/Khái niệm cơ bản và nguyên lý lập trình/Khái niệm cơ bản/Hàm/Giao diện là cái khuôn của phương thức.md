@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-12-04T15:51
+updated: 2025-03-30T14:03
 ---
 [Phương thức cho ta biết mình có thể làm gì với vật thể](../V%E1%BA%ADt%20th%E1%BB%83,%20l%E1%BB%9Bp/Ph%C6%B0%C6%A1ng%20th%E1%BB%A9c/Ph%C6%B0%C6%A1ng%20th%E1%BB%A9c%20cho%20ta%20bi%E1%BA%BFt%20m%C3%ACnh%20c%C3%B3%20th%E1%BB%83%20l%C3%A0m%20g%C3%AC%20v%E1%BB%9Bi%20v%E1%BA%ADt%20th%E1%BB%83.md). [Lớp là một cái khuôn để tạo các vật thể cho nhanh](../V%E1%BA%ADt%20th%E1%BB%83,%20l%E1%BB%9Bp/L%E1%BB%9Bp%20l%C3%A0%20m%E1%BB%99t%20c%C3%A1i%20khu%C3%B4n%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20c%C3%A1c%20v%E1%BA%ADt%20th%E1%BB%83%20cho%20nhanh.md). Giả sử ta có nhiều lớp khác nhau, và các vật thể được tạo ra từ các lớp này đều có cùng một số phương thức giống nhau. Lúc này, ta sẽ có một *tập hợp* các phương thức giống nhau cho tất cả các lớp. 
 

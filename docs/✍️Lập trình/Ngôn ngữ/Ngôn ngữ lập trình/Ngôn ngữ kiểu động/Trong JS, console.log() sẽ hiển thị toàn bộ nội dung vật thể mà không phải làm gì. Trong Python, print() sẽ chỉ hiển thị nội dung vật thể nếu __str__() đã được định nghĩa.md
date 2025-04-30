@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-12-18T16:23
+updated: 2025-03-03T18:48
 ---
 Trong REPL của JS (console), việc gọi trực tiếp vật thể không khác gì `console.log()` nó. Cả hai đều hiểu thị hết các dữ liệu của nó. Trong khi đó ở Python thì không như vậy. [Trong REPL, gọi trực tiếp vật thể ra thì kết quả là __repr__(). Nếu dùng print thì kết quả là __str__()](./Python/Class/Trong%20REPL,%20g%E1%BB%8Di%20tr%E1%BB%B1c%20ti%E1%BA%BFp%20v%E1%BA%ADt%20th%E1%BB%83%20ra%20th%C3%AC%20k%E1%BA%BFt%20qu%E1%BA%A3%20l%C3%A0%20__repr__().%20N%E1%BA%BFu%20d%C3%B9ng%20print%20th%C3%AC%20k%E1%BA%BFt%20qu%E1%BA%A3%20l%C3%A0%20__str__().md). [__repr__() trả về mô tả chi tiết để người lập trình bảo trì và sửa lỗi. __str__() trả về mô tả đơn giản cho người dùng sử dụng](./Python/Class/__repr__()%20tr%E1%BA%A3%20v%E1%BB%81%20m%C3%B4%20t%E1%BA%A3%20chi%20ti%E1%BA%BFt%20%C4%91%E1%BB%83%20ng%C6%B0%E1%BB%9Di%20l%E1%BA%ADp%20tr%C3%ACnh%20b%E1%BA%A3o%20tr%C3%AC%20v%C3%A0%20s%E1%BB%ADa%20l%E1%BB%97i.%20__str__()%20tr%E1%BA%A3%20v%E1%BB%81%20m%C3%B4%20t%E1%BA%A3%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20cho%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20s%E1%BB%AD%20d%E1%BB%A5ng.md) 
 

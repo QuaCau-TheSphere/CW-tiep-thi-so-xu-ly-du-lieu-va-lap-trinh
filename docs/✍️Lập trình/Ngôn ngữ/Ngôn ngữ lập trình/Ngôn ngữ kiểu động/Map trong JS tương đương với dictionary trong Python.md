@@ -1,7 +1,8 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-12-16T12:20
+updated: 2025-03-03T18:48
+alias: từ điển, ánh xạ
 ---
 Nguồn:: [javascript - How to create an array of similar object effectively? - Stack Overflow](https://stackoverflow.com/questions/78019782/how-to-create-an-array-of-similar-object-effectively/78020371#comment137545240_78020088)
 [Map, dictionary, associative array, hash, hash table là những cái tên cho cùng một thứ](../../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n%20v%C3%A0%20nguy%C3%AAn%20l%C3%BD%20l%E1%BA%ADp%20tr%C3%ACnh/Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/Map,%20dictionary,%20associative%20array,%20hash,%20hash%20table%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md)

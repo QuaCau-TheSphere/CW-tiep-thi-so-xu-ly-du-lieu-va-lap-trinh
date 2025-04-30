@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2024-12-18T17:20
+updated: 2025-03-03T18:48
 ---
 ![regular_expressions.png](../../../attachments/regular_expressions.png)
 Nguồn:: [208: Regular Expressions - explain xkcd](https://explainxkcd.com/wiki/index.php/208:_Regular_Expressions)

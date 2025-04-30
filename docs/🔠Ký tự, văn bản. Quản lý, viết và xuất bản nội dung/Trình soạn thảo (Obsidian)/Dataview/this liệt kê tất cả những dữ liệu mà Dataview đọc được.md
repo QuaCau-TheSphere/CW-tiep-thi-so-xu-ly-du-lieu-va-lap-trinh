@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2024-12-02T22:14
+updated: 2025-03-03T18:48
 ---
 Với Dataviewjs thì nó tương đương với `dv.current()`
 

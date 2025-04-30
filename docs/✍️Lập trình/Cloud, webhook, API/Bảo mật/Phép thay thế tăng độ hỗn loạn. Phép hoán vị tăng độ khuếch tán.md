@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-01-11T00:40
+updated: 2025-03-03T18:48
 ---
 - Nếu quan hệ hàm số của bản mã với bản rõ là phi tuyến thì sẽ khó bị tấn công hơn. Việc tạo **hỗn loạn (confusion)** sẽ giúp giải quyết việc này. Nó được thực hiện bằng **phép thay thế (substitution)**.
 - Trong ngôn ngữ hay có những từ lặp lại thường xuyên (VD: `the` trong tiếng Anh). Kẻ tấn công có thể thống kê những mẫu này để dò ra khoá. Việc **khuếch tán (diffusion)** sẽ giúp giải quyết việc này. Nó được thực hiện bằng **phép hoán vị (permutation)**.

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-30T15:56
-updated: 2024-12-18T15:09
+updated: 2025-03-03T18:48
 title: AutoHotKey
 ---
 # Tạo phím tắt bằng AutoHotKey

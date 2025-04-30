@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-12-18T16:23
+updated: 2025-03-03T18:48
 ---
 [Sự xuất hiện của language server giúp ta có thể bắt kiểu trước cả lúc biên dịch cho những ngôn ngữ chỉ bắt kiểu lúc chạy](./S%E1%BB%B1%20xu%E1%BA%A5t%20hi%E1%BB%87n%20c%E1%BB%A7a%20language%20server%20gi%C3%BAp%20ta%20c%C3%B3%20th%E1%BB%83%20b%E1%BA%AFt%20ki%E1%BB%83u%20tr%C6%B0%E1%BB%9Bc%20c%E1%BA%A3%20l%C3%BAc%20bi%C3%AAn%20d%E1%BB%8Bch%20cho%20nh%E1%BB%AFng%20ng%C3%B4n%20ng%E1%BB%AF%20ch%E1%BB%89%20b%E1%BA%AFt%20ki%E1%BB%83u%20l%C3%BAc%20ch%E1%BA%A1y.md)
 ```js

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2024-12-18T16:27
+updated: 2025-03-03T18:48
 ---
 [![strongweakstaticdynamic_type](https://storage.googleapis.com/www.josephspurrier.com/wp-content/uploads/2014/02/strongweakstaticdynamic_type.png)](https://storage.googleapis.com/www.josephspurrier.com/wp-content/uploads/2014/02/strongweakstaticdynamic_type.png)
 

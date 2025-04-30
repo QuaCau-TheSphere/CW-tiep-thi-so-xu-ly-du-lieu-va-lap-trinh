@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-27T15:07
-updated: 2024-08-18T15:05
+updated: 2025-03-03T18:48
 ---
 Nguồn:: [Real Python](../../../../../%CE%9E%20Ngu%E1%BB%93n%20v%C3%A0%20t%C3%A0i%20nguy%C3%AAn%20h%E1%BB%97%20tr%E1%BB%A3/%CE%9E%20Ngu%E1%BB%93n/Real%20Python.md), [When Should You Use .\_\_repr\_\_() vs .\_\_str\_\_() in Python? – Real Python](https://realpython.com/python-repr-vs-str/)
 

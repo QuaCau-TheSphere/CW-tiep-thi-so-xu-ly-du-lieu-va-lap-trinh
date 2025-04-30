@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-01-14T17:39
+updated: 2025-03-22T21:04
 ---
 ## Lịch sử
 | Lệnh                        | Cách dùng                          |
@@ -12,7 +12,7 @@ updated: 2025-01-14T17:39
 Nguồn:: [about History - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_history?view=powershell-7.3)
 
 [PowerShell là một ngôn ngữ shell](./PowerShell%20l%C3%A0%20m%E1%BB%99t%20ng%C3%B4n%20ng%E1%BB%AF%20shell.md)
-    [The Complete Guide to PowerShell Punctuation - Simple Talk](https://www.red-gate.com/simple-talk/sysadmin/powershell/the-complete-guide-to-powershell-punctuation/)
+[The Complete Guide to PowerShell Punctuation - Simple Talk](https://www.red-gate.com/simple-talk/sysadmin/powershell/the-complete-guide-to-powershell-punctuation/)
 ## Tạo nhiều folder
 ```PowerShell
 $list=(ls -name -directory).substring(1)
@@ -41,10 +41,9 @@ Get-ChildItem *.md, *.json -recurse | Where-Object {$_.name -cmatch '^2[A-Z]'}  
 Get-ChildItem *.md, *.json -recurse | ForEach-Object { (Get-Content $_).Replace('Kết quả cần có::','Thành quả cần có::') | Set-Content $_ } 
 ```
 
-## Thêm nội dung vào file hàng loạt
+## Thêm nội dung vào hàng loạt tập tin
 ```PowerShell
-ls .gitignore -recurse 
-    | ForEach-Object { 
+Get-ChildItem .gitignore -recurse | ForEach-Object { 
     Add-Content $_ .obsidian/plugins/obsidian-mkdocs-publisher/logs.txt
 }
 ```

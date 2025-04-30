@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-12-16T13:59
+updated: 2025-03-30T18:01
 title: Log
 ---
 [Logging – Mắt thần của bạn trên hệ thống thực - NTechDevelopers](https://blog.ntechdevelopers.com/logging-mat-than-cua-ban-tren-he-thong-thuc/ "Logging – Mắt thần của bạn trên hệ thống thực - NTechDevelopers")
 
 ## Dùng thư viện chuyên cho log
-- https://jsr.io/@std/log
+- [LogTape](https://logtape.org/)
 - https://jsr.io/@std/fmt, [GitHub - chalk/chalk: 🖍 Terminal string styling done right](https://github.com/chalk/chalk?tab=readme-ov-file#why-not-switch-to-a-smaller-coloring-package)
 
 ## [Turbo Console Log](https://www.turboconsolelog.io/)
