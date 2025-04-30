@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-30T15:27
+updated: 2025-03-03T18:48
 ---
 Tốt nhất là dùng một [YAML Parser Online](https://jsonformatter.org/yaml-parser) để kiểm tra.
 
