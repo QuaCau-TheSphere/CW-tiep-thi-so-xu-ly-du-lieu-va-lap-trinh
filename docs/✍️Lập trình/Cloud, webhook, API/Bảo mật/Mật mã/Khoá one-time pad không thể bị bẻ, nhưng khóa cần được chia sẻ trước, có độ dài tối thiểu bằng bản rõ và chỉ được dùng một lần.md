@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-01-01T12:01
+updated: 2025-03-03T18:48
 description: One time pad (OTP) là một phương pháp mã hóa dữ liệu an toàn tuyệt đối. Tuy nhiên nó lại không mấy hữu ích trong thực tế. Nguyên nhân do đâu?
 ---
 ### One time pad, phương pháp mã hóa hoàn hảo
