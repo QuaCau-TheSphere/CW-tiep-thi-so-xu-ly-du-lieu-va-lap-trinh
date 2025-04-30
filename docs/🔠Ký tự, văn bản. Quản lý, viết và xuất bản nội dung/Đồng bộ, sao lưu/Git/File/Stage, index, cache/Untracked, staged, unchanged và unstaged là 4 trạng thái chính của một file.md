@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-31T20:49
+updated: 2025-03-27T13:51
 ---
 Git essentially has 4 main statuses for the files in your local repo:
 - **untracked:** The file is new, Git knows nothing about it. If you `git add <file>`, it becomes:
