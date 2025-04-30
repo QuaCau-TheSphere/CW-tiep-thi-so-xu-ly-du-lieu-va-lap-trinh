@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-29T11:15
+updated: 2025-03-03T18:48
 ---
 ![](https://giangmd.net/wp-content/uploads/2019/12/npm-npx-300x145.png)
 Một thèn quản lý, một thèn thực thi 
