@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-12-18T17:04
+updated: 2025-03-03T18:48
 ---
 Hai đoạn code dưới đây đều có cyclomatic complexity là 4, nhưng khi xét về cognitive complexity thì cái đầu là 7, cái sau là 1:
 
