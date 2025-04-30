@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-12-04T15:28
+updated: 2025-03-03T18:48
 ---
 Trong TypeScript, nếu ta muốn khai báo kiểu cho vật thể, ta có thể dùng từ khoá  `type` hoặc `interface`. `type` làm được gì thì `interface` cũng làm được như thế. Vậy thì khi nào nên dùng `type` và khi nào nên dùng `interface`?
 
