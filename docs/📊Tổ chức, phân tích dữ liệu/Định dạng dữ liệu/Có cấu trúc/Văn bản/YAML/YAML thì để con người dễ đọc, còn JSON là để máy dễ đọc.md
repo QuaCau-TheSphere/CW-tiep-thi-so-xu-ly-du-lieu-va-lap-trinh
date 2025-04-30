@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-22T21:46
-updated: 2024-12-02T14:12
+updated: 2025-03-03T18:48
 ---
 [YAML được sinh ra để con người đọc và viết metadata một cách dễ dàng](./YAML%20%C4%91%C6%B0%E1%BB%A3c%20sinh%20ra%20%C4%91%E1%BB%83%20con%20ng%C6%B0%E1%BB%9Di%20%C4%91%E1%BB%8Dc%20v%C3%A0%20vi%E1%BA%BFt%20metadata%20m%E1%BB%99t%20c%C3%A1ch%20d%E1%BB%85%20d%C3%A0ng.md)
 [JSON không cho phép để dư dấu phẩy, không có comment, thuộc tính phải được đóng trong ngoặc kép](../JSON/JSON%20kh%C3%B4ng%20cho%20ph%C3%A9p%20%C4%91%E1%BB%83%20d%C6%B0%20d%E1%BA%A5u%20ph%E1%BA%A9y,%20kh%C3%B4ng%20c%C3%B3%20comment,%20thu%E1%BB%99c%20t%C3%ADnh%20ph%E1%BA%A3i%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%B3ng%20trong%20ngo%E1%BA%B7c%20k%C3%A9p.md)
