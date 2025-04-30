@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2024-08-31T20:55
+updated: 2025-03-03T18:48
 ---
 
 | Yếu tố                                          | Windows                              | Android, Mac (bản chất là Linux) |
