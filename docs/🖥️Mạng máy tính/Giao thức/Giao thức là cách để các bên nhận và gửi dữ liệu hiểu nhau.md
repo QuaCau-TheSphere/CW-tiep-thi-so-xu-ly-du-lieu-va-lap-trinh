@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-30T16:29
+updated: 2025-05-02T14:59
 alias: protocol
 ---
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=d-zn-wv4Di8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
