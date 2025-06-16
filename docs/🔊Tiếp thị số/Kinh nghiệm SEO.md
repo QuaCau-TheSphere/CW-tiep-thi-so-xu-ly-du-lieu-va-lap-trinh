@@ -1,8 +1,10 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-24T12:16
+updated: 2025-06-10T11:16
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-B58GgsehKQ?si=b_NUJJvEDwUDlwfe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## [CASE STUDY] 3 NĂM LÀM NHÂN SỰ INHOUSE - SEO 01 WEBSITE DUY NHẤT - MÌNH ĐÃ LÀM GÌ?
 
 Đây là dự án SEO đầu tay đem mình từ vị trí intern lên lead SEO, cũng là dự án mang lại nhiều trải nghiệm và kinh nghiệm với mình nhất cho tới hiện tại.

@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-05-01T16:27
+updated: 2025-05-02T17:23
 ---
 ![](https://i.sstatic.net/GhE7a.png)
+Mặc định điểm cuối là working tree. Để thay đổi điểm cuối thì dùng --cache
 ## So sánh cùng một tệp giữa hai commit
 ```bash
 git diff <commit 1> <commit 2> -- <file>
