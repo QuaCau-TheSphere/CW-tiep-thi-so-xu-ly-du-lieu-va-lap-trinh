@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-05-26T14:51
-updated: 2025-03-26T16:21
+updated: 2025-06-10T11:34
 ---
 [GitHub - GitAlias/gitalias: Git alias commands for faster easier version control](https://github.com/GitAlias/gitalias)
 [GitHub - initialcommit-com/git-sim: Visually simulate Git operations in your own repos with a single terminal command.](https://github.com/initialcommit-com/git-sim)
@@ -57,5 +57,10 @@ git remote add origin $url
 git push -u origin main
 ```
 [Mẹo dùng Git với Obsidian](../../Tr%C3%ACnh%20so%E1%BA%A1n%20th%E1%BA%A3o%20(Obsidian)/M%E1%BA%B9o%20d%C3%B9ng%20Git%20v%E1%BB%9Bi%20Obsidian.md)
-Xem thêm:: [Các lỗi Git thường gặp](./C%C3%A1c%20l%E1%BB%97i%20Git%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p.md), [Git tag](./Git%20tag.md)
+Xem thêm:: [Các lỗi Git thường gặp](./C%C3%A1c%20l%E1%BB%97i%20Git%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p.md), [Git tag](./T%C3%A1ch,%20g%E1%BB%99p,%20chuy%E1%BB%83n%20nh%C3%A1nh/Git%20tag.md)
 Xem thêm:: [GitHub - git-tips/tips: Most commonly used git tips and tricks.](https://github.com/git-tips/tips?tab=readme-ov-file#readme)
+
+## Cập nhật phiên bản action
+```PowerShell
+Get-ChildItem deploy.yml -recurse | ForEach-Object { (Get-Content $_).Replace('actions/checkout@v3','actions/checkout@v4').Replace('actions/configure-pages@v3','actions/configure-pages@v4').Replace('actions/upload-pages-artifact@v2','actions/upload-pages-artifact@v3').Replace('actions/deploy-pages@v1','actions/deploy-pages@v4') | Set-Content $_ }
+```
