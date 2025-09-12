@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-18T15:05
+updated: 2025-06-20T14:31
 title: đối ⊷ thoại
 ---
 
@@ -21,11 +21,19 @@ title: đối ⊷ thoại
 
 `Tên_website liên_kết`
 
-| Diễn đàn                    | Discord                    | Messenger      | Telegram |
-| --------------------------- | -------------------------- | -------------- | -------- |
-| Tài khoản, trang, nhóm      | Server                     | Community      | Group    |
-| Ảnh bìa, ảnh đại diện, v.v. | Text Channel/Forum Channel | Community Chat | Topic    |
-| ❌                          | Channel Thread/Forum Post  | Sidechat       | ❌       |
+Chat đa cấp là những nền tảng mà ở dưới nó còn có nhiều cấp nhỏ hơn. Ví dụ như Messenger, Discord, Telegram, WhatsApp 
+
+| Diễn đàn                    | Discord                    | Messenger      | Telegram | WhatsApp  |
+| --------------------------- | -------------------------- | -------------- | -------- | --------- |
+| Tài khoản, trang, nhóm      | Server                     | Community      | Group    | Community |
+| Ảnh bìa, ảnh đại diện, v.v. | Text Channel/Forum Channel | Community Chat | Topic    | Group     |
+| ❌                          | Channel Thread/Forum Post  | Sidechat       | ❌       |         ❌  |
+
+| Cấp | Tên gọi các cấp chat | Lý do xuất hiện                                  | Discord                    | Messenger      | Telegram | WhatsApp  |
+| --- | -------------------- | ------------------------------------------------ | -------------------------- | -------------- | -------- | --------- |
+| 1   | Cộng đồng            | Từ nhu cầu xây dựng cộng đồng của người sáng lập | Server                     | Community      | Group    | Community |
+| 2   | Nhóm/mối quan tâm    | Từ nhu cầu phân loại của quản trị viên           | Text Channel/Forum Channel | Community Chat | Topic    | Group     |
+| 3   | Chủ đề               | Từ nhu cầu bảo vệ sự tập trung của thành viên    | Channel Thread/Forum Post  | Sidechat       | ❌       | ❌        |
 
 
 Diễn đàn
