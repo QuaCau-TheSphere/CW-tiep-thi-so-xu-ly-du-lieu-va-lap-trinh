@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T14:20
-updated: 2024-08-25T20:40
+updated: 2025-08-01T08:23
 ---
 
 Để `regex.test()` ngay trong `if`:
