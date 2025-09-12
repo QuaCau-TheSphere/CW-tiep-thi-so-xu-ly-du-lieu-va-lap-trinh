@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-30T13:54
+updated: 2025-07-14T15:06
 ---
 Một document có thể có nhiều article. Một article cũng có thể chứa nhiều article khác:
 ```html
