@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-05-02T14:59
+updated: 2025-09-12T14:41
 title: Giao diện và giao thức đều là những thứ các bên cần tuân thủ để sự giao tiếp được diễn ra, nhưng giao diện nhấn mạnh vào mô hình dữ liệu, còn giao thức nhấn mạnh vào các quy tắc và thủ tục trong quá trình truyền và trao đổi dữ liệu
 ---
 [Giao diện là cách để sử dụng vật thể mà không cần biết bên trong nó có gì](../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/M%C3%B4%20%C4%91un/Giao%20di%E1%BB%87n%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20s%E1%BB%AD%20d%E1%BB%A5ng%20v%E1%BA%ADt%20th%E1%BB%83%20m%C3%A0%20kh%C3%B4ng%20c%E1%BA%A7n%20bi%E1%BA%BFt%20b%C3%AAn%20trong%20n%C3%B3%20c%C3%B3%20g%C3%AC.md). Đây là một ví dụ về giao diện (interface):
