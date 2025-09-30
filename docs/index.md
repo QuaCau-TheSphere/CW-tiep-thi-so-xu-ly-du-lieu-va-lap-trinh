@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-08-25T15:39
-updated: 2025-04-30T15:53
+updated: 2025-09-30T08:03
 filename: index
 alias:
   - Homepage
@@ -21,7 +21,7 @@ title: Nơi này là nơi nào
 > - **Các lỗi thường gặp mà việc tìm hiểu đòi hỏi phải có hiểu biết sâu về vấn đề (pitfall)**
 > - **Những nguồn tốt dể học một cách bài bản**
 > - **Những lĩnh vực, hướng tư duy ít được để ý**
-> - **Những cách dịch tốt hơn cách dịch đã phổ biến.** Xem thêm:: [Các vấn đề về dịch thuật ngữ](C%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20v%E1%BB%81%20d%E1%BB%8Bch%20thu%E1%BA%ADt%20ng%E1%BB%AF.md)
+> - **Những cách dịch tốt hơn cách dịch đã phổ biến.** Xem thêm:: [Dịch thuật ngữ](./%E2%9A%92%EF%B8%8FNhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/D%E1%BB%8Bch%20thu%E1%BA%ADt%20ng%E1%BB%AF/index.md)
 > 
 > Chúng là những thứ mà bạn ước rằng ngày xưa có ai nói với mình như vậy để mình hiểu ra nhanh. Chúng thể hiện được sự vận động, chuyển động của khái niệm.
 
