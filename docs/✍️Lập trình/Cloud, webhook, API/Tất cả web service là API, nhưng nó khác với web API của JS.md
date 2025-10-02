@@ -3,7 +3,7 @@ share: true
 created: 2023-10-30T14:29
 updated: 2025-03-04T15:47
 ---
-[HTTP là ngôn ngữ để trình duyệt và webserver nói chuyện với nhau](../../%F0%9F%96%A5%EF%B8%8FM%E1%BA%A1ng%20m%C3%A1y%20t%C3%ADnh/Giao%20th%E1%BB%A9c/HTTP/HTTP%20l%C3%A0%20ng%C3%B4n%20ng%E1%BB%AF%20%C4%91%E1%BB%83%20tr%C3%ACnh%20duy%E1%BB%87t%20v%C3%A0%20webserver%20n%C3%B3i%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20nhau.md)
+[HTTP là ngôn ngữ để trình duyệt và webserver nói chuyện với nhau](../../%F0%9F%9B%9CM%E1%BA%A1ng%20m%C3%A1y%20t%C3%ADnh/Giao%20th%E1%BB%A9c/HTTP/HTTP%20l%C3%A0%20ng%C3%B4n%20ng%E1%BB%AF%20%C4%91%E1%BB%83%20tr%C3%ACnh%20duy%E1%BB%87t%20v%C3%A0%20webserver%20n%C3%B3i%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20nhau.md)
 Web service là các API của các dịch vụ trên mạng, cần phải có internet mới dùng được nó. Gọi là là web API cũng được. Nhưng cần phân biệt với [web API của JS](../Ng%C3%B4n%20ng%E1%BB%AF/Ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BA%ADp%20tr%C3%ACnh/Ng%C3%B4n%20ng%E1%BB%AF%20ki%E1%BB%83u%20%C4%91%E1%BB%99ng/JavaScript/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi%20(runtime)/Web%20API%20l%C3%A0%20nh%E1%BB%AFng%20API%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%ACnh%20duy%E1%BB%87t%20cung%20c%E1%BA%A5p,%20kh%C3%B4ng%20ph%E1%BA%A3i%20c%E1%BB%A7a%20%C4%91%E1%BB%99ng%20c%C6%A1.md). Nó là API của trình duyệt, chứ không phải của dịch vụ trên mạng nào. Không có internet vẫn dùng được.
 
 ## What is Web API?
