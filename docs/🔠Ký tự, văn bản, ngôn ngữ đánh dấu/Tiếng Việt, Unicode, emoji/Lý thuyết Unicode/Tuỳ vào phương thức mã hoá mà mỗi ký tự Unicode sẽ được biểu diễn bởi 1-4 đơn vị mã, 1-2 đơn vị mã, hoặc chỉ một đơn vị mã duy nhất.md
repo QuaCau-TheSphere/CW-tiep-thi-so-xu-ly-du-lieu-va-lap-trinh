@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2025-04-22T14:21
+updated: 2025-10-12T15:34
 ---
 | Phương thức mã hoá | Số đơn vị mã (code unit) cần để biểu diễn một ký tự bất kỳ | Số byte cần cho một đơn vị mã |
 | ------------------ | ---------------------------------------------------------- | ----------------------------- |
@@ -40,4 +40,4 @@ console.log(decoded);
 // Một thông điệp
 ```
 
-Đây cũng là lý do mà [JSON bắt phải đóng ngoặc kép tất cả các thuộc tính](../../../%F0%9F%93%8AT%E1%BB%95%20ch%E1%BB%A9c%20d%E1%BB%AF%20li%E1%BB%87u/%C4%90%E1%BB%8Bnh%20d%E1%BA%A1ng%20d%E1%BB%AF%20li%E1%BB%87u/C%C3%B3%20c%E1%BA%A5u%20tr%C3%BAc/V%C4%83n%20b%E1%BA%A3n/JSON/JSON%20kh%C3%B4ng%20cho%20ph%C3%A9p%20%C4%91%E1%BB%83%20d%C6%B0%20d%E1%BA%A5u%20ph%E1%BA%A9y,%20kh%C3%B4ng%20c%C3%B3%20comment,%20thu%E1%BB%99c%20t%C3%ADnh%20ph%E1%BA%A3i%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%B3ng%20trong%20ngo%E1%BA%B7c%20k%C3%A9p.md), để khỏi phải quan tâm xem "ký tự" là gì.
+Đây cũng là lý do mà [JSON bắt phải đóng ngoặc kép tất cả các thuộc tính](../../../%F0%9F%97%84%EF%B8%8FT%E1%BB%95%20ch%E1%BB%A9c%20d%E1%BB%AF%20li%E1%BB%87u/%C4%90%E1%BB%8Bnh%20d%E1%BA%A1ng%20d%E1%BB%AF%20li%E1%BB%87u/%C4%90%E1%BB%8Bnh%20d%E1%BA%A1ng%20v%C4%83n%20b%E1%BA%A3n/JSON/JSON%20kh%C3%B4ng%20cho%20ph%C3%A9p%20%C4%91%E1%BB%83%20d%C6%B0%20d%E1%BA%A5u%20ph%E1%BA%A9y,%20kh%C3%B4ng%20c%C3%B3%20comment,%20thu%E1%BB%99c%20t%C3%ADnh%20ph%E1%BA%A3i%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C3%B3ng%20trong%20ngo%E1%BA%B7c%20k%C3%A9p.md), để khỏi phải quan tâm xem "ký tự" là gì.
