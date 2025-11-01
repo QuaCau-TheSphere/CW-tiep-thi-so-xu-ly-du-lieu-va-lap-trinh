@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2025-11-01T12:53
 ---
 Các hệ mã khối, giống như tên gọi, thực hiện tính toán trên từng khối bit có kích thước cố định, thông thường là 64 hoặc 128 bit. Vì vậy khi đầu vào bản rõ có độ dài không là bội số của khối, ta cần phải thực hiện thao tác đệm (padding) sao cho số bit của đầu vào phải là bội số của khối.
 
