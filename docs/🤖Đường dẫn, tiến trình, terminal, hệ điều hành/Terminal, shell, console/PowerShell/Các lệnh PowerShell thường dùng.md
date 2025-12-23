@@ -1,19 +1,27 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-05-09T16:12
+updated: 2025-11-11T18:33
 ---
+[PowerShell là một ngôn ngữ shell](./PowerShell%20l%C3%A0%20m%E1%BB%99t%20ng%C3%B4n%20ng%E1%BB%AF%20shell.md). [Shell là cái vỏ bảo vệ nhân của hệ điều hành](../Shell%20l%C3%A0%20c%C3%A1i%20v%E1%BB%8F%20b%E1%BA%A3o%20v%E1%BB%87%20nh%C3%A2n%20c%E1%BB%A7a%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh.md)
+
 ## Lịch sử
 | Lệnh                        | Cách dùng                          |
 | --------------------------- | ---------------------------------- |
 | Cuộn lên, cuộn xuống        | <kbd>Alt+↑</kbd>, <kbd>Alt+↓</kbd> |
 | Xem lịch sử các lệnh        | `get-history` hoặc `h`             |
-| Tìm một lệnh mình từng dùng | gõ lệnh đó rồi nhấn `F8`           |
+| Tìm một lệnh mình từng dùng | Gõ lệnh đó rồi nhấn <kbd>F8</kbd>  |
 Nguồn:: [about History - PowerShell | Microsoft Learn](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_history?view=powershell-7.3)
 
-[PowerShell là một ngôn ngữ shell](./PowerShell%20l%C3%A0%20m%E1%BB%99t%20ng%C3%B4n%20ng%E1%BB%AF%20shell.md). [Shell là cái vỏ bảo vệ nhân của hệ điều hành](../Shell%20l%C3%A0%20c%C3%A1i%20v%E1%BB%8F%20b%E1%BA%A3o%20v%E1%BB%87%20nh%C3%A2n%20c%E1%BB%A7a%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh.md)
 [The Complete Guide to PowerShell Punctuation - Simple Talk](https://www.red-gate.com/simple-talk/sysadmin/powershell/the-complete-guide-to-powershell-punctuation/)
-## Tạo nhiều folder
+
+| Lệnh                  | Cách dùng                                      |
+| --------------------- | ---------------------------------------------- |
+| Markmode              | <kbd>Ctrl+Shift+M</kbd>                        |
+| Tạo pane mới          | <kbd>Alt+Shift+-</kbd>, <kbd>Alt+Shift++</kbd> |
+| Thay đổi kích cỡ pane | <kbd>Alt+Shift+↑</kbd>, <kbd>Alt+Shift+↓</kbd> |
+
+## Tạo nhiều thư mục
 ```PowerShell
 $list=(ls -name -directory).substring(1)
 foreach ($i in $list) {
