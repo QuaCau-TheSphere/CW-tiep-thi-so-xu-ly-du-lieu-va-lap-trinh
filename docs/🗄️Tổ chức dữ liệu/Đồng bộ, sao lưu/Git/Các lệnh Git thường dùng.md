@@ -56,7 +56,7 @@ $url = gh repo view $repo --json url --jq '.url'
 git remote add origin $url 
 git push -u origin main
 ```
-[Mẹo dùng Git với Obsidian](../../../%E2%9A%92%EF%B8%8FNhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Ghi%20ch%C3%BA%20(Obsidian)/M%E1%BA%B9o%20d%C3%B9ng%20Git%20v%E1%BB%9Bi%20Obsidian.md)
+[Mẹo dùng Git với Obsidian](../../../%E2%9A%92%EF%B8%8FNhu%20c%E1%BA%A7u%20c%C3%B4ng%20vi%E1%BB%87c/Qu%E1%BA%A3n%20l%C3%BD%20ki%E1%BA%BFn%20th%E1%BB%A9c/Obsidian/M%E1%BA%B9o%20d%C3%B9ng%20Git%20v%E1%BB%9Bi%20Obsidian.md)
 Xem thêm:: [Các lỗi Git thường gặp](./C%C3%A1c%20l%E1%BB%97i%20Git%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p.md), [Git tag](./T%C3%A1ch,%20g%E1%BB%99p,%20chuy%E1%BB%83n%20nh%C3%A1nh/Git%20tag.md)
 Xem thêm:: [GitHub - git-tips/tips: Most commonly used git tips and tricks.](https://github.com/git-tips/tips?tab=readme-ov-file#readme)
 
