@@ -12,20 +12,6 @@ title: Cloud, webhook, API
     - [Tất cả web service là API, nhưng nó khác với web API của JS](./T%E1%BA%A5t%20c%E1%BA%A3%20web%20service%20l%C3%A0%20API,%20nh%C6%B0ng%20n%C3%B3%20kh%C3%A1c%20v%E1%BB%9Bi%20web%20API%20c%E1%BB%A7a%20JS.md)
 
 - API của từng dịch vụ: 
-    - [Chạy trên Node 22](./API%20c%E1%BB%A7a%20t%E1%BB%ABng%20d%E1%BB%8Bch%20v%E1%BB%A5/Fibery/Automation/Ch%E1%BA%A1y%20tr%C3%AAn%20Node%2022.md)
-    - [Chỉ cho chạy tối đa 1 giây](./API%20c%E1%BB%A7a%20t%E1%BB%ABng%20d%E1%BB%8Bch%20v%E1%BB%A5/Fibery/Automation/Ch%E1%BB%89%20cho%20ch%E1%BA%A1y%20t%E1%BB%91i%20%C4%91a%201%20gi%C3%A2y.md)
-    - [Cung cấp 2 biến args và context](./API%20c%E1%BB%A7a%20t%E1%BB%ABng%20d%E1%BB%8Bch%20v%E1%BB%A5/Fibery/Automation/Cung%20c%E1%BA%A5p%202%20bi%E1%BA%BFn%20args%20v%C3%A0%20context.md)
-    - [Dùng fibery-script-management để viết được trên IDE của mình](./API%20c%E1%BB%A7a%20t%E1%BB%ABng%20d%E1%BB%8Bch%20v%E1%BB%A5/Fibery/Automation/D%C3%B9ng%20fibery-script-management%20%C4%91%E1%BB%83%20vi%E1%BA%BFt%20%C4%91%C6%B0%E1%BB%A3c%20tr%C3%AAn%20IDE%20c%E1%BB%A7a%20m%C3%ACnh.md)
-    - [When you get an entity object, by default, only the primitive fields and any to-one relations are included in the fields returned. If you want to get the collection fields (to-many relations) you have to query specifically for them.](./API%20c%E1%BB%A7a%20t%E1%BB%ABng%20d%E1%BB%8Bch%20v%E1%BB%A5/Fibery/Automation/When%20you%20get%20an%20entity%20object,%20by%20default,%20only%20the%20primitive%20fields%20and%20any%20to-one%20relations%20are%20included%20in%20the%20fields%20returned.%20If%20you%20want%20to%20get%20the%20collection%20fields%20(to-many%20relations)%20you%20have%20to%20query%20specifically%20for%20them..md)
-    - [Collection](./API%20c%E1%BB%A7a%20t%E1%BB%ABng%20d%E1%BB%8Bch%20v%E1%BB%A5/Fibery/Collection.md)
-    - [GraphiQL](./API%20c%E1%BB%A7a%20t%E1%BB%ABng%20d%E1%BB%8Bch%20v%E1%BB%A5/Fibery/GraphiQL.md)
-    - [Type với database là một. App với space là một](./API%20c%E1%BB%A7a%20t%E1%BB%ABng%20d%E1%BB%8Bch%20v%E1%BB%A5/Fibery/Type%20v%E1%BB%9Bi%20database%20l%C3%A0%20m%E1%BB%99t.%20App%20v%E1%BB%9Bi%20space%20l%C3%A0%20m%E1%BB%99t.md)
-    - [Ký tự phi ASCII trong tên field hoặc database sẽ được transliterate sang tiếng Anh khi dùng GraphQL API](./API%20c%E1%BB%A7a%20t%E1%BB%ABng%20d%E1%BB%8Bch%20v%E1%BB%A5/Fibery/K%C3%BD%20t%E1%BB%B1%20phi%20ASCII%20trong%20t%C3%AAn%20field%20ho%E1%BA%B7c%20database%20s%E1%BA%BD%20%C4%91%C6%B0%E1%BB%A3c%20transliterate%20sang%20ti%E1%BA%BFng%20Anh%20khi%20d%C3%B9ng%20GraphQL%20API.md)
-    - [Các API thường dùng cho PHP](./API%20c%E1%BB%A7a%20t%E1%BB%ABng%20d%E1%BB%8Bch%20v%E1%BB%A5/Facebook/C%C3%A1c%20API%20th%C6%B0%E1%BB%9Dng%20d%C3%B9ng%20cho%20PHP.md)
-    - [Facebook API](./API%20c%E1%BB%A7a%20t%E1%BB%ABng%20d%E1%BB%8Bch%20v%E1%BB%A5/Facebook/Facebook%20API.md)
-    - [Fb hạn chế rất nhiều API để tránh việc làm nhái page](./API%20c%E1%BB%A7a%20t%E1%BB%ABng%20d%E1%BB%8Bch%20v%E1%BB%A5/Facebook/Fb%20h%E1%BA%A1n%20ch%E1%BA%BF%20r%E1%BA%A5t%20nhi%E1%BB%81u%20API%20%C4%91%E1%BB%83%20tr%C3%A1nh%20vi%E1%BB%87c%20l%C3%A0m%20nh%C3%A1i%20page.md)
-    - [Pfbid](./API%20c%E1%BB%A7a%20t%E1%BB%ABng%20d%E1%BB%8Bch%20v%E1%BB%A5/Facebook/Pfbid.md)
-    - [me-accounts liệt kê tất cả các page mình quản lý](./API%20c%E1%BB%A7a%20t%E1%BB%ABng%20d%E1%BB%8Bch%20v%E1%BB%A5/Facebook/me-accounts%20li%E1%BB%87t%20k%C3%AA%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20page%20m%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD.md)
     - [Build service object](./API%20c%E1%BB%A7a%20t%E1%BB%ABng%20d%E1%BB%8Bch%20v%E1%BB%A5/Google/Build%20service%20object.md)
 
 - GraphQL: 
