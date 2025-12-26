@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2025-03-03T18:48
+updated: 2025-11-14T19:22
 ---
 [Shell là cái vỏ bảo vệ nhân của hệ điều hành](./Shell%20l%C3%A0%20c%C3%A1i%20v%E1%BB%8F%20b%E1%BA%A3o%20v%E1%BB%87%20nh%C3%A2n%20c%E1%BB%A7a%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh.md). [Terminal là cái chương trình để làm việc với shell](./Terminal%20l%C3%A0%20c%C3%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%E1%BB%83%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20shell.md)
 
@@ -11,6 +11,7 @@ Thế giới đằng sau tấm gương là cái lõi của hệ điều hành. T
 
 ![](https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2019/05/terminalarchitecture.png) 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qgwrt7vYY4U?si=lfI-E9S5CwC-vZji" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [**Terminal**] (https://www.geeksforgeeks.org/kali-linux-terminal-and-shell/) **:**  
 A terminal is a text input and output environment. A terminal window, also known as a terminal emulator, is a text-only window that emulates a console in a graphical user interface (GUI). In other words, a graphical user interface application from which we can access a user’s console. A terminal is a program that allows you to run a shell. Is a device with a human-readable display that accepts a stream of characters and displays them. Only chars are making their way there. They’re commonly used in networking and device debug interfaces.

@@ -13,7 +13,7 @@ interface Communicate
 }
 ```
 
-[Giao thức là cách để các bên nhận và gửi dữ liệu hiểu nhau](../../../../%F0%9F%96%A5%EF%B8%8FM%E1%BA%A1ng%20m%C3%A1y%20t%C3%ADnh/Giao%20th%E1%BB%A9c/Giao%20th%E1%BB%A9c%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20c%C3%A1c%20b%C3%AAn%20nh%E1%BA%ADn%20v%C3%A0%20g%E1%BB%ADi%20d%E1%BB%AF%20li%E1%BB%87u%20hi%E1%BB%83u%20nhau.md). Đây là một ví dụ về giao thức (protocol):
+[Giao thức là cách để các bên nhận và gửi dữ liệu hiểu nhau](../../../../%F0%9F%9B%9CM%E1%BA%A1ng%20m%C3%A1y%20t%C3%ADnh/Giao%20th%E1%BB%A9c/Giao%20th%E1%BB%A9c%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20c%C3%A1c%20b%C3%AAn%20nh%E1%BA%ADn%20v%C3%A0%20g%E1%BB%ADi%20d%E1%BB%AF%20li%E1%BB%87u%20hi%E1%BB%83u%20nhau.md). Đây là một ví dụ về giao thức (protocol):
 
 > 1. Gửi "Hello"
 > 2. Nếu bạn nhận được phản hồi "Hi" thì hãy gửi "How are you?" và phản hồi sẽ là trạng thái

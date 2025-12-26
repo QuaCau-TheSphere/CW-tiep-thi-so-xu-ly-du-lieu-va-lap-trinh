@@ -50,7 +50,7 @@ updated: 2025-08-06T21:37
 | <kbd>F5</kbd>               | Chạy code                                                           |
 | <kbd>F9</kbd>               | Tạo breakpoint                                                      |
 | <kbd>Ctrl + Shift + D</kbd> | Mở debug sidebar                                                    |
-| <kbd>Ctrl + `</kbd>         | Mở [terminal](../../../H%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh,%20path%20v%C3%A0%20terminal/Terminal,%20shell,%20console/Terminal%20l%C3%A0%20c%C3%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%E1%BB%83%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20shell.md) |
+| <kbd>Ctrl + `</kbd>         | Mở [terminal](../../../../%F0%9F%A4%96%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn,%20ti%E1%BA%BFn%20tr%C3%ACnh,%20terminal,%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh/Terminal,%20shell,%20console/Terminal%20l%C3%A0%20c%C3%A1i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%E1%BB%83%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20shell.md) |
 | <kbd>Ctrl + Shift + Y</kbd> | Mở debug console                                                    |
 
 # Thiết lập VS Code
