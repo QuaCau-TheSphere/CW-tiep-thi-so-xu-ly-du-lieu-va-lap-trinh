@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-25T21:01
+updated: 2026-01-04T16:44
 ---
 ## Tạo kho mới
 `Ξ Thiết lập/Ξ Thiết lập.md`:
@@ -29,5 +29,8 @@ gh repo create --public
 git remote add origin {{gitUrl}}
 git push -u origin main
 ```
+
 ## đối ⊷ thoại
 ## Cloudflare
+
+[Các lỗi Git thường gặp](../../../%F0%9F%97%84%EF%B8%8FT%E1%BB%95%20ch%E1%BB%A9c%20d%E1%BB%AF%20li%E1%BB%87u/%C4%90%E1%BB%93ng%20b%E1%BB%99,%20sao%20l%C6%B0u/Git/C%C3%A1c%20l%E1%BB%97i%20Git%20th%C6%B0%E1%BB%9Dng%20g%E1%BA%B7p.md)
