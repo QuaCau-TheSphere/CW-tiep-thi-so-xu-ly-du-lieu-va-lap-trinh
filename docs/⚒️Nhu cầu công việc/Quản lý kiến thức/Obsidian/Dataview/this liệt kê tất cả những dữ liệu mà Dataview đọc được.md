@@ -27,9 +27,9 @@ Với Dataviewjs thì nó tương đương với `dv.current()`
         
     - ctime: 1:13 PM - October 12, 2025
     - cday: October 12, 2025
-    - mtime: 3:30 PM - October 12, 2025
-    - mday: October 12, 2025
-    - size: 351
+    - mtime: 1:09 PM - January 14, 2026
+    - mday: January 14, 2026
+    - size: 363
     - starred: false
     - frontmatter:
         - share: true
