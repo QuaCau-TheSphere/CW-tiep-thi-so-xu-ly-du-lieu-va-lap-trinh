@@ -13,8 +13,8 @@ title: Tự động hoá trình duyệt
 - [GitHub - lorien/awesome-web-scraping: List of libraries, tools and APIs for web scraping and data processing.](https://github.com/lorien/awesome-web-scraping)
 
 - \-: 
-    - [Thử kiếm backend API trước rồi mới phải đi cào bằng frontend](./Th%E1%BB%AD%20ki%E1%BA%BFm%20backend%20API%20tr%C6%B0%E1%BB%9Bc%20r%E1%BB%93i%20m%E1%BB%9Bi%20ph%E1%BA%A3i%20%C4%91i%20c%C3%A0o%20b%E1%BA%B1ng%20frontend.md)
     - [Tự động hoá trình duyệt](index.md)
+    - [Thử kiếm backend API trước rồi mới phải đi cào bằng frontend](./Th%E1%BB%AD%20ki%E1%BA%BFm%20backend%20API%20tr%C6%B0%E1%BB%9Bc%20r%E1%BB%93i%20m%E1%BB%9Bi%20ph%E1%BA%A3i%20%C4%91i%20c%C3%A0o%20b%E1%BA%B1ng%20frontend.md)
 
 - Puppeteer, Playwright: 
     - [Gần như mọi lệnh đều là async, vì nó phải giao tiếp với trình duyệt](./Puppeteer,%20Playwright/G%E1%BA%A7n%20nh%C6%B0%20m%E1%BB%8Di%20l%E1%BB%87nh%20%C4%91%E1%BB%81u%20l%C3%A0%20async,%20v%C3%AC%20n%C3%B3%20ph%E1%BA%A3i%20giao%20ti%E1%BA%BFp%20v%E1%BB%9Bi%20tr%C3%ACnh%20duy%E1%BB%87t.md)
@@ -26,4 +26,5 @@ title: Tự động hoá trình duyệt
 - Selenium: 
     - [Remote Control được sinh ra để giải quyết vấn đề Same-Origin Policy](./Selenium/Remote%20Control%20%C4%91%C6%B0%E1%BB%A3c%20sinh%20ra%20%C4%91%E1%BB%83%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20Same-Origin%20Policy.md)
     - [Selenium bao gồm IDE, Remote Control, WebDriver và Grid. Selenium 1 thực ra là Remote Control. Selenium 2 thực ra là Remote Control có thêm WebDriver](./Selenium/Selenium%20bao%20g%E1%BB%93m%20IDE,%20Remote%20Control,%20WebDriver%20v%C3%A0%20Grid.%20Selenium%201%20th%E1%BB%B1c%20ra%20l%C3%A0%20Remote%20Control.%20Selenium%202%20th%E1%BB%B1c%20ra%20l%C3%A0%20Remote%20Control%20c%C3%B3%20th%C3%AAm%20WebDriver.md)
+
 
