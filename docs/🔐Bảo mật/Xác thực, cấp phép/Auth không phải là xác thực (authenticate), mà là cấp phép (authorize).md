@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2026-01-09T15:50
 ---
 Chắc hẳn nhiều người sẽ cảm thấy xa lạ với từ OAuth. Bởi OAuth có chứa cụm Auth nên có lẽ các bạn cũng đã hình dung đái khái rằng nó có liên quan đến xác thực người dùng. Thế nhưng còn “O” thì sao? “O” có ý nghĩa gì? Trường hợp tên chính thức của một sự vật, hiện tượng được cấu thành bằng một từ viết tắt, việc gặp khó khăn khi đi tìm từ nguyên gốc là điều tất nhiên.
 
@@ -47,4 +47,4 @@ OAuth2.0 Official site: [https://oauth.net/2/](https://oauth.net/2/)
 
 RFC6749 The OAuth 2.0 Authorization Framework [https://tools.ietf.org/html/rfc6749](https://tools.ietf.org/html/rfc6749)
 
-Nguồn:: [Viblo](../../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/%CE%9E%20Ngu%E1%BB%93n%20v%C3%A0%20t%C3%A0i%20nguy%C3%AAn%20h%E1%BB%97%20tr%E1%BB%A3/%CE%9E%20Ngu%E1%BB%93n/Viblo.md), [OAuth là gì? Kỹ thuật gần gũi với đời sống của chúng ta](https://viblo.asia/p/oauth-la-gi-ky-thuat-gan-gui-voi-doi-song-cua-chung-ta-3P0lP2bgKox)
+Nguồn:: [Viblo](../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/%CE%9E%20Ngu%E1%BB%93n%20v%C3%A0%20t%C3%A0i%20nguy%C3%AAn%20h%E1%BB%97%20tr%E1%BB%A3/%CE%9E%20Ngu%E1%BB%93n/Viblo.md), [OAuth là gì? Kỹ thuật gần gũi với đời sống của chúng ta](https://viblo.asia/p/oauth-la-gi-ky-thuat-gan-gui-voi-doi-song-cua-chung-ta-3P0lP2bgKox)
