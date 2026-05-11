@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2026-02-04T13:06
 alias:
   - markdown, URL, domain xử lý
 ---
@@ -23,3 +23,6 @@ Nên tránh dùng ký tự `%` trong tên tập tin, nhất là nếu sau này s
 [Sự khác biệt giữa Windows và Android, Mac trong tên file](./S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20Windows%20v%C3%A0%20Android,%20Mac%20trong%20t%C3%AAn%20file.md)
 
 [Các ký tự ASCII có 1 điểm mã](../../%F0%9F%94%A0K%C3%BD%20t%E1%BB%B1,%20v%C4%83n%20b%E1%BA%A3n,%20ng%C3%B4n%20ng%E1%BB%AF%20%C4%91%C3%A1nh%20d%E1%BA%A5u/Ti%E1%BA%BFng%20Vi%E1%BB%87t,%20Unicode,%20emoji/L%C3%BD%20thuy%E1%BA%BFt%20Unicode/%C4%90i%E1%BB%83m%20m%C3%A3/C%C3%A1c%20k%C3%BD%20t%E1%BB%B1%20ASCII%20c%C3%B3%201%20%C4%91i%E1%BB%83m%20m%C3%A3.md)
+[decodeURI không giải mã được dấu %](../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/Ng%C3%B4n%20ng%E1%BB%AF/Ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BA%ADp%20tr%C3%ACnh/Ng%C3%B4n%20ng%E1%BB%AF%20ki%E1%BB%83u%20%C4%91%E1%BB%99ng/JavaScript/C%C3%BA%20ph%C3%A1p/Chu%E1%BB%97i/URI/decodeURI%20kh%C3%B4ng%20gi%E1%BA%A3i%20m%C3%A3%20%C4%91%C6%B0%E1%BB%A3c%20d%E1%BA%A5u%20%EF%BC%85.md)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=0fw5Cyh21TE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
