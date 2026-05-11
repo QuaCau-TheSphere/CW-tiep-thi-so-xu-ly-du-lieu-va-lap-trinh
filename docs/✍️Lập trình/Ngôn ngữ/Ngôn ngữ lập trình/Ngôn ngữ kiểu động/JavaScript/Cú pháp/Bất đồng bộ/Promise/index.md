@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-04T15:47
+updated: 2026-03-31T14:37
 description: Thứ gì được truyền vào `resolve()` sẽ được truyền vào `result` và vào `then()`. Thứ gì được truyền vào `reject()` sẽ được truyền vào `result` và vào `catch()`
 title: Promise
 ---
@@ -104,5 +104,6 @@ Tham khảo:
 - [Promise](https://javascript.info/promise-basics)
 - [Promise - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [Tất tần tật về Promise và async/await - Ehkoo](https://doi-thoai.deno.dev/tat-tan-tat-ve-promise-va-async-await.5J.1)
+
 
 
