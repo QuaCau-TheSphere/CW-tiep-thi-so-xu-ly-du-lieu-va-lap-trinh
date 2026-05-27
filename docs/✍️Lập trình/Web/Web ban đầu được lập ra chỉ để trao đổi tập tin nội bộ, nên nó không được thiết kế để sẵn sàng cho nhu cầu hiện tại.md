@@ -1,0 +1,9 @@
+---
+share: true
+created: 2023-10-30T14:29
+updated: 2026-05-12T11:29
+---
+Khái niệm:: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8JOD1AQGqEg?si=Rju9tPppS3sNqEdN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![\[CS161 FA25\] Introduction to Web, Cookies, and CSRF - YouTube](https://www.youtube.com/watch?v=QvyntWf1Qnc&t=230s)
+Nguồn:: 
