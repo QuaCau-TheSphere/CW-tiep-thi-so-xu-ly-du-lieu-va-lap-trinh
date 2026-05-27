@@ -1,12 +1,9 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-05-10T21:42
+updated: 2026-05-12T12:15
 ---
 Khái niệm:: 
-
-[](https://stackoverflow.com/posts/4491290/timeline)
-
 Maybe it's easier to understand what Security-by-Obscurity is about, by looking at something that is in some sense the _opposite_: _Auguste Kerckhoffs's Second Principle_ (now simply known usually as _Kerckhoffs's Principle_), formulated in 1883 in two articles on _La Cryptographie Militaire_:
 
 > [The cipher] must not be required to be secret, and it must be able to fall into the hands of the enemy without inconvenience.
@@ -35,3 +32,5 @@ Note that it doesn't say anywhere that you can't keep your system secret. It jus
 In general, however, cryptography is _hard_, and cryptographic systems are complex, therefore you pretty much _need_ to publish it, to get as many eyeballs on it as possible. There are only very few organizations on this planet that actually have the necessary smart people to design cryptographic systems in secrecy: in the past, when mathematicians were patriots and governments were rich, those were the NSA and the KGB, right now it's IBM and a couple of years from now it's gonna be the Chinese Secret Service and international crime syndicates.
 
 Trích từ:: [Isn't a password a form of security through obscurity?](https://stackoverflow.com/a/4491290/3416774)
+
+[Obscurity won't protect against a determined attacker, but it does help against lazy, casual attackers, and there are lots of those](./B%E1%BA%A3o%20m%E1%BA%ADt%20b%E1%BA%B1ng%20che%20gi%E1%BA%A5u/Obscurity%20won't%20protect%20against%20a%20determined%20attacker,%20but%20it%20does%20help%20against%20lazy,%20casual%20attackers,%20and%20there%20are%20lots%20of%20those.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-08-05T22:05
+updated: 2026-05-26T23:23
 ---
 Fresh is a website framework designed to be used with Deno
 Preact is essentially a reactive rendering library
@@ -39,3 +39,4 @@ Nguồn:: [Discord](https://discord.com/channels/684898665143206084/991511118524
 Nguồn:: [unable to use preact context in fresh · Issue #983 · denoland/fresh · GitHub](https://github.com/denoland/fresh/issues/983#issuecomment-1891656732)
 
 [React được sinh ra để làm việc với trạng thái](./React%20%C4%91%C6%B0%E1%BB%A3c%20sinh%20ra%20%C4%91%E1%BB%83%20l%C3%A0m%20vi%E1%BB%87c%20v%E1%BB%9Bi%20tr%E1%BA%A1ng%20th%C3%A1i.md)
+[❓Metaframework với server-side framework là một](./%E2%9D%93Metaframework%20v%E1%BB%9Bi%20server-side%20framework%20l%C3%A0%20m%E1%BB%99t.md)
