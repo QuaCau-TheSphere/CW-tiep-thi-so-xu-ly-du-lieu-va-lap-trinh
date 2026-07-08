@@ -1,15 +1,16 @@
 ---
 share: true
 created: 2023-08-25T14:38
-updated: 2025-10-02T15:40
+updated: 2026-07-06T21:41
 title: 🛜Mạng máy tính
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/II36vixCITs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [Networking comic](https://jvns.ca/networking-zine.pdf) 
 
 - \-: 
-    - [VPN](./VPN.md)
+    - [Lịch sử phát triển internet](./L%E1%BB%8Bch%20s%E1%BB%AD%20ph%C3%A1t%20tri%E1%BB%83n%20internet.md)
     - [Server là cái máy. Host là cái dịch vụ cung cấp cái máy đó và những thứ liên quan tới nó](./Server%20l%C3%A0%20c%C3%A1i%20m%C3%A1y.%20Host%20l%C3%A0%20c%C3%A1i%20d%E1%BB%8Bch%20v%E1%BB%A5%20cung%20c%E1%BA%A5p%20c%C3%A1i%20m%C3%A1y%20%C4%91%C3%B3%20v%C3%A0%20nh%E1%BB%AFng%20th%E1%BB%A9%20li%C3%AAn%20quan%20t%E1%BB%9Bi%20n%C3%B3.md)
+    - [VPN](./VPN.md)
 
 - Giao thức: 
     - [AT Protocol’s DIDs focus on authentication rather than authorization. Also, ATProto relies on a central DID directory, creating a major single point of failure.](./Giao%20th%E1%BB%A9c/C%C3%A1c%20giao%20th%E1%BB%A9c%20phi%20t%E1%BA%ADp%20trung/AT%20Protocol%E2%80%99s%20DIDs%20focus%20on%20authentication%20rather%20than%20authorization.%20Also,%20ATProto%20relies%20on%20a%20central%20DID%20directory,%20creating%20a%20major%20single%20point%20of%20failure..md)
@@ -17,8 +18,9 @@ title: 🛜Mạng máy tính
     - [Giao thức là cách để các bên nhận và gửi dữ liệu hiểu nhau](./Giao%20th%E1%BB%A9c/Giao%20th%E1%BB%A9c%20l%C3%A0%20c%C3%A1ch%20%C4%91%E1%BB%83%20c%C3%A1c%20b%C3%AAn%20nh%E1%BA%ADn%20v%C3%A0%20g%E1%BB%ADi%20d%E1%BB%AF%20li%E1%BB%87u%20hi%E1%BB%83u%20nhau.md)
     - [HTTP là ngôn ngữ để trình duyệt và webserver nói chuyện với nhau](./Giao%20th%E1%BB%A9c/HTTP/HTTP%20l%C3%A0%20ng%C3%B4n%20ng%E1%BB%AF%20%C4%91%E1%BB%83%20tr%C3%ACnh%20duy%E1%BB%87t%20v%C3%A0%20webserver%20n%C3%B3i%20chuy%E1%BB%87n%20v%E1%BB%9Bi%20nhau.md)
     - [Request là thứ client gửi cho server. Response là thứ server gửi cho client](./Giao%20th%E1%BB%A9c/HTTP/Request%20l%C3%A0%20th%E1%BB%A9%20client%20g%E1%BB%ADi%20cho%20server.%20Response%20l%C3%A0%20th%E1%BB%A9%20server%20g%E1%BB%ADi%20cho%20client.md)
-    - [Request và respond HTTP chỉ là một tệp văn bản](./Giao%20th%E1%BB%A9c/HTTP/Request%20v%C3%A0%20respond%20HTTP%20ch%E1%BB%89%20l%C3%A0%20m%E1%BB%99t%20t%E1%BB%87p%20v%C4%83n%20b%E1%BA%A3n.md)
     - [Trình duyệt chỉ gửi yêu cầu và nhận phản hồi ở dạng HTTP](./Giao%20th%E1%BB%A9c/HTTP/Tr%C3%ACnh%20duy%E1%BB%87t%20ch%E1%BB%89%20g%E1%BB%ADi%20y%C3%AAu%20c%E1%BA%A7u%20v%C3%A0%20nh%E1%BA%ADn%20ph%E1%BA%A3n%20h%E1%BB%93i%20%E1%BB%9F%20d%E1%BA%A1ng%20HTTP.md)
+    - [Request và respond HTTP chỉ là một tệp văn bản](./Giao%20th%E1%BB%A9c/HTTP/Request%20v%C3%A0%20respond%20HTTP%20ch%E1%BB%89%20l%C3%A0%20m%E1%BB%99t%20t%E1%BB%87p%20v%C4%83n%20b%E1%BA%A3n.md)
+    - [Default gateway là IP của router](./Giao%20th%E1%BB%A9c/IP,%20DNS,%20DHCP/Default%20gateway%20l%C3%A0%20IP%20c%E1%BB%A7a%20router.md)
     - [DDNS cách để không cần phải biết IP của mình là gì mà vẫn có thể truy cập được, kể cả khi nó thay đổi không báo trước](./Giao%20th%E1%BB%A9c/IP,%20DNS,%20DHCP/DDNS%20c%C3%A1ch%20%C4%91%E1%BB%83%20kh%C3%B4ng%20c%E1%BA%A7n%20ph%E1%BA%A3i%20bi%E1%BA%BFt%20IP%20c%E1%BB%A7a%20m%C3%ACnh%20l%C3%A0%20g%C3%AC%20m%C3%A0%20v%E1%BA%ABn%20c%C3%B3%20th%E1%BB%83%20truy%20c%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c,%20k%E1%BB%83%20c%E1%BA%A3%20khi%20n%C3%B3%20thay%20%C4%91%E1%BB%95i%20kh%C3%B4ng%20b%C3%A1o%20tr%C6%B0%E1%BB%9Bc.md)
     - [DHCP giúp thiết bị có được những thông số cần thiết để kết nối mạng](./Giao%20th%E1%BB%A9c/IP,%20DNS,%20DHCP/DHCP%20gi%C3%BAp%20thi%E1%BA%BFt%20b%E1%BB%8B%20c%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BB%AFng%20th%C3%B4ng%20s%E1%BB%91%20c%E1%BA%A7n%20thi%E1%BA%BFt%20%C4%91%E1%BB%83%20k%E1%BA%BFt%20n%E1%BB%91i%20m%E1%BA%A1ng.md)
     - [DNS giúp chuyển tên miền mà con người hiểu được thành IP mà máy tính hiểu được](./Giao%20th%E1%BB%A9c/IP,%20DNS,%20DHCP/DNS%20gi%C3%BAp%20chuy%E1%BB%83n%20t%C3%AAn%20mi%E1%BB%81n%20m%C3%A0%20con%20ng%C6%B0%E1%BB%9Di%20hi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20th%C3%A0nh%20IP%20m%C3%A0%20m%C3%A1y%20t%C3%ADnh%20hi%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c.md)
@@ -35,41 +37,41 @@ title: 🛜Mạng máy tính
     - [TCP và UDP đều là các giao thức để hiểu từng bit. UDP đơn giản hơn, nhưng TCP bảo mật hơn](./Giao%20th%E1%BB%A9c/IP,%20DNS,%20DHCP/TCP%20v%C3%A0%20UDP%20%C4%91%E1%BB%81u%20l%C3%A0%20c%C3%A1c%20giao%20th%E1%BB%A9c%20%C4%91%E1%BB%83%20hi%E1%BB%83u%20t%E1%BB%ABng%20bit.%20UDP%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20h%C6%A1n,%20nh%C6%B0ng%20TCP%20b%E1%BA%A3o%20m%E1%BA%ADt%20h%C6%A1n.md)
     - [TCP được sinh ra những năm 60](./Giao%20th%E1%BB%A9c/IP,%20DNS,%20DHCP/TCP%20%C4%91%C6%B0%E1%BB%A3c%20sinh%20ra%20nh%E1%BB%AFng%20n%C4%83m%2060.md)
     - [TCP, một giao thức đáng tin cậy, được xây dựng trên IP, một giao thức không đáng tin cậy](./Giao%20th%E1%BB%A9c/IP,%20DNS,%20DHCP/TCP,%20m%E1%BB%99t%20giao%20th%E1%BB%A9c%20%C4%91%C3%A1ng%20tin%20c%E1%BA%ADy,%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A2y%20d%E1%BB%B1ng%20tr%C3%AAn%20IP,%20m%E1%BB%99t%20giao%20th%E1%BB%A9c%20kh%C3%B4ng%20%C4%91%C3%A1ng%20tin%20c%E1%BA%ADy.md)
-    - [Default gateway là IP của router](./Giao%20th%E1%BB%A9c/IP,%20DNS,%20DHCP/Default%20gateway%20l%C3%A0%20IP%20c%E1%BB%A7a%20router.md)
+    - [OSI là mô hình khái niệm, TCPIP là mô hình implement](./Giao%20th%E1%BB%A9c/OSI%20l%C3%A0%20m%C3%B4%20h%C3%ACnh%20kh%C3%A1i%20ni%E1%BB%87m,%20TCPIP%20l%C3%A0%20m%C3%B4%20h%C3%ACnh%20implement.md)
     - [CA là nhà cung cấp chứng chỉ số cho TLS](./Giao%20th%E1%BB%A9c/SSL,%20TLS/CA%20l%C3%A0%20nh%C3%A0%20cung%20c%E1%BA%A5p%20ch%E1%BB%A9ng%20ch%E1%BB%89%20s%E1%BB%91%20cho%20TLS.md)
-    - [Nếu GitHub Page không issue SSL được, thử xoá tên miền rồi thêm lại vào xem](./Giao%20th%E1%BB%A9c/SSL,%20TLS/CloudFlare,%20GitHub%20Page/N%E1%BA%BFu%20GitHub%20Page%20kh%C3%B4ng%20issue%20SSL%20%C4%91%C6%B0%E1%BB%A3c,%20th%E1%BB%AD%20xo%C3%A1%20t%C3%AAn%20mi%E1%BB%81n%20r%E1%BB%93i%20th%C3%AAm%20l%E1%BA%A1i%20v%C3%A0o%20xem.md)
     - [Nếu không dùng proxy của CloudFlare thì sẽ không dùng TLS của nó](./Giao%20th%E1%BB%A9c/SSL,%20TLS/CloudFlare,%20GitHub%20Page/N%E1%BA%BFu%20kh%C3%B4ng%20d%C3%B9ng%20proxy%20c%E1%BB%A7a%20CloudFlare%20th%C3%AC%20s%E1%BA%BD%20kh%C3%B4ng%20d%C3%B9ng%20TLS%20c%E1%BB%A7a%20n%C3%B3.md)
+    - [Nếu GitHub Page không issue SSL được, thử xoá tên miền rồi thêm lại vào xem](./Giao%20th%E1%BB%A9c/SSL,%20TLS/CloudFlare,%20GitHub%20Page/N%E1%BA%BFu%20GitHub%20Page%20kh%C3%B4ng%20issue%20SSL%20%C4%91%C6%B0%E1%BB%A3c,%20th%E1%BB%AD%20xo%C3%A1%20t%C3%AAn%20mi%E1%BB%81n%20r%E1%BB%93i%20th%C3%AAm%20l%E1%BA%A1i%20v%C3%A0o%20xem.md)
     - [TLS của CloudFlare khác với TLS của host](./Giao%20th%E1%BB%A9c/SSL,%20TLS/CloudFlare,%20GitHub%20Page/TLS%20c%E1%BB%A7a%20CloudFlare%20kh%C3%A1c%20v%E1%BB%9Bi%20TLS%20c%E1%BB%A7a%20host.md)
     - [Universal SSL chỉ hỗ trợ tới tên miền phụ cấp 1](./Giao%20th%E1%BB%A9c/SSL,%20TLS/CloudFlare,%20GitHub%20Page/Universal%20SSL%20ch%E1%BB%89%20h%E1%BB%97%20tr%E1%BB%A3%20t%E1%BB%9Bi%20t%C3%AAn%20mi%E1%BB%81n%20ph%E1%BB%A5%20c%E1%BA%A5p%201.md)
     - [Universal SSL là TLS mặc định của CloudFlare](./Giao%20th%E1%BB%A9c/SSL,%20TLS/CloudFlare,%20GitHub%20Page/Universal%20SSL%20l%C3%A0%20TLS%20m%E1%BA%B7c%20%C4%91%E1%BB%8Bnh%20c%E1%BB%A7a%20CloudFlare.md)
-    - [Các trình duyệt bây giờ đều bắt buộc phải có SSL mới xem là an toàn, dù không có nó thì cũng chẳng có vấn đề gì](./Giao%20th%E1%BB%A9c/SSL,%20TLS/C%C3%A1c%20tr%C3%ACnh%20duy%E1%BB%87t%20b%C3%A2y%20gi%E1%BB%9D%20%C4%91%E1%BB%81u%20b%E1%BA%AFt%20bu%E1%BB%99c%20ph%E1%BA%A3i%20c%C3%B3%20SSL%20m%E1%BB%9Bi%20xem%20l%C3%A0%20an%20to%C3%A0n,%20d%C3%B9%20kh%C3%B4ng%20c%C3%B3%20n%C3%B3%20th%C3%AC%20c%C5%A9ng%20ch%E1%BA%B3ng%20c%C3%B3%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20g%C3%AC.md)
     - [SSL và TLS tạo một ống bảo vệ cho HTTP](./Giao%20th%E1%BB%A9c/SSL,%20TLS/SSL%20v%C3%A0%20TLS%20t%E1%BA%A1o%20m%E1%BB%99t%20%E1%BB%91ng%20b%E1%BA%A3o%20v%E1%BB%87%20cho%20HTTP.md)
+    - [Các trình duyệt bây giờ đều bắt buộc phải có SSL mới xem là an toàn, dù không có nó thì cũng chẳng có vấn đề gì](./Giao%20th%E1%BB%A9c/SSL,%20TLS/C%C3%A1c%20tr%C3%ACnh%20duy%E1%BB%87t%20b%C3%A2y%20gi%E1%BB%9D%20%C4%91%E1%BB%81u%20b%E1%BA%AFt%20bu%E1%BB%99c%20ph%E1%BA%A3i%20c%C3%B3%20SSL%20m%E1%BB%9Bi%20xem%20l%C3%A0%20an%20to%C3%A0n,%20d%C3%B9%20kh%C3%B4ng%20c%C3%B3%20n%C3%B3%20th%C3%AC%20c%C5%A9ng%20ch%E1%BA%B3ng%20c%C3%B3%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20g%C3%AC.md)
     - [TLS là một phiên bản cải tiến của SSL, nhưng mọi người vẫn quen gọi nó là SSL](./Giao%20th%E1%BB%A9c/SSL,%20TLS/TLS%20l%C3%A0%20m%E1%BB%99t%20phi%C3%AAn%20b%E1%BA%A3n%20c%E1%BA%A3i%20ti%E1%BA%BFn%20c%E1%BB%A7a%20SSL,%20nh%C6%B0ng%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20v%E1%BA%ABn%20quen%20g%E1%BB%8Di%20n%C3%B3%20l%C3%A0%20SSL.md)
-    - [OSI là mô hình khái niệm, TCPIP là mô hình implement](./Giao%20th%E1%BB%A9c/OSI%20l%C3%A0%20m%C3%B4%20h%C3%ACnh%20kh%C3%A1i%20ni%E1%BB%87m,%20TCPIP%20l%C3%A0%20m%C3%B4%20h%C3%ACnh%20implement.md)
 
 - Máy phục vụ (server): 
     - [Apache, Nginx là những web server phổ biến](./M%C3%A1y%20ph%E1%BB%A5c%20v%E1%BB%A5%20(server)/Apache,%20Nginx%20l%C3%A0%20nh%E1%BB%AFng%20web%20server%20ph%E1%BB%95%20bi%E1%BA%BFn.md)
     - [CNAME là](./M%C3%A1y%20ph%E1%BB%A5c%20v%E1%BB%A5%20(server)/CNAME%20l%C3%A0.md)
+    - [cPanel là phần mềm quản lý host](./M%C3%A1y%20ph%E1%BB%A5c%20v%E1%BB%A5%20(server)/cPanel%20l%C3%A0%20ph%E1%BA%A7n%20m%E1%BB%81m%20qu%E1%BA%A3n%20l%C3%BD%20host.md)
+    - [Cloudflare đóng vai trò là một proxy và CDN](./M%C3%A1y%20ph%E1%BB%A5c%20v%E1%BB%A5%20(server)/Proxy,%20CDN/Cloudflare%20%C4%91%C3%B3ng%20vai%20tr%C3%B2%20l%C3%A0%20m%E1%BB%99t%20proxy%20v%C3%A0%20CDN.md)
     - [CDN tạo ra điểm truy cập gần nhất dựa vào vị trí địa lý của người dùng, để thời gian tải  web không chịu ảnh hưởng bởi việc nó được đặt ở đâu](./M%C3%A1y%20ph%E1%BB%A5c%20v%E1%BB%A5%20(server)/Proxy,%20CDN/CDN%20t%E1%BA%A1o%20ra%20%C4%91i%E1%BB%83m%20truy%20c%E1%BA%ADp%20g%E1%BA%A7n%20nh%E1%BA%A5t%20d%E1%BB%B1a%20v%C3%A0o%20v%E1%BB%8B%20tr%C3%AD%20%C4%91%E1%BB%8Ba%20l%C3%BD%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng,%20%C4%91%E1%BB%83%20th%E1%BB%9Di%20gian%20t%E1%BA%A3i%20%20web%20kh%C3%B4ng%20ch%E1%BB%8Bu%20%E1%BA%A3nh%20h%C6%B0%E1%BB%9Fng%20b%E1%BB%9Fi%20vi%E1%BB%87c%20n%C3%B3%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%E1%BA%B7t%20%E1%BB%9F%20%C4%91%C3%A2u.md)
     - [Edge là sự kết hợp giữa CDN và serverless](./M%C3%A1y%20ph%E1%BB%A5c%20v%E1%BB%A5%20(server)/Proxy,%20CDN/Edge%20l%C3%A0%20s%E1%BB%B1%20k%E1%BA%BFt%20h%E1%BB%A3p%20gi%E1%BB%AFa%20CDN%20v%C3%A0%20serverless.md)
     - [Proxy làm trung gian để client lấy dữ liệu từ server](./M%C3%A1y%20ph%E1%BB%A5c%20v%E1%BB%A5%20(server)/Proxy,%20CDN/Proxy%20l%C3%A0m%20trung%20gian%20%C4%91%E1%BB%83%20client%20l%E1%BA%A5y%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20server.md)
     - [Reverse proxy chủ yếu bảo vệ server. Forward proxy chủ yếu bảo vệ client](./M%C3%A1y%20ph%E1%BB%A5c%20v%E1%BB%A5%20(server)/Proxy,%20CDN/Reverse%20proxy%20ch%E1%BB%A7%20y%E1%BA%BFu%20b%E1%BA%A3o%20v%E1%BB%87%20server.%20Forward%20proxy%20ch%E1%BB%A7%20y%E1%BA%BFu%20b%E1%BA%A3o%20v%E1%BB%87%20client.md)
-    - [Cloudflare đóng vai trò là một proxy và CDN](./M%C3%A1y%20ph%E1%BB%A5c%20v%E1%BB%A5%20(server)/Proxy,%20CDN/Cloudflare%20%C4%91%C3%B3ng%20vai%20tr%C3%B2%20l%C3%A0%20m%E1%BB%99t%20proxy%20v%C3%A0%20CDN.md)
     - [Server là phần mềm cung cấp dữ liệu cho phần mềm khác. Client là phần mềm đòi hỏi phần mềm khác cung cấp dữ liệu cho mình](./M%C3%A1y%20ph%E1%BB%A5c%20v%E1%BB%A5%20(server)/Server%20l%C3%A0%20ph%E1%BA%A7n%20m%E1%BB%81m%20cung%20c%E1%BA%A5p%20d%E1%BB%AF%20li%E1%BB%87u%20cho%20ph%E1%BA%A7n%20m%E1%BB%81m%20kh%C3%A1c.%20Client%20l%C3%A0%20ph%E1%BA%A7n%20m%E1%BB%81m%20%C4%91%C3%B2i%20h%E1%BB%8Fi%20ph%E1%BA%A7n%20m%E1%BB%81m%20kh%C3%A1c%20cung%20c%E1%BA%A5p%20d%E1%BB%AF%20li%E1%BB%87u%20cho%20m%C3%ACnh.md)
     - [Serverless là loại server tự khởi động mỗi lần có người truy cập thay vì luôn trực sẵn chờ người truy cập](./M%C3%A1y%20ph%E1%BB%A5c%20v%E1%BB%A5%20(server)/Serverless%20l%C3%A0%20lo%E1%BA%A1i%20server%20t%E1%BB%B1%20kh%E1%BB%9Fi%20%C4%91%E1%BB%99ng%20m%E1%BB%97i%20l%E1%BA%A7n%20c%C3%B3%20ng%C6%B0%E1%BB%9Di%20truy%20c%E1%BA%ADp%20thay%20v%C3%AC%20lu%C3%B4n%20tr%E1%BB%B1c%20s%E1%BA%B5n%20ch%E1%BB%9D%20ng%C6%B0%E1%BB%9Di%20truy%20c%E1%BA%ADp.md)
-    - [cPanel là phần mềm quản lý host](./M%C3%A1y%20ph%E1%BB%A5c%20v%E1%BB%A5%20(server)/cPanel%20l%C3%A0%20ph%E1%BA%A7n%20m%E1%BB%81m%20qu%E1%BA%A3n%20l%C3%BD%20host.md)
 
 - Tên miền, URI: 
     - [127.0.0.1 và localhost là một](./T%C3%AAn%20mi%E1%BB%81n,%20URI/127.0.0.1%20v%C3%A0%20localhost%20l%C3%A0%20m%E1%BB%99t.md)
     - [Mọi URL đều là URI](./T%C3%AAn%20mi%E1%BB%81n,%20URI/M%E1%BB%8Di%20URL%20%C4%91%E1%BB%81u%20l%C3%A0%20URI.md)
-    - [Port là số hiệu của chương trình cụ thể được nhận gói tin](./T%C3%AAn%20mi%E1%BB%81n,%20URI/Port%20l%C3%A0%20s%E1%BB%91%20hi%E1%BB%87u%20c%E1%BB%A7a%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20c%E1%BB%A5%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BA%ADn%20g%C3%B3i%20tin.md)
     - [Origin là sự kết hợp của protocol, hostname và port](./T%C3%AAn%20mi%E1%BB%81n,%20URI/Origin%20l%C3%A0%20s%E1%BB%B1%20k%E1%BA%BFt%20h%E1%BB%A3p%20c%E1%BB%A7a%20protocol,%20hostname%20v%C3%A0%20port.md)
+    - [Port là số hiệu của chương trình cụ thể được nhận gói tin](./T%C3%AAn%20mi%E1%BB%81n,%20URI/Port%20l%C3%A0%20s%E1%BB%91%20hi%E1%BB%87u%20c%E1%BB%A7a%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20c%E1%BB%A5%20th%E1%BB%83%20%C4%91%C6%B0%E1%BB%A3c%20nh%E1%BA%ADn%20g%C3%B3i%20tin.md)
     - [Tên miền có thể có dấu hoặc emoji được](./T%C3%AAn%20mi%E1%BB%81n,%20URI/T%C3%AAn%20mi%E1%BB%81n%20c%C3%B3%20th%E1%BB%83%20c%C3%B3%20d%E1%BA%A5u%20ho%E1%BA%B7c%20emoji%20%C4%91%C6%B0%E1%BB%A3c.md)
+    - [Tất cả đuôi có 2 ký tự đều là của một nước](./T%C3%AAn%20mi%E1%BB%81n,%20URI/T%E1%BA%A5t%20c%E1%BA%A3%20%C4%91u%C3%B4i%20c%C3%B3%202%20k%C3%BD%20t%E1%BB%B1%20%C4%91%E1%BB%81u%20l%C3%A0%20c%E1%BB%A7a%20m%E1%BB%99t%20n%C6%B0%E1%BB%9Bc.md)
     - [URL bao gồm scheme, host, port, path, query, fragment](./T%C3%AAn%20mi%E1%BB%81n,%20URI/URL%20bao%20g%E1%BB%93m%20scheme,%20host,%20port,%20path,%20query,%20fragment.md)
+    - [URL đẹp thì chỉ dùng trên server được, chứ không cho file system được](./T%C3%AAn%20mi%E1%BB%81n,%20URI/URL%20%C4%91%E1%BA%B9p%20th%C3%AC%20ch%E1%BB%89%20d%C3%B9ng%20tr%C3%AAn%20server%20%C4%91%C6%B0%E1%BB%A3c,%20ch%E1%BB%A9%20kh%C3%B4ng%20cho%20file%20system%20%C4%91%C6%B0%E1%BB%A3c.md)
     - [URN giống như tên người, còn URL giống như địa chỉ nhà](./T%C3%AAn%20mi%E1%BB%81n,%20URI/URN%20gi%E1%BB%91ng%20nh%C6%B0%20t%C3%AAn%20ng%C6%B0%E1%BB%9Di,%20c%C3%B2n%20URL%20gi%E1%BB%91ng%20nh%C6%B0%20%C4%91%E1%BB%8Ba%20ch%E1%BB%89%20nh%C3%A0.md)
     - [Với tên miền có dấu thì VirusTotal sẽ nghĩ là có virus nên không cấp chứng chỉ](./T%C3%AAn%20mi%E1%BB%81n,%20URI/V%E1%BB%9Bi%20t%C3%AAn%20mi%E1%BB%81n%20c%C3%B3%20d%E1%BA%A5u%20th%C3%AC%20VirusTotal%20s%E1%BA%BD%20ngh%C4%A9%20l%C3%A0%20c%C3%B3%20virus%20n%C3%AAn%20kh%C3%B4ng%20c%E1%BA%A5p%20ch%E1%BB%A9ng%20ch%E1%BB%89.md)
     - [www thực ra chỉ là một tên miền thứ cấp như bao tên miền thứ cấp bình thường khác](./T%C3%AAn%20mi%E1%BB%81n,%20URI/www%20th%E1%BB%B1c%20ra%20ch%E1%BB%89%20l%C3%A0%20m%E1%BB%99t%20t%C3%AAn%20mi%E1%BB%81n%20th%E1%BB%A9%20c%E1%BA%A5p%20nh%C6%B0%20bao%20t%C3%AAn%20mi%E1%BB%81n%20th%E1%BB%A9%20c%E1%BA%A5p%20b%C3%ACnh%20th%C6%B0%E1%BB%9Dng%20kh%C3%A1c.md)
-    - [URL đẹp thì chỉ dùng trên server được, chứ không cho file system được](./T%C3%AAn%20mi%E1%BB%81n,%20URI/URL%20%C4%91%E1%BA%B9p%20th%C3%AC%20ch%E1%BB%89%20d%C3%B9ng%20tr%C3%AAn%20server%20%C4%91%C6%B0%E1%BB%A3c,%20ch%E1%BB%A9%20kh%C3%B4ng%20cho%20file%20system%20%C4%91%C6%B0%E1%BB%A3c.md)
 
 
 [Internet bị kiểm duyệt thế nào?](https://www.reddit.com/r/VietTalk/comments/1gemgr9/comment/lucokvn/)
