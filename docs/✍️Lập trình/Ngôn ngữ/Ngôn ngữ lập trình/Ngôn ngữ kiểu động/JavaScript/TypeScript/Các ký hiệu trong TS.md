@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-21T17:48
-updated: 2025-08-01T08:23
+updated: 2026-07-06T21:40
 ---
 ## 1. Unions type: |
 
