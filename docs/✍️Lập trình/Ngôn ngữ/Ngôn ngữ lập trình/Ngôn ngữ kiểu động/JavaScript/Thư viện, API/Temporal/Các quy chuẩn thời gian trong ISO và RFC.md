@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2026-07-06T21:40
 description: Viết 2020-12-09T16:09:53+00:00 đáp ứng cả ISO 8601 và RFC 3339
 ---
 Viết `2020-12-09T16:09:53+00:00` đáp ứng cả ISO 8601 và RFC 3339
