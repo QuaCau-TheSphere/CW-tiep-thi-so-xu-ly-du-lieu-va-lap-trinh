@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-01-30T10:05
+updated: 2026-07-06T21:40
 ---
 - `encodeURI()` mã hóa các ký tự đặc biệt, ngoại trừ: `~!@#$&*()=:/,;?+`
 - `encodeURIComponent()` mã hóa các ký tự đặc biệt, ngoại trừ: `-_.!~*'()`
