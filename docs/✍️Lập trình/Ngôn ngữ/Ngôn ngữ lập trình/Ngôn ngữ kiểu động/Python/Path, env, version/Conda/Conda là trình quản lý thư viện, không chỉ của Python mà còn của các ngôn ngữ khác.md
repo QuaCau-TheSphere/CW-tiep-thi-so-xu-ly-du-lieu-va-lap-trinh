@@ -1,12 +1,12 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2025-03-03T18:48
+updated: 2026-07-06T21:40
 ---
 - Các gói Pip là những thư viện Python như NumPy hoặc matplotlib
 - Các gói Conda bao gồm các thư viện Python (NumPy hoặc matplotlib), thư viện C (libjpeg), và tập tin thực thi (như trình biên dịch C, thậm chí trình thông dịch Python)
 
-[Package và library là những cái tên khác nhau cho cùng một thứ](../../../../../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n%20v%C3%A0%20nguy%C3%AAn%20l%C3%BD%20l%E1%BA%ADp%20tr%C3%ACnh/Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/M%C3%B4%20%C4%91un/Package%20v%C3%A0%20library%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20kh%C3%A1c%20nhau%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md)
+[Package và library là những cái tên khác nhau cho cùng một thứ](../../../../../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/M%C3%B4%20%C4%91un/Package%20v%C3%A0%20library%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20kh%C3%A1c%20nhau%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md)
 
 [pip là chương trình quản lý package của Python](../pip%20l%C3%A0%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20package%20c%E1%BB%A7a%20Python.md)
 
