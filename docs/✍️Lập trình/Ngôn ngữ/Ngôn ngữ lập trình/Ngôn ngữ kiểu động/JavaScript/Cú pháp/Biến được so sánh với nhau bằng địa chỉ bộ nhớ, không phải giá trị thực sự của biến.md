@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-21T17:58
-updated: 2025-03-03T18:48
+updated: 2026-07-06T21:40
 ---
 Việc so sánh `{} === {}` sẽ luôn trả giá trị là `false` bởi vì mỗi vật thể có địa chỉ bộ nhớ khác nhau
 
