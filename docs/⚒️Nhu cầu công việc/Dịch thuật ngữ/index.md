@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-05-26T23:22
+updated: 2026-07-06T21:40
 title: Các vấn đề về dịch thuật ngữ
 alias: dịch tiếng Anh
 ---
