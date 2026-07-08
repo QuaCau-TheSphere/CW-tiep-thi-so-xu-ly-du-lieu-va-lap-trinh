@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-05-21T21:14
+updated: 2026-07-06T21:40
 ---
 Khái niệm:: 
 [Trusting based on authorization only works when components don't make their own trust decisions](./Trusting%20based%20on%20authorization%20only%20works%20when%20components%20don't%20make%20their%20own%20trust%20decisions.md)
