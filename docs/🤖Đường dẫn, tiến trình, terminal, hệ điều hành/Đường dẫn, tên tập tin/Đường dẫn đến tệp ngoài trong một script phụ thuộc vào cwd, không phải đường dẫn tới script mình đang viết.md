@@ -1,9 +1,9 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2026-07-06T21:41
 ---
-[Đường dẫn trong launch.json là cwd](../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/C%C3%B4ng%20c%E1%BB%A5/IDE/VS%20Code/%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn%20trong%20launch.json%20l%C3%A0%20cwd.md) 
+[Đường dẫn trong launch.json là cwd](../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/IDE/VS%20Code/%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn%20trong%20launch.json%20l%C3%A0%20cwd.md) 
 Ví dụ `script.ts` này gọi đến `file.txt`:
 ```ts
 const đườngDẫnTươngĐối = '../file.txt'
