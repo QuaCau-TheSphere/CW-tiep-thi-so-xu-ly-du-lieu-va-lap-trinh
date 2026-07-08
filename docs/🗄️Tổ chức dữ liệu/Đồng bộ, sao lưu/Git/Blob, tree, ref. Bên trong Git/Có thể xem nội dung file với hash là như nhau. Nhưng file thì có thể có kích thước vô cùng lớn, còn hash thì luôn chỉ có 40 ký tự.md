@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-07-21T12:43
-updated: 2025-04-26T21:09
+updated: 2026-07-06T21:41
 tags:
   - shorts
   - encryption
