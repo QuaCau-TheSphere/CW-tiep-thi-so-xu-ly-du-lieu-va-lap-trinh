@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-05-26T23:34
+updated: 2026-07-06T21:40
 ---
 Khái niệm:: 
 
@@ -135,22 +135,12 @@ There are SaaS providers for building and hosting website made with WYSIWYG and 
 
 Note that these builders allow developers to build a webapp of their own, with login components, not just static pages. I wonder if the security improves if no LLM involves, or the developers don't use these builders at all but just build them from SaaSkit templates (e.g. [this one](https://deno.com/saaskit)), with popular secure-by-default IDE and CI/CD (e.g. [VS Code](https://code.visualstudio.com/docs/copilot/security) and [GitHub](https://docs.github.com/en/code-security)), with the assumption that the developers don't know much about security.
 
-# Meta
+# Meta: How much misreading the material be acceptable?
 First, I'd like to say that I don't mean to troll or spam the site. I want the site to be healthy, be it for selfless or selfish reasons. I welcome your criticism, downvotes and close votes. Sure, they are not ideals to me, but I still learn a lot from them. I understand the burden of moderating the site, and I appreciate your effort. 
 
-My purpose in this post is to have a better place to discuss my behaviors; the complains have been scattered in various questions, in the comment format, so it's hard to follow and reply. I hope you can see that I do do reflection, and we can have some agreements.
+My purpose in this post is to have a better place to discuss my behaviors and the complains. The complains have been scattered in various questions, in the comment format, so it's hard to follow and reply. I hope you can see that I do do reflection, and we can have some agreements.
 
 I guess it's best to explain myself based on one question, to avoid me being too ranty. I'll pick [the last one](https://security.stackexchange.com/questions/286982/is-it-possible-for-a-website-builders-to-build-a-secured-website?noredirect=1#comment598807_286982). 
-
-> The title is "is it possible?" which is answered only with a "yes", as long as you don't then infer that it's probable for any one instance. 
-
-Yes you can only answer that question with an only "yes", but do you really think I only need a "yes" or "no"? There are many questions containing ["is it possible"](https://security.stackexchange.com/search?tab=newest&q=question%3a) in the title, and OPs' intentions aren't interpreted as only seeking for a "yes" or "no". Why am I different?
-
-I also don't infer that it's probable for any one instance. I want to know whether in theory the idea/technology can make a secured product or not. I don't conflate a possibility with existing vendors. I do want to know if a specific vendor reach that level, but I didn't ask that.
-
-> You imply a question about security when LLMs are involved, but I'm assuming you don't actually ask the question because you know the answer (i.e. "it depends"). 
-
-No, I don't know the answer, in the sense of having high confidence on that. I do think a possible answer is "it depends", but I'm not certain. If that's the answer, I want to confirm that. If I have a steadfast set of assumptions, don't I just say "I know when LLM are involved, it depends whether security decreasing or not"? I ask because I want to challenge the assumption. Why do you complain when I do the thing you ask me to do?
 
 > And then you list a bunch of certifications to ask if those mean the product of the product is secure. When you ignore the statements by this vendor.
 > And you **_skip right over_** the guide they publish on that very webpage about security that explains all the ways someone using Webflow could violate security. 
@@ -158,27 +148,50 @@ No, I don't know the answer, in the sense of having high confidence on that. I d
 
 I use a time tracker so I have a solid number for how much I spend time for this. From 2:20 pm to 3:14 pm I was rewording the question, I spent a total amount of [13.5 minutes](https://i.vgy.me/cu19tK.png) on reading security pages of Webflow. None of them had the keyword I was looking for: the security of the product of the product (POP). Even after you say the comment I reread it 2 times and still don't see where it's addressed
 
-Embarrassingly, after really forcing myself to look at the animated screenshots and read the detailed texts underneath the keywords, I start to realize that it does seem talking about POP security. I take my problem on this.
-
-If I'm allow to make an excuse, i.e. to reason on why I didn't read carefully, I'd say that perhaps because I was skeptical that the detailed texts only try to sell the product, based on previous interact of other sites. Yes you can say that I have prejudice, and it's bad in this case. But I did skim past them, and had they had *the keywords that I had learned*, then I'd had stop to read more careful. Those keywords are the headings on [secure coding](https://stackoverflow.blog/2025/10/15/secure-coding-in-javascript/) (cross-site scripting, inline script, etc.) or [security threats](https://en.wikipedia.org/wiki/Application_security#Security_threats) (broken access control, injection, etc.) I don't need the texts to explain what certifications or technologies it uses to assure POP security. I need to know how POP defend threats, or how its code follows secure coding. I thought this request is delivered in the question, though I agree I should make it clearer.
+(Embarrassingly, after really forcing myself to look at the animated screenshots and read the detailed texts underneath the keywords, I start to realize that it does seem talking about POP security. I take my problem on this. I'll discuss about this later.)
 
 I still fails to see where the text "explains all the ways someone using Webflow could violate security". Much appreciated if you screenshot it.
 
 > You appear to be approaching all your posts with a steadfast set of assumptions and biases, and you don't use the tools you have in your hands to challenge your own foundations
 
-I suggest using the word "mental model" for a better description. I think there are 3 different mental models intertwiningly here:
+I suggest using the word "mental model" for a better description. I think there are 3 different mental models and behaviors intertwiningly here:
 - Mental model on security 
-- Mental model on participating in SE
-- Mental model on reading materials
+- Mental model on asking questions
+- Behaviors on reading materials 
 
 I think we all agree that while our ultimate goal is to have the most accurate mental model on security, the ability on reaching that depends on the other ones. Even if I have the most steadfast (and wrong) beliefs on security, with the other ones working properly I will soon having them updated. 
 
-Honestly, I think I have them as how others have them:
-- **Reading materials:** When your mind is looking for some specific keywords, and you predict the text will be likely advertisements, then you will be more likely to skim reading it. And after all it doesn't fully answer the question. (If the page is in the format of an article, then I'm more likely to read it carefully. An example is how I get to [this book](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf): I read every comment on a lot of related questions to get a link to it)
-- **Participating in SE:** I was asked to read the FAQ [how to ask](https://security.stackexchange.com/help/dont-ask) or [what to not ask](https://security.stackexchange.com/help/dont-ask) pages. They are useful to guide newcomers of SE, but after that I don't think they are much useful for newcomers of the field to stop asking for subjective questions (or opinions or open-ended discussions), besides the obvious ones, which the FAQ has made clear of. Without a deep understanding on the field, in eyes of the newcomers every question they make is objective.
+Honestly, I think I have them as how others have them.
 
-It is unfortunate that I 
-Your expertise gives you an advantage to scan text. 
-For example, how can I know that "there is no generalized statement possible about arbitrary website builders", or one "can't just take a quick glance at some product and magically see whether it meets specific security goals or has vulnerabilities" before asking the question? If I don't even know what I'm assuming, how can I challenge it? Bad questions (for the QA format) is a result of lack of knowledge on the field. I don't think this is avoidable, even with best research effort. I think you should keep in mind [the curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)
+## Mental model on asking questions
+I was asked to read the FAQ [how to ask](https://security.stackexchange.com/help/dont-ask) or [what to not ask](https://security.stackexchange.com/help/dont-ask) pages. They are useful to guide newcomers of SE, but after that I don't think they are much useful for newcomers of the field to stop asking for subjective questions (or opinions or open-ended discussions), besides the obvious ones, which the FAQ has made clear of. Without a deep understanding on the field, in eyes of the newcomers every question they make is objective. For example, how can I know that "there is no generalized statement possible about arbitrary website builders", or one "can't just take a quick glance at some product and magically see whether it meets specific security goals or has vulnerabilities" before asking the question? If I don't even know what I'm assuming, how can I challenge it? Bad questions (for the QA format) is a result of lack of knowledge on the field. I don't think this is avoidable, even with best attempt to avoid that.
 
-I don't say that I have the best mental models, but I can say that I did do my best to research before asking.
+## Reading material behaviors
+From [Text Scanning Patterns: Eyetracking Evidence - NN/G](https://www.nngroup.com/articles/text-scanning-patterns-eyetracking/):
+> On the web, people don’t read every word on a page; instead, they scan. They naturally attempt to be efficient and put in the least possible work for achieving their goal. They have learned that scanning can deliver almost the same amount of information as reading, but with significant less time and effort.
+> 
+> How people read on the web is highly contingent upon:
+> - Their task
+> - Their assumptions from previous experiences with the internet, site, or brand
+> - The page layout
+> - The type of page content (e.g., text versus images)
+
+You may be interested to read the full article to understand the 4 patterns that people use to scan text on the web (listed in increasing order, worst to best, of effectiveness): F-pattern, Spotted pattern, Layer-cake pattern, Commitment pattern.
+
+In my scenario:
+- My task: how does POP defend [security threats](https://en.wikipedia.org/wiki/Application_security#Security_threats) (broken access control, injection, etc.) or follow [secure coding](https://stackoverflow.blog/2025/10/15/secure-coding-in-javascript/) (cross-site scripting, inline script, etc.)?
+- My assumptions from previous experiences: the Webflow page is to give an overview/summarize the security of the service, not to give full analysis. It's also a mean to advertise the service, with the target is normal users, not techy ones.
+
+I have no data to know which scanning pattern I did, but apparently it wasn't the commitment pattern. I think this is justified, as I don't see the keywords it presents are relevant to my task.
+
+Do I do commitment pattern elsewhere? Yes. If the page is in the format of an article, then I'm more likely to read it carefully. An example is how I get the link to [this book](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf): I read every comment on a lot of questions to get a link to it. [A long article usually have a higher benefit/cost ratio](https://www.nngroup.com/articles/write-articles-not-blogs/). While I don't have the data to back up my claim, I can say with high confidence that before asking any question usually I've read all materials that I think are relevant.
+
+---
+
+In general, I think your expertise in the field gives you an advantage to scan text, even when the page is doesn't contain the keywords you need. Perhaps even with the same *eye movement* of the novices, you can still make a better judgement than them? Perhaps had you been in a field that you don't know much, you would have done the same? Perhaps you are portraying [the curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge)? In the case they miss any information, would a more helpful feedback would be asking them this question "the page says xyz, why don't you think it answers you?"?
+
+
+I'm kinda done here. For weeks we have been providing info, you've misread it, you've come to erroneous conclusions, and then we have to walk you through what we've provided to get you to absorb what you've read to understand that your questions and conclusions don't make sense. And in one case, you found info all on your own, misread it, came to erroneous conclusions, and then got upset when the post was deleted for being utterly irrelevant because you didn't understand what you, yourself, posted. There's nothing for us to do here, All next steps are yours.
+
+I was answering your first question. I didn't see your new edit. As for the purpose of the post, by "discuss my behaviors", and the implication is that we should discuss about the complains. You ask me to challenge my foundation, so I wrapped that inside "my behaviors". If making it explicitly is necessary, then I'll update the question. And I didn't upset at all. I just wonder why deleting is a better course than downvoting it. – 
+No, you're not listening. Again. There is no point in updating this post. 1. This is off-topic. 2. I'm done. 3. This is a you thing to address as a foundational issue you need to address and a 3rd party on a forum can't help you.
