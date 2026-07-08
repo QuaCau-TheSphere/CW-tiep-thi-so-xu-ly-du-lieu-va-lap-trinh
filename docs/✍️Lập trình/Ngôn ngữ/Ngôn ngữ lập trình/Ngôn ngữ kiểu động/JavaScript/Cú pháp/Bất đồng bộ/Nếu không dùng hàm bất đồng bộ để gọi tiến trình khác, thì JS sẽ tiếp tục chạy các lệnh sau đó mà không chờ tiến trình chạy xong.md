@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-03-21T23:44
+updated: 2026-07-06T21:40
 ---
 Kết quả là các lệnh phụ thuộc vào kết quả của tiến trình đó sẽ bị lỗi
 ```js
