@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-03-03T18:48
+updated: 2026-07-06T21:40
 ---
 With Esbuild, you can easily analyse the generated bundle code and check which source files contribute most to the bundle size using the [`build.metadata`](https://esbuild.github.io/api/#build-metadata "build.metadata
 (https://esbuild.github.io/api/#build-metadata)") variable An example:
