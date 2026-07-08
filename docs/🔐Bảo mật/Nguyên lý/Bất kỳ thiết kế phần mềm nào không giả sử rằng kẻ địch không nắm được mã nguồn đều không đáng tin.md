@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-05-12T12:15
+updated: 2026-07-06T21:40
 ---
 Khái niệm:: 
 Maybe it's easier to understand what Security-by-Obscurity is about, by looking at something that is in some sense the _opposite_: _Auguste Kerckhoffs's Second Principle_ (now simply known usually as _Kerckhoffs's Principle_), formulated in 1883 in two articles on _La Cryptographie Militaire_:

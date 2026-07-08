@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-11-30T13:44
+updated: 2026-07-08T22:35
 ---
 [Remote Control được sinh ra để giải quyết vấn đề Same-Origin Policy](./Remote%20Control%20%C4%91%C6%B0%E1%BB%A3c%20sinh%20ra%20%C4%91%E1%BB%83%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20Same-Origin%20Policy.md) 
 
@@ -12,3 +12,4 @@ updated: 2024-11-30T13:44
 - Selenium 3 là sản phẩm được dự đoán nhiều nhất trong bộ Selenium nhưng chưa được đưa ra thị trường. Selenium 3 được khuyến khích dùng trong kiểm thử mobile.
 
 Nguồn:: [Viblo](../../../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/%CE%9E%20Ngu%E1%BB%93n%20v%C3%A0%20t%C3%A0i%20nguy%C3%AAn%20h%E1%BB%97%20tr%E1%BB%A3/%CE%9E%20Ngu%E1%BB%93n/Viblo.md), [Selenium Tutorials - 31+ Bài hướng dẫn học Selenium](https://viblo.asia/p/selenium-tutorials-31-bai-huong-dan-hoc-selenium-eW65Gx8PKDO)
+[Sự khác biệt giữa IDE và trình soạn thảo văn bản nằm ở việc compile code. Nên chính xác mà nói thì không có IDE để viết JS cho máy khách](../../../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/IDE/S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20IDE%20v%C3%A0%20tr%C3%ACnh%20so%E1%BA%A1n%20th%E1%BA%A3o%20v%C4%83n%20b%E1%BA%A3n%20n%E1%BA%B1m%20%E1%BB%9F%20vi%E1%BB%87c%20compile%20code.%20N%C3%AAn%20ch%C3%ADnh%20x%C3%A1c%20m%C3%A0%20n%C3%B3i%20th%C3%AC%20kh%C3%B4ng%20c%C3%B3%20IDE%20%C4%91%E1%BB%83%20vi%E1%BA%BFt%20JS%20cho%20m%C3%A1y%20kh%C3%A1ch.md)

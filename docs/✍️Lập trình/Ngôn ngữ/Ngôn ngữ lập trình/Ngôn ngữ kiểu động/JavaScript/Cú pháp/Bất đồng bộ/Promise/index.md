@@ -1,11 +1,11 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-03-31T14:37
+updated: 2026-07-06T21:40
 description: Thứ gì được truyền vào `resolve()` sẽ được truyền vào `result` và vào `then()`. Thứ gì được truyền vào `reject()` sẽ được truyền vào `result` và vào `catch()`
 title: Promise
 ---
-[Vật thể là dạng dữ liệu có những thuộc tính thành phần](../../../../../../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n%20v%C3%A0%20nguy%C3%AAn%20l%C3%BD%20l%E1%BA%ADp%20tr%C3%ACnh/Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/V%E1%BA%ADt%20th%E1%BB%83,%20l%E1%BB%9Bp/V%E1%BA%ADt%20th%E1%BB%83%20l%C3%A0%20d%E1%BA%A1ng%20d%E1%BB%AF%20li%E1%BB%87u%20c%C3%B3%20nh%E1%BB%AFng%20thu%E1%BB%99c%20t%C3%ADnh%20th%C3%A0nh%20ph%E1%BA%A7n.md). [Lớp là một cái khuôn để tạo các vật thể cho nhanh](../../../../../../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n%20v%C3%A0%20nguy%C3%AAn%20l%C3%BD%20l%E1%BA%ADp%20tr%C3%ACnh/Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/V%E1%BA%ADt%20th%E1%BB%83,%20l%E1%BB%9Bp/L%E1%BB%9Bp%20l%C3%A0%20m%E1%BB%99t%20c%C3%A1i%20khu%C3%B4n%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20c%C3%A1c%20v%E1%BA%ADt%20th%E1%BB%83%20cho%20nhanh.md). `Promise` vừa là tên của một lớp được định nghĩa sẵn trong JS, vừa là tên hay được đặt cho các vật thể được tạo ra từ lớp đó:
+[Vật thể là dạng dữ liệu có những thuộc tính thành phần](../../../../../../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/V%E1%BA%ADt%20th%E1%BB%83,%20l%E1%BB%9Bp/V%E1%BA%ADt%20th%E1%BB%83%20l%C3%A0%20d%E1%BA%A1ng%20d%E1%BB%AF%20li%E1%BB%87u%20c%C3%B3%20nh%E1%BB%AFng%20thu%E1%BB%99c%20t%C3%ADnh%20th%C3%A0nh%20ph%E1%BA%A7n.md). [Lớp là một cái khuôn để tạo các vật thể cho nhanh](../../../../../../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/V%E1%BA%ADt%20th%E1%BB%83,%20l%E1%BB%9Bp/L%E1%BB%9Bp%20l%C3%A0%20m%E1%BB%99t%20c%C3%A1i%20khu%C3%B4n%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20c%C3%A1c%20v%E1%BA%ADt%20th%E1%BB%83%20cho%20nhanh.md). `Promise` vừa là tên của một lớp được định nghĩa sẵn trong JS, vừa là tên hay được đặt cho các vật thể được tạo ra từ lớp đó:
 ```js
 const promise = new Promise(...);
 ```
@@ -31,7 +31,7 @@ function hàmThựcThi(hàmGiảiQuyết, hàmTừChối){
 }
 ```
 
-Khi [bộ máy](../../../../../../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n%20v%C3%A0%20nguy%C3%AAn%20l%C3%BD%20l%E1%BA%ADp%20tr%C3%ACnh/Ki%E1%BB%83u%20v%C3%A0%20vi%E1%BB%87c%20th%E1%BB%B1c%20thi/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi/Code%20gi%E1%BB%91ng%20nh%C6%B0%20c%C3%A1c%20n%E1%BB%91t%20nh%E1%BA%A1c,%20%C4%91%E1%BB%99ng%20c%C6%A1%20gi%E1%BB%91ng%20nh%C6%B0%20nh%E1%BA%A1c%20c%C3%B4ng,%20c%C3%B2n%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi%20gi%E1%BB%91ng%20nh%C6%B0%20nh%E1%BA%A1c%20c%E1%BB%A5.md) của JS đọc tới dòng này:
+Khi [bộ máy](../../../../../../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/Vi%E1%BB%87c%20th%E1%BB%B1c%20thi/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi/Code%20gi%E1%BB%91ng%20nh%C6%B0%20c%C3%A1c%20n%E1%BB%91t%20nh%E1%BA%A1c,%20%C4%91%E1%BB%99ng%20c%C6%A1%20gi%E1%BB%91ng%20nh%C6%B0%20nh%E1%BA%A1c%20c%C3%B4ng,%20c%C3%B2n%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi%20gi%E1%BB%91ng%20nh%C6%B0%20nh%E1%BA%A1c%20c%E1%BB%A5.md) của JS đọc tới dòng này:
 ```js
 const promise = new Promise(hàmThựcThi);
 ```
@@ -41,7 +41,7 @@ thì sẽ có 2 chuyện được xảy ra:
 
 Không cần biết bên trong hàm thực thi viết những gì, rồi sẽ tới lúc hàm giải quyết hoặc hàm từ chối sẽ được gọi. **Số phận của vật thể `promise` sẽ được định đoạt thế nào tuỳ thuộc vào việc hàm nào được gọi trước.** Nếu hàm giải quyết được gọi trước, thì thuộc tính `state` của vật thể đang từ `pending` sẽ được gán giá trị mới là `fulfilled`. Ngược lại, nếu hàm từ chối được gọi trước, thì thuộc tính `state` của nó sẽ được gán giá trị mới là `rejected`. **Ở cả hai trường hợp, giá trị được truyền vào trong hàm giải quyết/hàm từ chối sẽ được gán cho `result`.**
 
-Đáng lẽ là bạn phải định nghĩa hàm giải quyết và hàm từ chối. Nhưng khi chúng được dùng làm đối số cho hàm được dùng làm đối số cho lớp `Promise` (tức là hàm thực thi), thì JS sẽ tự động [định nghĩa sẵn](./L%E1%BB%9Bp%20Promise,%20resolve,%20reject/resolve,%20reject%20l%C3%A0%20hai%20h%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c%20JS%20cung%20c%E1%BA%A5p%20s%E1%BA%B5n%20%C4%91%E1%BB%83%20l%C3%A0m%20%C4%91%E1%BB%91i%20s%E1%BB%91%20cho%20h%C3%A0m%20th%E1%BB%B1c%20thi.md) hai hàm này luôn, bạn không cần định nghĩa gì cả. Và thường người viết hay đặt tên cho hàm giải quyết là `resolve` và hàm từ chối là  `reject`. Kết hợp với việc dùng [cú pháp mũi tên cho hàm](../../../../../../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n%20v%C3%A0%20nguy%C3%AAn%20l%C3%BD%20l%E1%BA%ADp%20tr%C3%ACnh/Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/H%C3%A0m/H%C3%A0m%20v%C3%B4%20danh,%20h%C3%A0m%20m%C5%A9i%20t%C3%AAn,%20lambda%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20kh%C3%A1c%20nhau%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md), bạn sẽ hay thấy người ta viết code như này:
+Đáng lẽ là bạn phải định nghĩa hàm giải quyết và hàm từ chối. Nhưng khi chúng được dùng làm đối số cho hàm được dùng làm đối số cho lớp `Promise` (tức là hàm thực thi), thì JS sẽ tự động [định nghĩa sẵn](./L%E1%BB%9Bp%20Promise,%20resolve,%20reject/resolve,%20reject%20l%C3%A0%20hai%20h%C3%A0m%20%C4%91%C6%B0%E1%BB%A3c%20JS%20cung%20c%E1%BA%A5p%20s%E1%BA%B5n%20%C4%91%E1%BB%83%20l%C3%A0m%20%C4%91%E1%BB%91i%20s%E1%BB%91%20cho%20h%C3%A0m%20th%E1%BB%B1c%20thi.md) hai hàm này luôn, bạn không cần định nghĩa gì cả. Và thường người viết hay đặt tên cho hàm giải quyết là `resolve` và hàm từ chối là  `reject`. Kết hợp với việc dùng [cú pháp mũi tên cho hàm](../../../../../../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/H%C3%A0m/H%C3%A0m%20v%C3%B4%20danh,%20h%C3%A0m%20m%C5%A9i%20t%C3%AAn,%20lambda%20l%C3%A0%20nh%E1%BB%AFng%20c%C3%A1i%20t%C3%AAn%20kh%C3%A1c%20nhau%20cho%20c%C3%B9ng%20m%E1%BB%99t%20th%E1%BB%A9.md), bạn sẽ hay thấy người ta viết code như này:
 ```js
 const promise = new Promise((resolve, reject) => {
     // ...
@@ -66,7 +66,7 @@ Ngược lại, khi hàm từ chối được gọi:
 ## Vật thể `promise`
 [Vật thể promise có 2 thuộc tính và 3 phương thức](./V%E1%BA%ADt%20th%E1%BB%83%20promise,%20then,%20catch/V%E1%BA%ADt%20th%E1%BB%83%20promise%20c%C3%B3%202%20thu%E1%BB%99c%20t%C3%ADnh%20l%C3%A0%20state%20v%C3%A0%20result,%20v%C3%A0%203%20ph%C6%B0%C6%A1ng%20th%E1%BB%A9c%20l%C3%A0%20then,%20catch,%20v%C3%A0%20finally.md). 2 thuộc tính đó là `state` và `result`. 3 phương thức đó là `then()`, `catch()` và `finally()`. 
 
-Khi [engine](../../../../../../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n%20v%C3%A0%20nguy%C3%AAn%20l%C3%BD%20l%E1%BA%ADp%20tr%C3%ACnh/Ki%E1%BB%83u%20v%C3%A0%20vi%E1%BB%87c%20th%E1%BB%B1c%20thi/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi/Code%20gi%E1%BB%91ng%20nh%C6%B0%20c%C3%A1c%20n%E1%BB%91t%20nh%E1%BA%A1c,%20%C4%91%E1%BB%99ng%20c%C6%A1%20gi%E1%BB%91ng%20nh%C6%B0%20nh%E1%BA%A1c%20c%C3%B4ng,%20c%C3%B2n%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi%20gi%E1%BB%91ng%20nh%C6%B0%20nh%E1%BA%A1c%20c%E1%BB%A5.md) của JS đọc tới dòng này:
+Khi [engine](../../../../../../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/Vi%E1%BB%87c%20th%E1%BB%B1c%20thi/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi/Code%20gi%E1%BB%91ng%20nh%C6%B0%20c%C3%A1c%20n%E1%BB%91t%20nh%E1%BA%A1c,%20%C4%91%E1%BB%99ng%20c%C6%A1%20gi%E1%BB%91ng%20nh%C6%B0%20nh%E1%BA%A1c%20c%C3%B4ng,%20c%C3%B2n%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi%20gi%E1%BB%91ng%20nh%C6%B0%20nh%E1%BA%A1c%20c%E1%BB%A5.md) của JS đọc tới dòng này:
 ```js
 const promise = new Promise(hàmThựcThi);
 ```

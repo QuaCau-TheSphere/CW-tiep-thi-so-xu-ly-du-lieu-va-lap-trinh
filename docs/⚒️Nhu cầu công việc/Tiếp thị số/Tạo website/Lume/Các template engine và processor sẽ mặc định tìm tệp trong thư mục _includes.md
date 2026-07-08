@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-05-22T23:49
+updated: 2026-07-06T21:40
 ---
 [Tất cả các thư mục bắt đầu bằng _ hoặc . mặc định đều bị bỏ ra](./T%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20th%C6%B0%20m%E1%BB%A5c%20b%E1%BA%AFt%20%C4%91%E1%BA%A7u%20b%E1%BA%B1ng%20_%20ho%E1%BA%B7c%20.%20m%E1%BA%B7c%20%C4%91%E1%BB%8Bnh%20%C4%91%E1%BB%81u%20b%E1%BB%8B%20b%E1%BB%8F%20ra.md). `_includes` cũng không phải là ngoại lệ. Nhưng việc bỏ ra đó chỉ là trong lúc build, chứ những tệp trong đó vẫn có thể được dùng cho plugin, template engine, processor, v.v.
 

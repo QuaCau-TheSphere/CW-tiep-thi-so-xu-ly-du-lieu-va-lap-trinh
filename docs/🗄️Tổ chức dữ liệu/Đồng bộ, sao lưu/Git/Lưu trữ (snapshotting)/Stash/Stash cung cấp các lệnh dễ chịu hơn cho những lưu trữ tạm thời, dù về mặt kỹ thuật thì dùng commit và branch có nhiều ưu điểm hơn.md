@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-05-03T00:20
+updated: 2026-07-06T21:41
 ---
 Bởi vì [stash cũng chỉ là commit](./Stash%20l%C3%A0%20m%E1%BB%99t%20commit,%20c%C3%B3%20cha%20l%C3%A0%20commit%20HEAD%20v%C3%A0%20m%E1%BA%B9%20l%C3%A0%20commit%20t%E1%BB%AB%20index.md), mà việc apply dễ bị lộn xộn, nhất là khi muốn áp vào một nhánh khác chứ không phải nhánh được stash, nên dùng thẳng commit sẽ hợp lý hơn trong nhiều trường hợp. 
 

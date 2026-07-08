@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2024-08-25T20:38
+updated: 2026-07-06T21:40
 ---
 
 You should take the spaces out of the filename. Because the filename is used as the identifier for imported modules (i.e. `foo.py` will be imported as `foo`) and Python identifiers can't have spaces, this isn't supported by the `import` statement.

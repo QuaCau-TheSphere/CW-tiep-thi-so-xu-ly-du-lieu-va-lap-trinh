@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-07-07T20:57
+updated: 2026-07-06T21:40
 ---
 ```js
 String(null);     // "null"

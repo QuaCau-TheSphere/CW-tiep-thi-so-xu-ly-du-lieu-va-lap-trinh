@@ -1,9 +1,10 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-04-21T20:05
+updated: 2026-07-07T14:53
 ---
 [PowerShell là một ngôn ngữ shell](./PowerShell%20l%C3%A0%20m%E1%BB%99t%20ng%C3%B4n%20ng%E1%BB%AF%20shell.md). [Shell là cái vỏ bảo vệ nhân của hệ điều hành](../Shell%20l%C3%A0%20c%C3%A1i%20v%E1%BB%8F%20b%E1%BA%A3o%20v%E1%BB%87%20nh%C3%A2n%20c%E1%BB%A7a%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh.md)
+[Các ký tự đặc biệt trong các ngôn ngữ khác nhau](../../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/Ng%C3%B4n%20ng%E1%BB%AF/C%C3%A1c%20k%C3%BD%20t%E1%BB%B1%20%C4%91%E1%BA%B7c%20bi%E1%BB%87t%20trong%20c%C3%A1c%20ng%C3%B4n%20ng%E1%BB%AF%20kh%C3%A1c%20nhau.md)
 
 ## Xem lịch sử
 | Lệnh                        | Cách dùng                          |
@@ -20,7 +21,6 @@ Nguồn:: [about History - PowerShell | Microsoft Learn](https://learn.microsoft
 | Markmode              | <kbd>Ctrl+Shift+M</kbd>                        |
 | Tạo pane mới          | <kbd>Alt+Shift+-</kbd>, <kbd>Alt+Shift++</kbd> |
 | Thay đổi kích cỡ pane | <kbd>Alt+Shift+↑</kbd>, <kbd>Alt+Shift+↓</kbd> |
-
 ## Tạo nhiều thư mục
 ```PowerShell
 $list=(ls -name -directory).substring(1)
@@ -51,7 +51,7 @@ Get-ChildItem -Recurse | Select-String "dummy" -List | Select Path
 ```
 
 ## Tìm và thay chuỗi hàng loạt
-[VS Code nhiều khi không tìm hết file được do tên quá dài](../../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/C%C3%B4ng%20c%E1%BB%A5/IDE/VS%20Code/VS%20Code%20nhi%E1%BB%81u%20khi%20kh%C3%B4ng%20t%C3%ACm%20h%E1%BA%BFt%20file%20%C4%91%C6%B0%E1%BB%A3c%20do%20t%C3%AAn%20qu%C3%A1%20d%C3%A0i.md)
+[VS Code nhiều khi không tìm hết file được do tên quá dài](../../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/IDE/VS%20Code/VS%20Code%20nhi%E1%BB%81u%20khi%20kh%C3%B4ng%20t%C3%ACm%20h%E1%BA%BFt%20file%20%C4%91%C6%B0%E1%BB%A3c%20do%20t%C3%AAn%20qu%C3%A1%20d%C3%A0i.md)
 ```PowerShell
 Get-ChildItem *.md, *.json -recurse | ForEach-Object { (Get-Content $_).Replace('Kết quả cần có::','Thành quả cần có::').Replace('kết-quả-cần-có','thành-quả-cần-có') | Set-Content $_ } 
 ```
