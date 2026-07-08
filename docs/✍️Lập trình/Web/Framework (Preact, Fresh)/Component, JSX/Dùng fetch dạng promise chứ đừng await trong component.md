@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-08-05T22:04
+updated: 2026-07-06T21:40
 ---
 Lý do:: [Không có async component vì hiệu suất quá tệ](./Kh%C3%B4ng%20c%C3%B3%20async%20component%20v%C3%AC%20hi%E1%BB%87u%20su%E1%BA%A5t%20qu%C3%A1%20t%E1%BB%87.md)
 
