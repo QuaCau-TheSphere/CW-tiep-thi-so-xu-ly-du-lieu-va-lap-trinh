@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2025-03-03T21:36
+updated: 2026-07-06T21:40
 ---
 ```
 winget install -e --id Python.Python.3.13
