@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-06T21:40
+updated: 2026-07-16T22:35
 ---
 VD: Python, TeX vừa là tên của ngôn ngữ, vừa là tên của động cơ đọc các ngôn ngữ đó
 

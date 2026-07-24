@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-07-06T21:40
+updated: 2026-07-23T17:35
 ---
 ## Kiểu viết
 | Kiểu viết  | Ý nghĩa                                       | Ví dụ                   |

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2025-04-22T14:42
+updated: 2026-07-23T23:05
 ---
 UDP không có cái bắt tay 3 chiều
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/d-zn-wv4Di8?si=dWuhVUsNvan5Aneo&t=666" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

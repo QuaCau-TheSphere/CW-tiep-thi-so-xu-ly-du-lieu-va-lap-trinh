@@ -1,13 +1,13 @@
 ---
 share: true
 created: 2023-11-30T22:51
-updated: 2026-07-06T21:40
+updated: 2026-07-23T17:34
 title: Cloud, webhook, API
 ---
 
 - \-: 
-    - [Cloud bản chất là đi thuê local của người khác](./Cloud%20b%E1%BA%A3n%20ch%E1%BA%A5t%20l%C3%A0%20%C4%91i%20thu%C3%AA%20local%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
     - [API đưa thông tin là thụ động. Webhook đưa thông tin chủ động](./API%20%C4%91%C6%B0a%20th%C3%B4ng%20tin%20l%C3%A0%20th%E1%BB%A5%20%C4%91%E1%BB%99ng.%20Webhook%20%C4%91%C6%B0a%20th%C3%B4ng%20tin%20ch%E1%BB%A7%20%C4%91%E1%BB%99ng.md)
+    - [Cloud bản chất là đi thuê local của người khác](./Cloud%20b%E1%BA%A3n%20ch%E1%BA%A5t%20l%C3%A0%20%C4%91i%20thu%C3%AA%20local%20c%E1%BB%A7a%20ng%C6%B0%E1%BB%9Di%20kh%C3%A1c.md)
     - [RESTful là REST không có hypermedia](./RESTful%20l%C3%A0%20REST%20kh%C3%B4ng%20c%C3%B3%20hypermedia.md)
     - [Tất cả web service là API, nhưng nó khác với web API của JS](./T%E1%BA%A5t%20c%E1%BA%A3%20web%20service%20l%C3%A0%20API,%20nh%C6%B0ng%20n%C3%B3%20kh%C3%A1c%20v%E1%BB%9Bi%20web%20API%20c%E1%BB%A7a%20JS.md)
 

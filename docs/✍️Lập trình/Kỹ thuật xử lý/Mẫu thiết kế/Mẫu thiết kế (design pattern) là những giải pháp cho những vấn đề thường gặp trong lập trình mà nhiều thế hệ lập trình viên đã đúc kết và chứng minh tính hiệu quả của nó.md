@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-07-06T21:40
+updated: 2026-07-16T22:29
 ---
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/eiWnblyjw58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Nguồn:: [Hướng dẫn tự học Design Pattern trong C# | Tự học ICT](https://tuhocict.com/huong-dan-tu-hoc-design-pattern-trong-c/)
