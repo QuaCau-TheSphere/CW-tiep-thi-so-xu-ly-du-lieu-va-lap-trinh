@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-06T21:40
+updated: 2026-07-31T14:56
 alias: CORS ngăn chặn việc script ở tab này điều khiển tab kia
 ---
 ## What is Same Origin Policy?
@@ -42,4 +42,4 @@ Chúng ta có nhiều cách để giải quyết trong trường hợp này, th�
 Nguồn:: [Viblo](../../../%CE%9E%20Ngu%E1%BB%93n%20v%C3%A0%20t%C3%A0i%20nguy%C3%AAn%20h%E1%BB%97%20tr%E1%BB%A3/%CE%9E%20Ngu%E1%BB%93n/Viblo.md), [Security testing tutorial (Part 4): Same Origin Policy & Cookies](https://viblo.asia/p/security-testing-tutorial-part-4-same-origin-policy-cookies-bWrZnOLwlxw)
 
 [CORS là để trình duyệt bảo vệ người dùng, không phải để bảo vệ máy chủ](./CORS%20l%C3%A0%20%C4%91%E1%BB%83%20tr%C3%ACnh%20duy%E1%BB%87t%20b%E1%BA%A3o%20v%E1%BB%87%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng,%20kh%C3%B4ng%20ph%E1%BA%A3i%20%C4%91%E1%BB%83%20b%E1%BA%A3o%20v%E1%BB%87%20m%C3%A1y%20ch%E1%BB%A7.md)
-[Origin là sự kết hợp của protocol, hostname và port](../../../../%F0%9F%9B%9CM%E1%BA%A1ng%20m%C3%A1y%20t%C3%ADnh/T%C3%AAn%20mi%E1%BB%81n,%20URI/Origin%20l%C3%A0%20s%E1%BB%B1%20k%E1%BA%BFt%20h%E1%BB%A3p%20c%E1%BB%A7a%20protocol,%20hostname%20v%C3%A0%20port.md)
+[Origin là sự kết hợp của protocol, hostname và cổng](../../../../%F0%9F%9B%9CM%E1%BA%A1ng%20m%C3%A1y%20t%C3%ADnh/T%C3%AAn%20mi%E1%BB%81n,%20URI/Origin%20l%C3%A0%20s%E1%BB%B1%20k%E1%BA%BFt%20h%E1%BB%A3p%20c%E1%BB%A7a%20protocol,%20hostname%20v%C3%A0%20c%E1%BB%95ng.md)
