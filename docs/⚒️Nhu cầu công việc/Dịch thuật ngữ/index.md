@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-06T21:40
+updated: 2026-08-02T16:36
 title: Các vấn đề về dịch thuật ngữ
 alias: dịch tiếng Anh
 ---
@@ -9,11 +9,14 @@ alias: dịch tiếng Anh
 - [Server nên được dịch là máy phục vụ hơn là máy chủ](./Server%20n%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20d%E1%BB%8Bch%20l%C3%A0%20m%C3%A1y%20ph%E1%BB%A5c%20v%E1%BB%A5%20h%C6%A1n%20l%C3%A0%20m%C3%A1y%20ch%E1%BB%A7.md)
 - [Chưa rõ lý do vì sao lại dịch object ra thành đối tượng chứ không phải vật thể](./Ch%C6%B0a%20r%C3%B5%20l%C3%BD%20do%20v%C3%AC%20sao%20l%E1%BA%A1i%20d%E1%BB%8Bch%20object%20ra%20th%C3%A0nh%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20ch%E1%BB%A9%20kh%C3%B4ng%20ph%E1%BA%A3i%20v%E1%BA%ADt%20th%E1%BB%83.md)
 
-| Từ tiếng Anh          | Cách dịch            |
-| --------------------- | -------------------- |
-| Separation of concern | Tách biệt sự bận tâm |
-| Plain text            | Văn bản trơn         |
-| Template              | Mẫu tạo              |
+| Từ tiếng Anh             | Cách dịch                        |
+| ------------------------ | -------------------------------- |
+| Separation of concern    | Tách biệt sự bận tâm             |
+| Plain text               | Bản thuần ký tự                         |
+| Template                 | Mẫu tạo                          |
+| Kernel space, user space | Khu vực nhân, khu vực người dùng |
+
+Việc tìm cách dịch giúp cho người mới dễ hiểu, làm cho tiếng Việt phong phú hơn, và giúp chính bản thân hiểu được khái niệm sâu sắc hơn.
 
 ## Những lúc thấy để nguyên tiếng Anh thì tiện hơn
 ### Xuất hiện dày đặc ở giao diện chứ không phải chỉ là khái niệm
@@ -111,11 +114,13 @@ Ví dụ:
 - `file`, `folder`
 - `test`
 
+### Tiếng Anh dùng bình thường nhưng tiếng Việt dịch ra hơi tiêu cực
+- `manipulation`: thao túng
+
+## Những lúc thấy để tiếng Việt hay hơn tiếng Anh
 ### Người dùng Tiếng Anh phải chịu đựng sự mơ hồ do đa nghĩa. Tiếng Việt tội gì phải thế?
 - `comment`: comment là phần chữ được bỏ qua trong code và thường được dùng để giải thích, hay là đưa ra đánh giá, bình luận nói chung?
-
-### Tiếng Anh dùng bình thường nhưng tiếng Việt dịch ra hơi tệ
-- `manipulation`: thao túng
+- `server`, `client`: [Trong những bối cảnh khác nhau thì server và client có những nghĩa khác nhau](./Trong%20nh%E1%BB%AFng%20b%E1%BB%91i%20c%E1%BA%A3nh%20kh%C3%A1c%20nhau%20th%C3%AC%20server%20v%C3%A0%20client%20c%C3%B3%20nh%E1%BB%AFng%20ngh%C4%A9a%20kh%C3%A1c%20nhau.md)
 
 ## Dịch được
 - `raw`: thô
