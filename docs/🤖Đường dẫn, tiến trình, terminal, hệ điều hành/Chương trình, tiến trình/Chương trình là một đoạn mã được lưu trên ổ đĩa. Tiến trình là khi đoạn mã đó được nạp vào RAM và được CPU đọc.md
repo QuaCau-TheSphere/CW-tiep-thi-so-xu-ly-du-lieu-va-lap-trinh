@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-31T16:04
+updated: 2026-08-06T15:36
 ---
 Chương trình giống như một bộ phim, còn tiến trình giống như một buổi chiếu phim
 
