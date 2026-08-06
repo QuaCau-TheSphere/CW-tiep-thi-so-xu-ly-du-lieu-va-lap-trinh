@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-31T14:56
+updated: 2026-08-06T15:36
 created: 2026-07-30T22:36
 ---
 Khái niệm:: [Cổng (port)](../../T%C3%AAn%20mi%E1%BB%81n,%20URI/C%E1%BB%95ng%20(port).md)
