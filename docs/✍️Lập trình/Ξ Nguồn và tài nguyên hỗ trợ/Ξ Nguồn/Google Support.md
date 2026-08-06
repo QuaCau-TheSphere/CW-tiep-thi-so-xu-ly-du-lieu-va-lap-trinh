@@ -1,6 +1,6 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-07-06T21:40
+updated: 2026-08-06T15:36
 ---
 Nguồn:: [Tự ngẫm nghĩ, trải nghiệm](./T%E1%BB%B1%20ng%E1%BA%ABm%20ngh%C4%A9,%20tr%E1%BA%A3i%20nghi%E1%BB%87m.md)

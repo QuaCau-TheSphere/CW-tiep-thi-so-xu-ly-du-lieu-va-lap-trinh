@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-02-01T22:58
-updated: 2026-07-16T22:29
+updated: 2026-08-06T15:38
 title: Kỹ thuật xử lý
 ---
 - \-: 
@@ -15,10 +15,6 @@ title: Kỹ thuật xử lý
 - Bắt lỗi: 
     - [Bắt lỗi](./B%E1%BA%AFt%20l%E1%BB%97i/index.md)
     - [Data races are extremely hard to reproduce, debug and track down the root cause](./B%E1%BA%AFt%20l%E1%BB%97i/Data%20races%20are%20extremely%20hard%20to%20reproduce,%20debug%20and%20track%20down%20the%20root%20cause.md)
-    - [Debugger](./B%E1%BA%AFt%20l%E1%BB%97i/Debugger/index.md)
-    - [Dùng logpoint thay cho console.log() khi debug](./B%E1%BA%AFt%20l%E1%BB%97i/Debugger/D%C3%B9ng%20logpoint%20thay%20cho%20console.log()%20khi%20debug.md)
-    - [Không cần viết hàm quản lý debug khi đã có logpoint](./B%E1%BA%AFt%20l%E1%BB%97i/Debugger/Kh%C3%B4ng%20c%E1%BA%A7n%20vi%E1%BA%BFt%20h%C3%A0m%20qu%E1%BA%A3n%20l%C3%BD%20debug%20khi%20%C4%91%C3%A3%20c%C3%B3%20logpoint.md)
-    - [Launch vs attach](./B%E1%BA%AFt%20l%E1%BB%97i/Debugger/Launch%20vs%20attach.md)
     - [Dùng test khi muốn biết code chạy có đúng không. Dùng debug khi muốn biết code chạy sai chỗ nào](./B%E1%BA%AFt%20l%E1%BB%97i/D%C3%B9ng%20test%20khi%20mu%E1%BB%91n%20bi%E1%BA%BFt%20code%20ch%E1%BA%A1y%20c%C3%B3%20%C4%91%C3%BAng%20kh%C3%B4ng.%20D%C3%B9ng%20debug%20khi%20mu%E1%BB%91n%20bi%E1%BA%BFt%20code%20ch%E1%BA%A1y%20sai%20ch%E1%BB%97%20n%C3%A0o.md)
     - [Dễ xem kết quả các giá trị trong console debug hơn là ở Variables](./B%E1%BA%AFt%20l%E1%BB%97i/D%E1%BB%85%20xem%20k%E1%BA%BFt%20qu%E1%BA%A3%20c%C3%A1c%20gi%C3%A1%20tr%E1%BB%8B%20trong%20console%20debug%20h%C6%A1n%20l%C3%A0%20%E1%BB%9F%20Variables.md)
     - [Hãy xem lỗi như là dữ liệu](./B%E1%BA%AFt%20l%E1%BB%97i/H%C3%A3y%20xem%20l%E1%BB%97i%20nh%C6%B0%20l%C3%A0%20d%E1%BB%AF%20li%E1%BB%87u.md)
@@ -41,15 +37,15 @@ title: Kỹ thuật xử lý
 - Đánh giá chất lượng: 
     - [Cyclomatic complexity đánh giá độ phức tạp khi viết kiểm thử. Cognitive complexity đánh giá độ phức tạp trong việc đọc](./%C4%90%C3%A1nh%20gi%C3%A1%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng/Cyclomatic%20complexity%20%C4%91%C3%A1nh%20gi%C3%A1%20%C4%91%E1%BB%99%20ph%E1%BB%A9c%20t%E1%BA%A1p%20khi%20vi%E1%BA%BFt%20ki%E1%BB%83m%20th%E1%BB%AD.%20Cognitive%20complexity%20%C4%91%C3%A1nh%20gi%C3%A1%20%C4%91%E1%BB%99%20ph%E1%BB%A9c%20t%E1%BA%A1p%20trong%20vi%E1%BB%87c%20%C4%91%E1%BB%8Dc.md)
     - [Các lý do làm tăng cyclomatic complexity](./%C4%90%C3%A1nh%20gi%C3%A1%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng/C%C3%A1c%20l%C3%BD%20do%20l%C3%A0m%20t%C4%83ng%20cyclomatic%20complexity.md)
-    - [Mỗi đường cơ sở trong biểu đồ dòng tương ứng với một testcase](./%C4%90%C3%A1nh%20gi%C3%A1%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng/M%E1%BB%97i%20%C4%91%C6%B0%E1%BB%9Dng%20c%C6%A1%20s%E1%BB%9F%20trong%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20d%C3%B2ng%20t%C6%B0%C6%A1ng%20%E1%BB%A9ng%20v%E1%BB%9Bi%20m%E1%BB%99t%20testcase.md)
     - [Có những đoạn code có cùng cyclomatic complexity nhưng lại khác cognitive complexity](./%C4%90%C3%A1nh%20gi%C3%A1%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng/C%C3%B3%20nh%E1%BB%AFng%20%C4%91o%E1%BA%A1n%20code%20c%C3%B3%20c%C3%B9ng%20cyclomatic%20complexity%20nh%C6%B0ng%20l%E1%BA%A1i%20kh%C3%A1c%20cognitive%20complexity.md)
+    - [Mỗi đường cơ sở trong biểu đồ dòng tương ứng với một testcase](./%C4%90%C3%A1nh%20gi%C3%A1%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng/M%E1%BB%97i%20%C4%91%C6%B0%E1%BB%9Dng%20c%C6%A1%20s%E1%BB%9F%20trong%20bi%E1%BB%83u%20%C4%91%E1%BB%93%20d%C3%B2ng%20t%C6%B0%C6%A1ng%20%E1%BB%A9ng%20v%E1%BB%9Bi%20m%E1%BB%99t%20testcase.md)
     - [Thay vì dùng số nút và cạnh để tính độ phức tạp chu trình, hãy đếm số miền bị chia ra](./%C4%90%C3%A1nh%20gi%C3%A1%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng/Thay%20v%C3%AC%20d%C3%B9ng%20s%E1%BB%91%20n%C3%BAt%20v%C3%A0%20c%E1%BA%A1nh%20%C4%91%E1%BB%83%20t%C3%ADnh%20%C4%91%E1%BB%99%20ph%E1%BB%A9c%20t%E1%BA%A1p%20chu%20tr%C3%ACnh,%20h%C3%A3y%20%C4%91%E1%BA%BFm%20s%E1%BB%91%20mi%E1%BB%81n%20b%E1%BB%8B%20chia%20ra.md)
 
 - Đặt tên biến, viết comment: 
     - [Comment có thể cho thông tin sai, nhưng code thì không](./%C4%90%E1%BA%B7t%20t%C3%AAn%20bi%E1%BA%BFn,%20vi%E1%BA%BFt%20comment/Comment%20c%C3%B3%20th%E1%BB%83%20cho%20th%C3%B4ng%20tin%20sai,%20nh%C6%B0ng%20code%20th%C3%AC%20kh%C3%B4ng.md)
     - [Comment cũng có bug, nhưng không giống như code, không có chương trình nào hỗ trợ debug được nó](./%C4%90%E1%BA%B7t%20t%C3%AAn%20bi%E1%BA%BFn,%20vi%E1%BA%BFt%20comment/Comment%20c%C5%A9ng%20c%C3%B3%20bug,%20nh%C6%B0ng%20kh%C3%B4ng%20gi%E1%BB%91ng%20nh%C6%B0%20code,%20kh%C3%B4ng%20c%C3%B3%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20n%C3%A0o%20h%E1%BB%97%20tr%E1%BB%A3%20debug%20%C4%91%C6%B0%E1%BB%A3c%20n%C3%B3.md)
-    - [Hãy viết code sao cho mình khỏi comment](./%C4%90%E1%BA%B7t%20t%C3%AAn%20bi%E1%BA%BFn,%20vi%E1%BA%BFt%20comment/H%C3%A3y%20vi%E1%BA%BFt%20code%20sao%20cho%20m%C3%ACnh%20kh%E1%BB%8Fi%20comment.md)
     - [Comment khối dành cho việc giải thích ý tưởng của code, viết doc. Comment dòng để debug hoặc hướng dẫn editor đọc code của mình (directive)](./%C4%90%E1%BA%B7t%20t%C3%AAn%20bi%E1%BA%BFn,%20vi%E1%BA%BFt%20comment/Comment%20kh%E1%BB%91i%20d%C3%A0nh%20cho%20vi%E1%BB%87c%20gi%E1%BA%A3i%20th%C3%ADch%20%C3%BD%20t%C6%B0%E1%BB%9Fng%20c%E1%BB%A7a%20code,%20vi%E1%BA%BFt%20doc.%20Comment%20d%C3%B2ng%20%C4%91%E1%BB%83%20debug%20ho%E1%BA%B7c%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20editor%20%C4%91%E1%BB%8Dc%20code%20c%E1%BB%A7a%20m%C3%ACnh%20(directive).md)
+    - [Hãy viết code sao cho mình khỏi comment](./%C4%90%E1%BA%B7t%20t%C3%AAn%20bi%E1%BA%BFn,%20vi%E1%BA%BFt%20comment/H%C3%A3y%20vi%E1%BA%BFt%20code%20sao%20cho%20m%C3%ACnh%20kh%E1%BB%8Fi%20comment.md)
     - [Nên dùng comment để giải thích về thuật toán, các đánh đổi trong việc ra quyết định hoặc dẫn nguồn](./%C4%90%E1%BA%B7t%20t%C3%AAn%20bi%E1%BA%BFn,%20vi%E1%BA%BFt%20comment/N%C3%AAn%20d%C3%B9ng%20comment%20%C4%91%E1%BB%83%20gi%E1%BA%A3i%20th%C3%ADch%20v%E1%BB%81%20thu%E1%BA%ADt%20to%C3%A1n,%20c%C3%A1c%20%C4%91%C3%A1nh%20%C4%91%E1%BB%95i%20trong%20vi%E1%BB%87c%20ra%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20ho%E1%BA%B7c%20d%E1%BA%ABn%20ngu%E1%BB%93n.md)
     - [Quy ước đặt tên biến](./%C4%90%E1%BA%B7t%20t%C3%AAn%20bi%E1%BA%BFn,%20vi%E1%BA%BFt%20comment/Quy%20%C6%B0%E1%BB%9Bc%20%C4%91%E1%BA%B7t%20t%C3%AAn%20bi%E1%BA%BFn.md)
     - [Thay vì comment, hãy document. Thay vì giải thích cách code hoạt động, hãy hướng dẫn cách sử dụng nó](./%C4%90%E1%BA%B7t%20t%C3%AAn%20bi%E1%BA%BFn,%20vi%E1%BA%BFt%20comment/Thay%20v%C3%AC%20comment,%20h%C3%A3y%20document.%20Thay%20v%C3%AC%20gi%E1%BA%A3i%20th%C3%ADch%20c%C3%A1ch%20code%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng,%20h%C3%A3y%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20c%C3%A1ch%20s%E1%BB%AD%20d%E1%BB%A5ng%20n%C3%B3.md)

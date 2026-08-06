@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-31T14:56
+updated: 2026-08-06T15:36
 ---
 Khái niệm:: [Cổng (port)](./C%E1%BB%95ng%20(port).md)
 Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/6G14NrjekLQ?si=AjtXaTmaV0pMQFIu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

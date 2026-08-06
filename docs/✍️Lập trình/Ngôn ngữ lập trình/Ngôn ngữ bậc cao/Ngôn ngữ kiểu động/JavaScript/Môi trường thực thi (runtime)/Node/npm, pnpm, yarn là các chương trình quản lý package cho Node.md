@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-07-24T21:47
+updated: 2026-08-06T15:36
 ---
 Tương tự, [pip là chương trình quản lý package của Python](../../../Python/%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn,%20phi%C3%AAn%20b%E1%BA%A3n/pip%20l%C3%A0%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20qu%E1%BA%A3n%20l%C3%BD%20package%20c%E1%BB%A7a%20Python.md)
 [Node với Deno là những môi trường thực thi của JavaScript](../Node%20v%E1%BB%9Bi%20Deno%20l%C3%A0%20nh%E1%BB%AFng%20m%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi%20c%E1%BB%A7a%20JavaScript.md)
