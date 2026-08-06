@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-26T14:59
-updated: 2026-07-24T21:49
+updated: 2026-08-06T15:36
 alias: Các ký hiệu đặc biệt trong các ngôn ngữ khác nhau
 cssClass: wide-table
 ---
@@ -15,7 +15,7 @@ cssClass: wide-table
 | Dấu chéo `\`        |                                        |                                        |                                                           |                                   |              |                               |         |     |      |       |
 | Dấu chéo ngược `/`  |                                        |                                        |                                                           |                                   |              |                               |         |     |      |       |
 | Dấu sao `*`         |                                        |                                        |                                                           |                                   |              |                               |         |     |      |       |
-| Dấu a còng `@`      |                                        |                                        | Chèn nhiều tham số vào cùng lúc (splatting)               | [HEAD](../../%F0%9F%97%84%EF%B8%8FT%E1%BB%95%20ch%E1%BB%A9c%20d%E1%BB%AF%20li%E1%BB%87u/%C4%90%E1%BB%93ng%20b%E1%BB%99,%20sao%20l%C6%B0u/Git/Blob,%20tree,%20ref.%20B%C3%AAn%20trong%20Git/Ref/HEAD/HEAD%20l%C3%A0%20commit%20hi%E1%BB%87n%20t%E1%BA%A1i.md) |              | Scope                         |         |     |      |       |
+| Dấu a còng `@`      |                                        |                                        | Chèn nhiều tham số vào cùng lúc (splatting)               | [HEAD](../C%C3%B4ng%20c%E1%BB%A5/Git/Blob,%20tree,%20ref.%20B%C3%AAn%20trong%20Git/Ref/HEAD/HEAD%20l%C3%A0%20commit%20hi%E1%BB%87n%20t%E1%BA%A1i.md) |              | Scope                         |         |     |      |       |
 | Dấu thăng `#`       |                                        |                                        | `# comment`. Mẹo: dùng `##` ở trên function               |                                   | `#directive` |                               |         |     |      |       |
 | Dấu chấm phẩy `;`   |                                        |                                        |                                                           |                                   | `; comment`  |                               |         |     |      |       |
 | Dấu gạch đứng `\|`  |                                        |                                        | Pipe                                                      |                                   |              |                               |         |     |      |       |
