@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:31
-updated: 2026-07-29T21:55
+updated: 2026-08-06T15:36
 alias:
   - Môi trường thực thi đối với code cũng giống như nhạc cụ đối với nốt nhạc
   - Động cơ đối với code cũng giống như nhạc công đối với nốt nhạc
