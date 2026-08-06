@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-20T14:37
+updated: 2026-08-06T15:36
 created: 2026-07-19T22:39
 ---
 Khái niệm:: [Hồi quy](H%E1%BB%93i%20quy.md), [Vòng lặp](V%C3%B2ng%20l%E1%BA%B7p.md)
