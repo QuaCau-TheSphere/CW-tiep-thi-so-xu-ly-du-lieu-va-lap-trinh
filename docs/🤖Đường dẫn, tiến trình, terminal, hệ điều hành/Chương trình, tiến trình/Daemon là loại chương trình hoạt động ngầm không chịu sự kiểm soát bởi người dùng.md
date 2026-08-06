@@ -1,6 +1,6 @@
 ---
 share: true
-updated: 2026-07-31T15:10
+updated: 2026-08-06T15:36
 created: 2026-07-31T15:10
 ---
 **Daemon** là một loại chương trình trên các hệ điều hành **Like-Unix** hoạt động ẩn trong background không cần sự kiểm soát bởi user. **Daemon** sẽ được kích hoạt bởi một sự kiện hoặc điều kiện nào đó xảy ra cụ thể.
