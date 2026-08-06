@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-07-19T22:34
+updated: 2026-08-06T15:36
 ---
 [Thời điểm xét kiểu quyết định độ động tĩnh của nó. Cách kiểu được xét quyết định độ mạnh yếu của nó](./Th%E1%BB%9Di%20%C4%91i%E1%BB%83m%20x%C3%A9t%20ki%E1%BB%83u%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20%C4%91%E1%BB%99%20%C4%91%E1%BB%99ng%20t%C4%A9nh%20c%E1%BB%A7a%20n%C3%B3.%20C%C3%A1ch%20ki%E1%BB%83u%20%C4%91%C6%B0%E1%BB%A3c%20x%C3%A9t%20quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20%C4%91%E1%BB%99%20m%E1%BA%A1nh%20y%E1%BA%BFu%20c%E1%BB%A7a%20n%C3%B3.md)
 [Sự xuất hiện của language server giúp ta có thể bắt kiểu trước cả lúc biên dịch cho những ngôn ngữ chỉ bắt kiểu lúc chạy](./S%E1%BB%B1%20xu%E1%BA%A5t%20hi%E1%BB%87n%20c%E1%BB%A7a%20language%20server%20gi%C3%BAp%20ta%20c%C3%B3%20th%E1%BB%83%20b%E1%BA%AFt%20ki%E1%BB%83u%20tr%C6%B0%E1%BB%9Bc%20c%E1%BA%A3%20l%C3%BAc%20bi%C3%AAn%20d%E1%BB%8Bch%20cho%20nh%E1%BB%AFng%20ng%C3%B4n%20ng%E1%BB%AF%20ch%E1%BB%89%20b%E1%BA%AFt%20ki%E1%BB%83u%20l%C3%BAc%20ch%E1%BA%A1y.md)
