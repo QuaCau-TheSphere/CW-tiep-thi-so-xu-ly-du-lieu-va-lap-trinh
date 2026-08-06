@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-05-15T17:29
+updated: 2026-08-06T15:36
 ---
 Nguồn:: 
 [Mọi ngôn ngữ bậc cao đều là đường cú pháp của hợp ngữ](./M%E1%BB%8Di%20ng%C3%B4n%20ng%E1%BB%AF%20b%E1%BA%ADc%20cao%20%C4%91%E1%BB%81u%20l%C3%A0%20%C4%91%C6%B0%E1%BB%9Dng%20c%C3%BA%20ph%C3%A1p%20c%E1%BB%A7a%20h%E1%BB%A3p%20ng%E1%BB%AF.md)
