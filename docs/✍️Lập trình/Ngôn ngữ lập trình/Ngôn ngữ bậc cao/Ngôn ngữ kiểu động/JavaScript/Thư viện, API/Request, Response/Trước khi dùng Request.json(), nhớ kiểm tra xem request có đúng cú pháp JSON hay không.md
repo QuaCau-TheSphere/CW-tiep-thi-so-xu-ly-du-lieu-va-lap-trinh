@@ -4,7 +4,7 @@ created: 2023-10-30T14:29
 updated: 2026-07-24T21:47
 ---
 Khái niệm:: [JSON](JSON.md)
-[Serialize là cách duy nhất để truyền dữ liệu từ máy phục vụ tới máy khách và ngược lại](../../../../../../Web/Framework%20(Preact,%20Fresh)/Server/Route,%20handler/Serialize%20l%C3%A0%20c%C3%A1ch%20duy%20nh%E1%BA%A5t%20%C4%91%E1%BB%83%20truy%E1%BB%81n%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20m%C3%A1y%20ph%E1%BB%A5c%20v%E1%BB%A5%20t%E1%BB%9Bi%20m%C3%A1y%20kh%C3%A1ch%20v%C3%A0%20ng%C6%B0%E1%BB%A3c%20l%E1%BA%A1i.md). Cách serialize thông dụng là dùng `JSON.serialize()`. Nhưng sẽ có những lúc body không được tạo ra bằng cách đó, mà được tạo ra bằng việc nối chuỗi:
+[Serialize là cách duy nhất để truyền dữ liệu từ máy phục vụ tới máy khách và ngược lại](../../../../../../Th%E1%BB%A9%20%C4%91%C6%B0%E1%BB%A3c%20l%E1%BA%ADp%20tr%C3%ACnh/Web/Framework%20(Preact,%20Fresh)/Server/Route,%20handler/Serialize%20l%C3%A0%20c%C3%A1ch%20duy%20nh%E1%BA%A5t%20%C4%91%E1%BB%83%20truy%E1%BB%81n%20d%E1%BB%AF%20li%E1%BB%87u%20t%E1%BB%AB%20m%C3%A1y%20ph%E1%BB%A5c%20v%E1%BB%A5%20t%E1%BB%9Bi%20m%C3%A1y%20kh%C3%A1ch%20v%C3%A0%20ng%C6%B0%E1%BB%A3c%20l%E1%BA%A1i.md). Cách serialize thông dụng là dùng `JSON.serialize()`. Nhưng sẽ có những lúc body không được tạo ra bằng cách đó, mà được tạo ra bằng việc nối chuỗi:
 ```
 {"a": %x, "b": %y}
 ```
