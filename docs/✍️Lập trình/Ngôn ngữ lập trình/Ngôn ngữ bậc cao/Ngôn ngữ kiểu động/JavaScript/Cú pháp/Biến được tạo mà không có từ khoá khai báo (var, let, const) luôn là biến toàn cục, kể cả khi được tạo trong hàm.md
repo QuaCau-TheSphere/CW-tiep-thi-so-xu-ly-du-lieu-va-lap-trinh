@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-08-06T15:36
+updated: 2026-08-13T21:35
 ---
 ### Khác với [`var`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
 
@@ -79,3 +79,5 @@ myObject = null; // Error
 ```
 
 Nguồn:: [Tham chiếu và ghi chú ngắn về ES6, ESNext](https://viblo.asia/p/tham-chieu-va-ghi-chu-ngan-ve-es6-esnext-Do7544PQ5M6)
+
+[Có thể dùng const cho một biến đã được dùng const ở scope ngoài. Có thể gọi var cho một biến chưa được gọi var trong cùng scope mà chỉ được gọi ở scope nhỏ hơn](./C%C3%B3%20th%E1%BB%83%20d%C3%B9ng%20const%20cho%20m%E1%BB%99t%20bi%E1%BA%BFn%20%C4%91%C3%A3%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng%20const%20%E1%BB%9F%20scope%20ngo%C3%A0i.%20C%C3%B3%20th%E1%BB%83%20g%E1%BB%8Di%20var%20cho%20m%E1%BB%99t%20bi%E1%BA%BFn%20ch%C6%B0a%20%C4%91%C6%B0%E1%BB%A3c%20g%E1%BB%8Di%20var%20trong%20c%C3%B9ng%20scope%20m%C3%A0%20ch%E1%BB%89%20%C4%91%C6%B0%E1%BB%A3c%20g%E1%BB%8Di%20%E1%BB%9F%20scope%20nh%E1%BB%8F%20h%C6%A1n.md)

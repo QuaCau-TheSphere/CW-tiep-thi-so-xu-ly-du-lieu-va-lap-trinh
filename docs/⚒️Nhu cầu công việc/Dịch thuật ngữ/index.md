@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-08-06T15:36
+updated: 2026-08-14T15:21
 title: Các vấn đề về dịch thuật ngữ
 alias: dịch tiếng Anh
 ---
@@ -121,7 +121,7 @@ Ví dụ:
 ### Người dùng Tiếng Anh phải chịu đựng sự mơ hồ do đa nghĩa. Tiếng Việt tội gì phải thế?
 - `comment`: comment là phần chữ được bỏ qua trong code và thường được dùng để giải thích, hay là đưa ra đánh giá, bình luận nói chung?
 - `server`, `client`: [Trong những bối cảnh khác nhau thì server và client có những nghĩa khác nhau](./Trong%20nh%E1%BB%AFng%20b%E1%BB%91i%20c%E1%BA%A3nh%20kh%C3%A1c%20nhau%20th%C3%AC%20server%20v%C3%A0%20client%20c%C3%B3%20nh%E1%BB%AFng%20ngh%C4%A9a%20kh%C3%A1c%20nhau.md)
-
+- Machine ở Fly chính là VM
 ## Dịch được
 - `raw`: thô
 - `sum`: tổng
