@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-08-06T15:36
+updated: 2026-08-13T22:12
 ---
 Trong TypeScript, nếu ta muốn khai báo kiểu cho vật thể, ta có thể dùng từ khoá  `type` hoặc `interface`. `type` làm được gì thì `interface` cũng làm được như thế. Vậy thì khi nào nên dùng `type` và khi nào nên dùng `interface`?
 
@@ -33,3 +33,4 @@ Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/wa
 Nguồn:: [TypeScript: Documentation - TypeScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
 [Dùng lớp khi ta có logic nghiệp vụ thực sự cần được thực thi. Dùng giao diện để tạo ràng buộc kiểu cho biến](../../../../../Kh%C3%A1i%20ni%E1%BB%87m%20c%C6%A1%20b%E1%BA%A3n/H%E1%BB%87%20h%C3%ACnh%20l%E1%BA%ADp%20tr%C3%ACnh/L%E1%BA%ADp%20tr%C3%ACnh%20h%C6%B0%E1%BB%9Bng%20v%E1%BA%ADt%20th%E1%BB%83/V%E1%BA%ADt%20th%E1%BB%83,%20l%E1%BB%9Bp/D%C3%B9ng%20l%E1%BB%9Bp%20khi%20ta%20c%C3%B3%20logic%20nghi%E1%BB%87p%20v%E1%BB%A5%20th%E1%BB%B1c%20s%E1%BB%B1%20c%E1%BA%A7n%20%C4%91%C6%B0%E1%BB%A3c%20th%E1%BB%B1c%20thi.%20D%C3%B9ng%20giao%20di%E1%BB%87n%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20r%C3%A0ng%20bu%E1%BB%99c%20ki%E1%BB%83u%20cho%20bi%E1%BA%BFn.md)
+[Việc chồng giao diện hữu ích khi cần mở rộng giao diện của thư viện](./Vi%E1%BB%87c%20ch%E1%BB%93ng%20giao%20di%E1%BB%87n%20h%E1%BB%AFu%20%C3%ADch%20khi%20c%E1%BA%A7n%20m%E1%BB%9F%20r%E1%BB%99ng%20giao%20di%E1%BB%87n%20c%E1%BB%A7a%20th%C6%B0%20vi%E1%BB%87n.md)
