@@ -1,9 +1,0 @@
----
-share: true
-created: 2023-10-30T14:29
-updated: 2026-08-06T15:36
----
-Khái niệm:: 
-
-[Site isolation - Wikipedia](https://en.wikipedia.org/wiki/Site_isolation)
-Nguồn:: <iframe width="560" height="315" src="https://www.youtube.com/embed/4fWS9P_7hdo?si=v9_9GZYA9OCsTfdK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
