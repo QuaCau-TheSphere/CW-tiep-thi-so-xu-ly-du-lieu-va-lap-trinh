@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-08-06T15:36
+updated: 2026-10-02T17:33
 ---
 Khái niệm:: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hggcf2alWa8?si=EU89fKNc6bhzBzL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
