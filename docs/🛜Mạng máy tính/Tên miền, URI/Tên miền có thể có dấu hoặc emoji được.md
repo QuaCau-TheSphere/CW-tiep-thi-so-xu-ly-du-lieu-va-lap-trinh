@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-08-06T15:36
+updated: 2026-08-28T14:58
 blog: true
 ---
 # Tên miền có dấu?
@@ -35,8 +35,8 @@ Vẫn còn những chỗ không hỗ trợ triệt để ký tự có dấu. Cá
 
 Ai sử dụng tên miền có dấu với đuôi .vn thì sẽ được miễn phí 20k. Thông tin chi tiết xem tại [Trung Tâm Internet Việt Nam (VNNIC)](https://vnnic.vn/tenmientiengviet), Bộ Thông tin và Truyền thông.
 
-[Sự khác biệt giữa Windows và Android, Mac trong tên file](../../%F0%9F%A4%96%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn,%20ti%E1%BA%BFn%20tr%C3%ACnh,%20terminal,%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh/%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn,%20t%C3%AAn%20t%E1%BA%ADp%20tin/S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20Windows%20v%C3%A0%20Android,%20Mac%20trong%20t%C3%AAn%20file.md)
-[Cách các đường dẫn ở những nơi khác nhau xử lý dấu cách và ký tự phi ASCII](../../%F0%9F%A4%96%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn,%20ti%E1%BA%BFn%20tr%C3%ACnh,%20terminal,%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh/%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn,%20t%C3%AAn%20t%E1%BA%ADp%20tin/C%C3%A1ch%20c%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn%20%E1%BB%9F%20nh%E1%BB%AFng%20n%C6%A1i%20kh%C3%A1c%20nhau%20x%E1%BB%AD%20l%C3%BD%20d%E1%BA%A5u%20c%C3%A1ch%20v%C3%A0%20k%C3%BD%20t%E1%BB%B1%20phi%20ASCII.md)
+[Sự khác biệt giữa Windows và Android, Mac trong tên file](../../%F0%9F%A4%96%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn,%20ti%E1%BA%BFn%20tr%C3%ACnh,%20terminal,%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh/Nguy%C3%AAn%20l%C3%BD%20chung/%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn,%20t%C3%AAn%20t%E1%BA%ADp%20tin/S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20Windows%20v%C3%A0%20Android,%20Mac%20trong%20t%C3%AAn%20file.md)
+[Cách các đường dẫn ở những nơi khác nhau xử lý dấu cách và ký tự phi ASCII](../../%F0%9F%A4%96%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn,%20ti%E1%BA%BFn%20tr%C3%ACnh,%20terminal,%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh/Nguy%C3%AAn%20l%C3%BD%20chung/%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn,%20t%C3%AAn%20t%E1%BA%ADp%20tin/C%C3%A1ch%20c%C3%A1c%20%C4%91%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn%20%E1%BB%9F%20nh%E1%BB%AFng%20n%C6%A1i%20kh%C3%A1c%20nhau%20x%E1%BB%AD%20l%C3%BD%20d%E1%BA%A5u%20c%C3%A1ch%20v%C3%A0%20k%C3%BD%20t%E1%BB%B1%20phi%20ASCII.md)
 
 ## Ừ thì nhược điểm vậy đó, rồi thì sao?
 Thì nếu bạn nhắm nội dung của mình chất lượng đủ để vượt qua được những nhược điểm đó thì cứ việc dùng. Bạn phải xác định là bạn đang tạo ra một thói quen mới cho độc giả, và việc này sẽ cần nhiều sự kiên trì và phản ứng ban đầu. Đây cũng chính là tinh thần "dám đối diện nỗi sợ", "dám yên tâm rằng mọi chuyện rồi nhất định sẽ tốt đẹp" mà Quả Cầu đang muốn lan toả.
