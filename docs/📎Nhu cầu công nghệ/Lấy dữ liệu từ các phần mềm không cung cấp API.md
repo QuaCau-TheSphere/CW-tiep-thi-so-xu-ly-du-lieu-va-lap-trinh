@@ -1,17 +1,19 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-10-09T16:35
+updated: 2026-10-10T13:28
 ---
 ## Phân tích
-Dù phần mềm không cho API thì vẫn phải đưa dữ liệu đến giao diện người dùng. Ngoài ra, một số loại phần mềm như phần mềm chat cũng cần đưa dữ liệu đến trung tâm thông báo của trình duyệt, hệ điều hành. Ta có thể lấy dữ liệu gián tiếp tại những kênh đó.
+Dù phần mềm không cho API thì vẫn phải đưa dữ liệu đến giao diện người dùng. Ngoài ra, một số loại phần mềm như phần mềm nhắn tin cũng cần thông báo cho trình duyệt, hệ điều hành, để trình duyệt, hệ điều hành thông báo cho người dùng. Ta có thể lấy dữ liệu gián tiếp tại những nơi đó.
 
 Lấy được trong giao diện người dùng thì là tốt nhất. Về bản chất thì cũng như cào web thôi, chỉ là thay vì cào web thì giờ là cào app. Nhưng khác biệt ở chỗ với web thì ta truy cập qua trình duyệt, còn với app thì hệ điều hành trực tiếp chạy. Nên tùy vào hệ điều hành mà có làm được hay không. Trên điện thoại chắc chỉ có Android mới làm được, mà cũng không chắc là làm tốt. Nếu nền tảng cung cấp phiên bản web thì chắc sẽ dễ hơn. Còn không thì thử giả lập xem có được không.
 
-## Giải pháp đề xuất
-### Cách 1: chuyển tiếp thông báo nhận được sang một nơi khác
-Cách dưới đây chỉ dùng được cho Android.
+Với cách lấy dữ liệu từ thông báo, ta có thể yêu cầu trình duyệt, hệ điều hành chuyển tiếp thông báo đó sang một nơi ta quản lý, và đó là cách mà giải pháp ở dưới áp dụng. Nhưng hay hơn là trở thành trung tâm thông báo của trình duyệt, hệ điều hành luôn. 
 
+Trong trường hợp tất cả các nơi ta muốn lấy đều có phiên bản web, thì ta có thể tự tạo riêng một trình duyệt để chuyên môn hóa việc lấy dữ liệu từ các trang muốn lấy. 
+Ngân hàng thì thông báo qua email, SMS
+
+## Giải pháp hiện đang có: chuyển tiếp thông báo nhận được trên Android sang một nơi khác
 Các bước cài đặt:
 1. Cài [Tasker](../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/M%C3%B4i%20tr%C6%B0%E1%BB%9Dng%20th%E1%BB%B1c%20thi/Android/Tasker.md) trên điện thoại Android. Cấp hết các quyền cần thiết
 2. Triển khai [chương trình này](https://github.com/QuaCau-TheSphere/sound/) lên một máy phục vụ (server). Do nó được viết bằng Deno nên dùng Deno Deploy thì hợp nhất. Xem [demo](https://anxin.quacau.deno.net/)
@@ -20,7 +22,6 @@ Các bước cài đặt:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=sG37APnlmGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Cách 2: tạo một trình duyệt riêng chỉ để quản lý các nền tảng chat
-Nhược điểm là chỉ dùng được cho nền tảng nào có phiên bản dành cho web
-
-Nếu bạn muốn hoàn thiện chương trình này thì hãy cho biết những thứ bạn có thể đóng góp.
+Nhược điểm của phương pháp này: 
+- Chỉ dùng được trên Android
+- Phải cho app quyền thông báo 
