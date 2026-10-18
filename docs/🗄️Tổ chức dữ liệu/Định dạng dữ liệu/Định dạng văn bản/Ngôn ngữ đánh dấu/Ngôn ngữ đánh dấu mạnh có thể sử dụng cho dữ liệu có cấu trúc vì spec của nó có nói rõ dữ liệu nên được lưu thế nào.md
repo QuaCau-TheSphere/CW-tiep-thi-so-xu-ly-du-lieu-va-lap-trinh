@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-08-06T15:36
+updated: 2026-10-18T15:01
 ---
 [List of types of XML schemas - Wikipedia](https://en.wikipedia.org/wiki/List_of_types_of_XML_schemas)
 [List of XML markup languages - Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_markup_languages#H)
@@ -11,3 +11,6 @@ updated: 2026-08-06T15:36
 - If I want to use markdown for data I just need to write a parser/processor. Having a spec is good, but not necessary. This is what dataview does
 - If I want to have intellisense features on my editor (syntax-based autocomplete, type guarding, refactoring, etc.), I need to write my own LSP via a plugin. Again having a spec is good, but not necessary
 - If I have a spec, I have a flavor
+
+
+[Sẽ không có bug nếu không có spec](../../../../%F0%9F%94%A0K%C3%BD%20t%E1%BB%B1,%20v%C4%83n%20b%E1%BA%A3n,%20ng%C3%B4n%20ng%E1%BB%AF%20%C4%91%C3%A1nh%20d%E1%BA%A5u/S%E1%BA%BD%20kh%C3%B4ng%20c%C3%B3%20bug%20n%E1%BA%BFu%20kh%C3%B4ng%20c%C3%B3%20spec.md)
