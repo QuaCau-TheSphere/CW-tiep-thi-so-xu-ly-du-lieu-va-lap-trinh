@@ -1,27 +1,27 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-10-17T21:47
+updated: 2026-10-18T15:10
 alias:
   - markdown, URL, domain xử lý
 ---
-|                             | Cho dùng dấu cách | Ký tự `%` | Các ký tự phi ASCII |
-| --------------------------- | ----------------- | --------- | ------------------- |
-| Markdown                    | ❌                |           | ✔                   |
-| YAML                        | ❌                |           | ✔                   |
-| URL                         | ✔                 | ❌        | ✔                   |
-| Domain                      | ✔                 |           | ✔                   |
-| Thuộc tính `src` trong HMTL | ✔                 |           | ✔                   |
-| Query                       | ❌                |           | ✔                   |
-| Windows path                | ✔                 | ✔         | ✔                   |
-| Linux path                  | ✔                 |           | ✔                   |
-| Mac path                    | ✔                 |           | ✔                   |
-| Docker                      | ❌                |           | ❌                    |
+| Spec                        | Dấu cách | Ký tự `%` | Các ký tự phi ASCII |
+| --------------------------- | -------- | --------- | ------------------- |
+| Markdown                    | ❌       |           | ✔                   |
+| YAML                        | ❌       |           | ✔                   |
+| URL                         | ✔        | ❌        | ✔                   |
+| Domain                      |          |           | ✔                   |
+| Thuộc tính `src` trong HMTL | ✔        |           | ✔                   |
+| Query                       | ❌       |           | ✔                   |
+| Windows path                | ✔        | ✔         | ✔                   |
+| Linux path                  | ✔        |           | ✔                   |
+| Mac path                    | ✔        |           | ✔                   |
+| Docker                      | ❌       |           | ❌                  |
 
 Nên tránh dùng ký tự `%` trong tên tập tin, nhất là nếu sau này nó sẽ được dùng để làm URI. Vì dấu này chính là dấu để encode, nên không như những ký tự khác, khi decode phải nó sẽ gặp lỗi.
 [What is the difference between decodeURIComponent and decodeURI?](https://stackoverflow.com/q/747641/3416774)
 [Sự khác biệt giữa Windows và Android, Mac trong tên file](./S%E1%BB%B1%20kh%C3%A1c%20bi%E1%BB%87t%20gi%E1%BB%AFa%20Windows%20v%C3%A0%20Android,%20Mac%20trong%20t%C3%AAn%20file.md)
-
+[Sẽ không có bug nếu không có spec](../../../%F0%9F%94%A0K%C3%BD%20t%E1%BB%B1,%20v%C4%83n%20b%E1%BA%A3n,%20ng%C3%B4n%20ng%E1%BB%AF%20%C4%91%C3%A1nh%20d%E1%BA%A5u/S%E1%BA%BD%20kh%C3%B4ng%20c%C3%B3%20bug%20n%E1%BA%BFu%20kh%C3%B4ng%20c%C3%B3%20spec.md)
 [Các ký tự ASCII có 1 điểm mã](../../../%F0%9F%94%A0K%C3%BD%20t%E1%BB%B1,%20v%C4%83n%20b%E1%BA%A3n,%20ng%C3%B4n%20ng%E1%BB%AF%20%C4%91%C3%A1nh%20d%E1%BA%A5u/Ti%E1%BA%BFng%20Vi%E1%BB%87t,%20Unicode,%20emoji/L%C3%BD%20thuy%E1%BA%BFt%20Unicode/%C4%90i%E1%BB%83m%20m%C3%A3/C%C3%A1c%20k%C3%BD%20t%E1%BB%B1%20ASCII%20c%C3%B3%201%20%C4%91i%E1%BB%83m%20m%C3%A3.md)
 [decodeURI không giải mã được dấu %](../../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/Ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BA%ADp%20tr%C3%ACnh/Ng%C3%B4n%20ng%E1%BB%AF%20b%E1%BA%ADc%20cao/Ng%C3%B4n%20ng%E1%BB%AF%20ki%E1%BB%83u%20%C4%91%E1%BB%99ng/JavaScript/C%C3%BA%20ph%C3%A1p/S%E1%BB%91,%20chu%E1%BB%97i,%20URI/URI/decodeURI%20kh%C3%B4ng%20gi%E1%BA%A3i%20m%C3%A3%20%C4%91%C6%B0%E1%BB%A3c%20d%E1%BA%A5u%20%EF%BC%85.md)
 [Mọi URL đều là URI](../../../%F0%9F%9B%9CM%E1%BA%A1ng%20m%C3%A1y%20t%C3%ADnh/T%C3%AAn%20mi%E1%BB%81n,%20URI/M%E1%BB%8Di%20URL%20%C4%91%E1%BB%81u%20l%C3%A0%20URI.md)
