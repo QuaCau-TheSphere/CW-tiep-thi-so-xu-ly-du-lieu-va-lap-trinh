@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-27T22:04
-updated: 2026-08-06T15:36
+updated: 2026-11-06T13:51
 tags:
   - fragment
   - fra
@@ -112,5 +112,5 @@ _This article is part of Behind the Code, the media for developers, by developer
 
 Nguồn:: [How The URL Was Built](https://www.welcometothejungle.com/en/articles/btc-url-internet)
 [URL as UI](https://www.nngroup.com/articles/url-as-ui/)
-Khái niệm:: [Cổng (port)](./C%E1%BB%95ng%20(port).md))
+Khái niệm:: [Cổng (port)](../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/C%E1%BB%95ng%20(port).md)
 [Origin là sự kết hợp của protocol, hostname và cổng](./Origin%20l%C3%A0%20s%E1%BB%B1%20k%E1%BA%BFt%20h%E1%BB%A3p%20c%E1%BB%A7a%20protocol,%20hostname%20v%C3%A0%20c%E1%BB%95ng.md)

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-30T14:29
-updated: 2026-10-18T15:10
+updated: 2026-11-06T13:54
 alias:
   - markdown, URL, domain xử lý
 ---
@@ -25,4 +25,7 @@ Nên tránh dùng ký tự `%` trong tên tập tin, nhất là nếu sau này n
 [Các ký tự ASCII có 1 điểm mã](../../../%F0%9F%94%A0K%C3%BD%20t%E1%BB%B1,%20v%C4%83n%20b%E1%BA%A3n,%20ng%C3%B4n%20ng%E1%BB%AF%20%C4%91%C3%A1nh%20d%E1%BA%A5u/Ti%E1%BA%BFng%20Vi%E1%BB%87t,%20Unicode,%20emoji/L%C3%BD%20thuy%E1%BA%BFt%20Unicode/%C4%90i%E1%BB%83m%20m%C3%A3/C%C3%A1c%20k%C3%BD%20t%E1%BB%B1%20ASCII%20c%C3%B3%201%20%C4%91i%E1%BB%83m%20m%C3%A3.md)
 [decodeURI không giải mã được dấu %](../../../%E2%9C%8D%EF%B8%8FL%E1%BA%ADp%20tr%C3%ACnh/Ng%C3%B4n%20ng%E1%BB%AF%20l%E1%BA%ADp%20tr%C3%ACnh/Ng%C3%B4n%20ng%E1%BB%AF%20b%E1%BA%ADc%20cao/Ng%C3%B4n%20ng%E1%BB%AF%20ki%E1%BB%83u%20%C4%91%E1%BB%99ng/JavaScript/C%C3%BA%20ph%C3%A1p/S%E1%BB%91,%20chu%E1%BB%97i,%20URI/URI/decodeURI%20kh%C3%B4ng%20gi%E1%BA%A3i%20m%C3%A3%20%C4%91%C6%B0%E1%BB%A3c%20d%E1%BA%A5u%20%EF%BC%85.md)
 [Mọi URL đều là URI](../../../%F0%9F%9B%9CM%E1%BA%A1ng%20m%C3%A1y%20t%C3%ADnh/T%C3%AAn%20mi%E1%BB%81n,%20URI/M%E1%BB%8Di%20URL%20%C4%91%E1%BB%81u%20l%C3%A0%20URI.md)
+[Hệ điều hành trông như có vẻ dùng được đường dẫn Unicode, nhưng thực ra chúng chỉ là ASCII](./H%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh%20tr%C3%B4ng%20nh%C6%B0%20c%C3%B3%20v%E1%BA%BB%20d%C3%B9ng%20%C4%91%C6%B0%E1%BB%A3c%20%C4%91%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn%20Unicode,%20nh%C6%B0ng%20th%E1%BB%B1c%20ra%20ch%C3%BAng%20ch%E1%BB%89%20l%C3%A0%20ASCII.md)
+Khái niệm:: [ASCII](../../../%CE%9E%20Kh%C3%A1i%20ni%E1%BB%87m/ASCII.md)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=0fw5Cyh21TE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-10-24T18:26
-updated: 2026-10-18T16:55
+updated: 2026-11-06T14:14
 blog: true
 slug: tênmiềncódấu
 description: saomàphảilàmkhónhauđếnvậy.com
@@ -20,7 +20,7 @@ Ngoài ra, nếu bạn mua tên miền có dấu với đuôi `.vn` thì sẽ ch
 - Không phải spec nào cũng hỗ trợ tốt ký tự có dấu
 
 ### Khó gõ trực tiếp
-Quả đúng là muốn gõ ra đúng `quảcầu.cc` với bàn phím telex thì cũng hơi rắc rối, vì khi các chữ dính liền với nhau bộ gõ tiếng Việt sẽ xem là một chữ, và sẽ chỉ bỏ dấu cho nguyên âm đầu tiên. Cách thường được dùng để khắc phục là phải gõ như thể có dấu cách như bình thường (`quả cầu.cc`), xong dùng phím mũi tên để xóa hết dấu cách. Với những ai dùng bàn phím điện thoại thì việc bấm chọn dấu cách còn mất công hơn.
+Quả đúng là muốn gõ ra đúng `quảcầu.cc` với bàn phím telex thì cũng hơi rắc rối, vì khi các chữ dính liền với nhau bộ gõ tiếng Việt sẽ xem là một chữ, và sẽ chỉ bỏ dấu cho nguyên âm đầu tiên. Cách thường được dùng để khắc phục là phải gõ như thể có dấu cách như bình thường (`quả cầu.cc`), xong dùng phím mũi tên để xóa hết dấu cách. Với những ai dùng bàn phím điện thoại thì việc bấm chọn dấu cách còn mất công hơn. Nếu như tên miền là `saomàphảilàmkhónhauđếnvậy.com` thì đúng là quá là làm khó nhau.
 
 Đây là những cách làm nhanh hơn:
 - Google `quả cầu.cc` rồi bấm vào liên kết
@@ -38,10 +38,10 @@ Việc này có thể được khắc phục bằng cách mua một tên miền 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=Mfvw43BbHy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Không phải spec nào cũng hỗ trợ tốt ký tự có dấu
-[Mặc dù trong đường dẫn được phép có ký tự Unicode, các spec khác nhau sẽ có những cách chấp nhận khác nhau](../../%F0%9F%A4%96%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn,%20ti%E1%BA%BFn%20tr%C3%ACnh,%20terminal,%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh/Nguy%C3%AAn%20l%C3%BD%20chung/%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn,%20t%C3%AAn%20t%E1%BA%ADp%20tin/M%E1%BA%B7c%20d%C3%B9%20trong%20%C4%91%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A9p%20c%C3%B3%20k%C3%BD%20t%E1%BB%B1%20Unicode,%20c%C3%A1c%20spec%20kh%C3%A1c%20nhau%20s%E1%BA%BD%20c%C3%B3%20nh%E1%BB%AFng%20c%C3%A1ch%20ch%E1%BA%A5p%20nh%E1%BA%ADn%20kh%C3%A1c%20nhau.md). Nếu vẫn cố dùng thì phải cẩn thận, nếu không sẽ gặp phải những bug phiền phức. Thậm chí, có những nơi không cho phép dùng các ký tự này luôn. GitHub, Docker là những ví dụ như vậy. Với những chỗ này thì đúng là chịu, bắt buộc phải dùng ký tự ASCII.
+[Mặc dù trong đường dẫn được phép có ký tự Unicode, các spec khác nhau sẽ có những cách chấp nhận khác nhau](../../%F0%9F%A4%96%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn,%20ti%E1%BA%BFn%20tr%C3%ACnh,%20terminal,%20h%E1%BB%87%20%C4%91i%E1%BB%81u%20h%C3%A0nh/Nguy%C3%AAn%20l%C3%BD%20chung/%C4%90%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn,%20t%C3%AAn%20t%E1%BA%ADp%20tin/M%E1%BA%B7c%20d%C3%B9%20trong%20%C4%91%C6%B0%E1%BB%9Dng%20d%E1%BA%ABn%20%C4%91%C6%B0%E1%BB%A3c%20ph%C3%A9p%20c%C3%B3%20k%C3%BD%20t%E1%BB%B1%20Unicode,%20c%C3%A1c%20spec%20kh%C3%A1c%20nhau%20s%E1%BA%BD%20c%C3%B3%20nh%E1%BB%AFng%20c%C3%A1ch%20ch%E1%BA%A5p%20nh%E1%BA%ADn%20kh%C3%A1c%20nhau.md). Nếu vẫn cố dùng thì phải cẩn thận, nếu không sẽ gặp phải những bug phiền phức. Ví dụ như [VirusTotal sẽ nghĩ tên miền có dấu là có virus nên không cấp chứng chỉ](./VirusTotal%20s%E1%BA%BD%20ngh%C4%A9%20t%C3%AAn%20mi%E1%BB%81n%20c%C3%B3%20d%E1%BA%A5u%20l%C3%A0%20c%C3%B3%20virus%20n%C3%AAn%20kh%C3%B4ng%20c%E1%BA%A5p%20ch%E1%BB%A9ng%20ch%E1%BB%89.md). Thậm chí, có những nơi không cho phép dùng các ký tự này luôn. GitHub, Docker là những ví dụ như vậy. Với những chỗ này thì đúng là chịu, bắt buộc phải dùng ký tự ASCII.
 
 ## Tại sao các nhược điểm này không làm chùn chân bọn mình?
-Vấn đề về spec là vấn đề về trải nghiệm người lập trình. Bọn mình nghĩ là nếu kỹ thuật được sinh ra là để phục vụ người dùng, thì tại sao không thể cố thêm một tí? 
+Vấn đề về spec là vấn đề về trải nghiệm người lập trình. Bọn mình nghĩ là nếu kỹ thuật được sinh ra là để phục vụ người dùng, thì tại sao không thể cố thêm một tí? Chẳng hạn, [[decodeURI không giải mã được dấu %| dấu `%` cũng gây ra nhiều rắc rối không kém]], nhưng giữ được thì vẫn nên giữ.
 
 Vấn đề về việc khó gõ hoặc punycode nhìn quái dị thì là vấn đề về trải nghiệm người dùng. Mà cái gì không quen thì từ từ rồi cũng sẽ quen được thôi. Nếu đã xác định là đang tạo ra một thói quen mới cho người dùng thì sẽ cần nhiều sự kiên trì và chấp nhận những phản ứng ban đầu. Miễn là sản phẩm có chất lượng thì họ rồi sẽ chấp nhận được chúng. Và bọn mình tin rằng những gì bọn mình tạo ra là có chất lượng.
 
